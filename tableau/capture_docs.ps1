@@ -11,10 +11,12 @@ function Capture($twbx, $name) {
     throw "$name still shows editor outlines after 4 tries"
 }
 Capture (Join-Path $root "tableau\HR Analytics Workbench.twbx") "01-workbench"
-Capture (Join-Path $root "tableau\tests\F1 department.twbx") "02-filtered"
+$preset = Join-Path $tmp "F1 department.twbx"   # filtered copy, built fresh (test workbooks are not kept)
+& (Join-Path $root ".venv\Scripts\python.exe") (Join-Path $PSScriptRoot "build_twb.py") --out $preset --preset "Department=Data and Analytics" | Out-Null
+Capture $preset "02-filtered"
 Add-Type -AssemblyName System.Drawing
 $b = [System.Drawing.Bitmap]::FromFile((Join-Path $img "01-workbench.png"))
-foreach ($s in @(@("03-headline", 0, 172), @("04-row-one", 172, 242), @("05-row-two", 414, 236), @("06-at-risk", 650, 250))) {
+foreach ($s in @(@("03-headline", 0, 180), @("04-row-one", 180, 235), @("05-row-two", 415, 235), @("06-at-risk", 650, 250))) {
     $c = $b.Clone((New-Object System.Drawing.Rectangle 0, $s[1], $b.Width, $s[2]), $b.PixelFormat)
     $c.Save((Join-Path $img "$($s[0]).png"), [System.Drawing.Imaging.ImageFormat]::Png); $c.Dispose()
 }

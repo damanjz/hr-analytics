@@ -4,3 +4,4 @@ data/hr.duckdb
 .venv/
 __pycache__/
 dist/
+~*.twbr

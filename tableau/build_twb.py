@@ -502,7 +502,7 @@ def sheets():
               rows=[("emp_id", "None"), ("department", "None"), ("level", "None"), ("drivers", "None")],
               text=[("risk_score", "Sum")], extra_filters=[("risk_band", "High")],
               sort=(("emp_id", "None"), ("risk_score", "Sum"), "DESC"),
-              widths=[("emp_id", "None", 90), ("department", "None", 180), ("level", "None", 60), ("drivers", "None", 520)]),
+              widths=[("emp_id", "None", 90), ("department", "None", 180), ("level", "None", 60), ("drivers", "None", 480)]),
     ]
 
 
@@ -530,6 +530,21 @@ ZONE_STYLE = """            <zone-style>
               <format attr='border-width' value='0' />
               <format attr='margin' value='4' />
             </zone-style>"""
+
+# Outer gutter of the whole dashboard. Tiled zones stretch to fill their container, so gaps written into the
+# zone coordinates are absorbed; the gutter has to be the root container's margin (Tableau's default is 8).
+# 20 here plus each zone's own 4 puts content 24 px from the canvas edge.
+GUTTER = 20
+ROOT_STYLE = f"""          <zone-style>
+            <format attr='border-color' value='#000000' />
+            <format attr='border-style' value='none' />
+            <format attr='border-width' value='0' />
+            <format attr='margin' value='4' />
+            <format attr='margin-top' value='{GUTTER}' />
+            <format attr='margin-right' value='{GUTTER}' />
+            <format attr='margin-bottom' value='{GUTTER}' />
+            <format attr='margin-left' value='{GUTTER}' />
+          </zone-style>"""
 
 
 def sheet_zone(zid, box, sheet):
@@ -594,6 +609,7 @@ def dashboard():
       <zones>
         <zone h='100000' id='1' type-v2='layout-basic' w='100000' x='0' y='0'>
 {chr(10).join(zones)}
+{ROOT_STYLE}
         </zone>
       </zones>
       {simple_id('dashboard', 'Workbench')}

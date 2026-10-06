@@ -15,9 +15,12 @@ $crop = $bmp.Clone($rect, $bmp.PixelFormat); $bmp.Dispose()
 New-Item -ItemType Directory -Force (Split-Path $Out) | Out-Null
 $crop.Save($Out, [System.Drawing.Imaging.ImageFormat]::Png)
 "cropped $($rect.Width) x $($rect.Height) at ($left, $top) -> $Out"
-# Tableau sometimes draws its editor zone outlines (dashed boxes) into the capture. The canvas side edges are
-# pure paper in a clean capture, so any other pixel there means outlines: report it with exit code 2.
+# Tableau sometimes draws its editor zone outlines (dashed boxes) into the capture. They sit at the zone edges,
+# inside the dashboard's 24 px gutter, which is pure paper in a clean capture (content starts at x 24). Any
+# other pixel in the gutter band on either side means outlines: report it with exit code 2.
 $marks = 0
-foreach ($y in 0..($crop.Height - 1)) { foreach ($x in @(2, ($crop.Width - 4))) { if (-not (IsPaper $crop.GetPixel($x, $y))) { $marks++ } } }
+$band = @(2..22) + @(($crop.Width - 23)..($crop.Width - 3))
+foreach ($y in 0..($crop.Height - 1)) { foreach ($x in $band) { if (-not (IsPaper $crop.GetPixel($x, $y))) { $marks++ } } }
 $crop.Dispose()
 if ($marks -gt 0) { "editor outlines in capture ($marks edge pixels)"; exit 2 }
+exit 0
