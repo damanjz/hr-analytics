@@ -1,0 +1,197 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>HR Analytics: how it works</title>
+<style>
+  :root {
+    --paper: #fbfaf7; --rail: #f2efe7; --rule: #e3ded2;
+    --text: #1d2330; --muted: #5b6170; --ink: #2f55b0; --teal: #1f8f7a;
+    --serif: Georgia, "Times New Roman", serif;
+    --sans: "Segoe UI", system-ui, -apple-system, sans-serif;
+    --mono: "Cascadia Mono", Consolas, monospace;
+  }
+  @page { size: A4; margin: 15mm; }
+  * { box-sizing: border-box; }
+  html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  body { margin: 0; background: var(--paper); color: var(--text); font: 10pt/1.55 var(--sans); }
+  main { max-width: 820px; margin: 0 auto; padding: 40px 16px 64px; }
+  h1, h2, h3 { font-family: var(--serif); font-weight: 400; margin: 0; }
+  h1 { font-size: 26pt; line-height: 1.15; }
+  h2 { font-size: 16pt; margin: 32px 0 8px; padding-top: 12px; border-top: 1px solid var(--rule); }
+  h3 { font-size: 12pt; margin: 18px 0 4px; }
+  p { margin: 0 0 9px; }
+  .lede { font: 12pt/1.5 var(--serif); color: var(--muted); margin: 8px 0 10px; }
+  .eyebrow { font-size: 8.5pt; text-transform: uppercase; letter-spacing: 0.12em; color: var(--ink); margin-bottom: 8px; }
+  .muted { color: var(--muted); }
+  code { font: 8.8pt var(--mono); background: var(--rail); padding: 1px 4px; }
+  pre { font: 8.6pt/1.5 var(--mono); background: var(--rail); padding: 10px 12px; margin: 8px 0 12px; white-space: pre-wrap; break-inside: avoid; }
+  table { width: 100%; border-collapse: collapse; margin: 8px 0 14px; font-size: 9.2pt; break-inside: avoid; }
+  th { text-align: left; font-weight: 600; color: var(--muted); font-size: 8.3pt; text-transform: uppercase; letter-spacing: 0.06em; border-bottom: 1px solid var(--text); padding: 5px 8px 4px 0; }
+  td { border-bottom: 1px solid var(--rule); padding: 5px 8px 5px 0; vertical-align: top; }
+  td:first-child { white-space: nowrap; }
+  ul, ol { margin: 0 0 9px; padding-left: 18px; } li { margin: 3px 0; }
+  .callout { background: var(--rail); border-left: 3px solid var(--ink); padding: 10px 14px; margin: 12px 0; break-inside: avoid; }
+  .callout p:last-child { margin: 0; }
+  .page-break { break-before: page; }
+  h2, h3 { break-after: avoid; }
+  @media print { main { padding: 0; max-width: none; } }
+  @media (max-width: 640px) { h1 { font-size: 21pt; } td:first-child { white-space: normal; } }
+</style>
+</head>
+<body>
+<main>
+
+<div class="eyebrow">Peer review guide</div>
+<h1>How it works</h1>
+<p class="lede">A walkthrough of the project for reviewers: what each part does, how data moves from raw HR exports to the Tableau workbench, how correctness is enforced, and where your eyes are most useful.</p>
+<p class="muted">Companion to the case study. Paths are relative to the project folder.</p>
+
+<h2>1. The flow in one picture</h2>
+<pre>src/generate.py ──► data/raw/*.csv (9 exports)
+                         │
+src/pipeline.py ─────────┤  runs, in order:
+                         ├─ sql/01_staging.sql   type the raw files
+                         ├─ sql/02_model.sql     dimensions, monthly employee snapshot
+                         ├─ sql/03_features.sql  quarterly model snapshots, labels, feature list
+                         ├─ src/model.py         flight-risk model, fairness, drivers, pay equity
+                         ├─ sql/04_marts.sql     report tables + hr_workbench (one long table)
+                         ├─ sql/checks.sql       15 checks; any failure stops the build
+                         └─ export ──► data/model/*.csv (12 tables)
+                                              │
+tableau/build_twb.py ─────────────────────────┴─► tableau/HR Analytics Workbench.twbx
+                                                   ├─ workbook XML (generated)
+                                                   └─ Data/Extracts/hr_workbench.hyper</pre>
+<p>Everything downstream of <code>generate.py</code> is deterministic: same seed, same data, same model, same numbers. Three consecutive pipeline runs produce byte-identical exports, and the workbook XML is byte-identical across builds. The Hyper extract file differs in its internal metadata between builds, but holds identical rows.</p>
+
+<h2>2. Running it</h2>
+<pre>python -m venv .venv
+.venv\Scripts\pip install -r requirements.txt
+.venv\Scripts\python src\generate.py        # writes data/raw
+.venv\Scripts\python src\pipeline.py        # builds hr.duckdb, trains, checks, exports
+.venv\Scripts\python tableau\build_twb.py   # writes tableau/HR Analytics Workbench.twbx</pre>
+<p>Open <code>tableau\HR Analytics Workbench.twbx</code> in Tableau Public 2026.2 (free). The data travels inside the file, so no paths need editing. Tested on Tableau Public 2026.2.2 for Windows.</p>
+<p class="muted">Expected <code>pipeline.py</code> output: three "built" lines, "trained model: Gradient boosting, test ROC AUC 0.658, top-decile capture 20.4%", "built 04_marts.sql", 15 lines starting with <code>pass</code>, then "exported 12 tables".</p>
+
+<h2>3. Stage by stage</h2>
+
+<h3>3.1 Generator: <code>src/generate.py</code></h3>
+<p>Simulates a 2,150-person firm from April 2022 to March 2026, month by month, and writes what an HR analyst could pull from an HRIS, an ATS, a timesheet system and a survey tool.</p>
+<table>
+  <tr><th>Mechanism</th><th>How it works</th></tr>
+  <tr><td>Reproducibility</td><td>One seeded random generator (<code>SEED = 11</code>). Every person, date, salary and response comes from it.</td></tr>
+  <tr><td>Opening population</td><td>2,150 people with a realistic level mix (30% L1 down to 2% L6), seven departments, 60/40 Hyderabad/Bengaluru, and two years of back history so growth features exist from the first month.</td></tr>
+  <tr><td>Pay</td><td>Market band midpoints by level, department, location and year, moving 8% a year. Starting pay is the band midpoint with noise; women's is multiplied by 0.965 (the planted gap). Each April, raises scale with rating and the year's market rate; promotions add 15 to 22%.</td></tr>
+  <tr><td>Promotions</td><td>Probability by rating (0% for a 1 to 45% for a 5), only after 18 months in level; women's probability is multiplied by 0.82 (planted).</td></tr>
+  <tr><td>Resignations</td><td>A monthly hazard: the year's base rate (highest in FY 2022-23) multiplied up for pay below band, pay growth under 12% in two years, a long wait for promotion, commutes over 75 minutes, the 1 to 3 year tenure window, low recent utilisation and strong performers paid below band. A hidden satisfaction factor adds noise the model can't see.</td></tr>
+  <tr><td>Dismissals</td><td>Mostly low ratings, plus a bench restructuring in Delivery in late 2023.</td></tr>
+  <tr><td>Hiring</td><td>85% of exits open a backfill requisition; about four growth requisitions a month; a January campus drive. Time to hire depends on level, is slower in Data and Analytics and in FY 2022-23. Requisitions still open at the end have no hire date.</td></tr>
+  <tr><td>eNPS</td><td>Quarterly survey, 55% response, score driven by the hidden satisfaction factor and a year effect. Responses carry department, location and level band only.</td></tr>
+</table>
+
+<h3>3.2 Staging: <code>sql/01_staging.sql</code></h3>
+<p>Reads each CSV with explicit types. Ratings get a <code>known_from</code> date (the April after the review cycle) so later stages can't use a rating before it existed. No business logic lives here.</p>
+
+<h3>3.3 Model: <code>sql/02_model.sql</code></h3>
+<table>
+  <tr><th>Table</th><th>Built how</th></tr>
+  <tr><td><code>dim_month</code></td><td>48 months with month end and the Indian financial year label (April to March).</td></tr>
+  <tr><td><code>dim_employee</code></td><td>Every person ever employed, with their exit (if any).</td></tr>
+  <tr><td><code>fact_employee_month</code></td><td>One row per person per month end on the books (107,084 rows). Department, level, last promotion, pay, pay 24 months earlier, latest rating and the one before are attached with <code>ASOF</code> joins: each takes the latest record dated on or before the month end. Utilisation over the last 3 months and bench months over the last 12 come from correlated subqueries. Compa-ratio is pay divided by the band midpoint for that level, department, location and year.</td></tr>
+  <tr><td><code>fact_requisition</code></td><td>Requisitions with time to hire (opened to offer accepted) and time to fill (opened to join).</td></tr>
+</table>
+
+<h3>3.4 Features and the model: <code>sql/03_features.sql</code>, <code>src/model.py</code></h3>
+<table>
+  <tr><th>Step</th><th>How it works</th></tr>
+  <tr><td>Snapshots</td><td>Every employee at every quarter end. Label: resigned within the next six months. A dismissal inside the window marks the row censored (outcome unknowable) and it is dropped. Rows whose six-month window runs past March 2026 aren't labelled.</td></tr>
+  <tr><td>Features</td><td>14, listed in the <code>model_features</code> table: 10 numeric, 4 categorical. <code>model.py</code> asserts none is protected, and a check repeats the test.</td></tr>
+  <tr><td>Split</td><td>Out of time: train on snapshots to September 2023 (11,946 rows), test from March 2024 (16,233 rows). The gap means no training label overlaps the test period.</td></tr>
+  <tr><td>Models</td><td>Logistic regression (median imputation with missing flags, scaling, one-hot) and histogram gradient boosting (depth 3, 300 iterations). Logistic is preferred unless the other beats it by at least 0.01 AUC; gradient boosting won by 0.014.</td></tr>
+  <tr><td>Outputs</td><td>Metrics, calibration by decile, permutation importance, fairness by gender, then a refit on all labelled history to score everyone on the books at 31 March 2026. Top 10% of scores = High, next 20% = Medium.</td></tr>
+  <tr><td>Drivers</td><td>For each person, the model is re-scored with one lever reset to a typical value (median for pay, pay growth, promotion wait, commute and utilisation; zero for bench time and rating change; "3 to 6 years" for tenure stage). Levers that cut the score by more than 0.5 percentage points are listed, biggest first, up to three.</td></tr>
+  <tr><td>Pay equity</td><td>Ordinary least squares on log pay with level, department and location dummies, rating and tenure, plus a "woman" flag; the flag's coefficient becomes the adjusted ratio with a 95% interval from classical standard errors.</td></tr>
+</table>
+<p class="muted">All queries feeding the model sort their rows. Without that, DuckDB's arbitrary row order changed the gradient-boosting validation split and the results moved slightly on every run.</p>
+
+<h3>3.5 Marts: <code>sql/04_marts.sql</code></h3>
+<table>
+  <tr><th>Mart</th><th>Definition</th></tr>
+  <tr><td><code>mart_exits</code>, <code>mart_hires</code></td><td>Each movement with the job held at the time (<code>ASOF</code> on job history). <b>Regretted</b> = a resignation by someone last rated 4 or 5.</td></tr>
+  <tr><td><code>mart_headcount_monthly</code></td><td>A dense grid: every department × level × location × gender segment in every month, with headcount, hires, exits by type, and rolling 12-month exits and headcount (NULL before March 2023). <b>Attrition</b> = exits / headcount × 12, summed over whatever is filtered.</td></tr>
+  <tr><td><code>mart_current_employees</code></td><td>Everyone on the books at 31 March 2026 with pay position (below, within or above band at ±10% of midpoint) and risk score, band and drivers.</td></tr>
+  <tr><td><code>mart_requisitions</code>, <code>mart_enps</code></td><td>Requisitions by financial year; survey responses with Promoter (9 to 10), Passive (7 to 8) and Detractor (0 to 6).</td></tr>
+  <tr><td><code>hr_workbench</code></td><td>One long table for Tableau: record types Month, Employee, Requisition, Survey and Driver (one row per lever per top-10% employee), sharing department, location, level band and financial year columns, so one set of filters reaches every view.</td></tr>
+</table>
+
+<h3>3.6 Checks: <code>sql/checks.sql</code></h3>
+<p>Each check is a query that returns the rows breaking a rule. <code>pipeline.py</code> runs them all, prints pass or fail, and exits with an error before exporting anything if any fail.</p>
+<table>
+  <tr><th>Check</th><th>Logic</th></tr>
+  <tr><td>Headcount rolls forward</td><td>For every month: previous headcount + hires − exits = this headcount.</td></tr>
+  <tr><td>Snapshot completeness</td><td>Every employee-month has a level, a salary and a market band.</td></tr>
+  <tr><td>Exits and hires are sane</td><td>Nobody leaves before joining or twice; exactly one hire record each; promotions move exactly one level.</td></tr>
+  <tr><td>ATS matches HRIS</td><td>Each filled requisition's hire has the same date, department, level and location.</td></tr>
+  <tr><td>Ranges</td><td>Ratings 1 to 5, eNPS scores 0 to 10.</td></tr>
+  <tr><td>Survey anonymity</td><td>No column resembling an employee ID exists in the survey table.</td></tr>
+  <tr><td>Mart totals</td><td>Exits and hires in the monthly mart equal the source counts in the window.</td></tr>
+  <tr><td>Rolling values</td><td>Rolling 12-month exits and headcount equal a direct count from source, for every department and month, and are NULL before 12 months of history.</td></tr>
+  <tr><td>Model hygiene</td><td>No protected feature; test starts after every training label resolved; one score in [0, 1] per current employee; pay equity covers every current woman and man.</td></tr>
+  <tr><td>Workbench reconciles</td><td>Row counts per record type equal their source marts.</td></tr>
+</table>
+<p>The checks were themselves tested by breaking the data each one guards (for example, a rolling value off by one, a value before 12 months of history, a deleted workbench row). Each was caught.</p>
+
+<h3>3.7 Tableau generation: <code>tableau/build_twb.py</code>, <code>tableau/make_extract.py</code></h3>
+<ul>
+  <li><b>Format.</b> The workbook is written in Tableau's current XML (version 18.1), matched element by element to a copy Tableau Public saved itself. Older-format files load through Tableau's upgrade path, but that path drops custom colour palettes.</li>
+  <li><b>Data.</b> <code>make_extract.py</code> writes <code>hr_workbench</code> to a Hyper extract with Tableau's Hyper API (telemetry off). Tableau Public only accepts extracts. Column types come from the DuckDB schema, so the workbook can't drift from the data.</li>
+  <li><b>Filters.</b> Department, location, level and year are list parameters. One calculated field, <i>In scope</i>, combines them, and every sheet filters on it plus its record type. Year doesn't apply to Employee and Driver rows, which describe today's workforce.</li>
+  <li><b>Calculations.</b> 15 calculated fields, among them attrition (annualised and rolling 12 months), voluntary share, women's share, median time to hire, eNPS and the raw pay ratio. Rates resting on fewer than five records return NULL and are filtered out (<code>MIN_N</code>).</li>
+  <li><b>Look.</b> Colours per category live in the data source's palette; titles, axis formats, column widths and the dashboard grid are all set in code.</li>
+  <li><b>Test switch.</b> <code>--preset Department="Data and Analytics"</code> builds a copy that opens with filters already set; <code>tableau/filter_check.py</code> prints the numbers it should show, computed independently in DuckDB.</li>
+</ul>
+
+<h3>3.8 Helper scripts</h3>
+<table>
+  <tr><th>Script</th><th>Purpose</th></tr>
+  <tr><td><code>tableau/validate_twb.py</code></td><td>Validates the workbook XML against Tableau's published schema (in <code>tableau/schema</code>). A small set of errors is expected: Tableau's own saved file produces the identical set, because the schema relies on feature switches the validator can't evaluate.</td></tr>
+  <tr><td><code>tableau/open_twb.ps1</code></td><td>Opens a workbook in a new Tableau Public window, captures that window, reads its log for errors, and closes only that window.</td></tr>
+  <tr><td><code>tableau/capture_docs.ps1</code></td><td>Case-study images: native-size captures cropped to the 1440 × 900 canvas, retaken if Tableau's editor outlines appear.</td></tr>
+  <tr><td><code>docs/build_pdf.ps1</code></td><td>Prints the case study to PDF with headless Edge and renders every page to an image for layout review.</td></tr>
+</table>
+
+<h2>4. Design choices worth challenging</h2>
+<table>
+  <tr><th>Choice</th><th>Why</th><th>Trade-off</th></tr>
+  <tr><td>Synthetic data</td><td>Publishable and reproducible; planted effects let the methods be checked against a known answer.</td><td>The model can only find what was planted.</td></tr>
+  <tr><td>Six-month resignation label</td><td>Long enough to act on, short enough to be fresh.</td><td>Throws away the last six months of history for training and testing.</td></tr>
+  <tr><td>Dismissals censored, not negative</td><td>Someone dismissed might have resigned later; calling them a stayer is wrong.</td><td>Fewer labelled rows; a survival model would use them properly.</td></tr>
+  <tr><td>Risk shown as rank</td><td>The model over-predicts after the 2022 wave (calibration drift).</td><td>Loses the probability reading until the model is recalibrated.</td></tr>
+  <tr><td>Drivers by lever reset</td><td>Works for any model; only reports things HR can change.</td><td>Ignores interactions between levers; not a causal estimate.</td></tr>
+  <tr><td>Rolling rates in SQL</td><td>Exact under any filter, including year.</td><td>A denser monthly table (8,112 segment-months instead of only the non-empty ones).</td></tr>
+  <tr><td>One long table</td><td>Every filter reaches every view, no data blending.</td><td>Sparse columns; every calculation must test record type.</td></tr>
+  <tr><td>Generated workbook</td><td>Reproducible, reviewable in a diff.</td><td>Tableau's format is undocumented; the generator follows Tableau's own save and is tested on one Tableau version.</td></tr>
+</table>
+
+<h2>5. What to review</h2>
+<ol>
+  <li><b>Correctness.</b> Do the definitions in section 3.5 match how you'd define attrition, regretted exits and pay position?</li>
+  <li><b>Leakage.</b> Can any feature in <code>fact_employee_month</code> see the future? Look at the <code>ASOF</code> joins and the rating <code>known_from</code> dates.</li>
+  <li><b>Model.</b> Is the out-of-time split, the censoring and the model choice sound? Would you report something other than ROC AUC and top-decile capture?</li>
+  <li><b>Fairness.</b> Is the reading of the fairness table (women flagged more because they are paid less) convincing? What else would you test?</li>
+  <li><b>Checks.</b> Is there a failure mode the 15 checks would miss?</li>
+  <li><b>Workbench.</b> Can an HR business partner answer "how is my department doing" within a few seconds? Is anything misleading?</li>
+</ol>
+
+<h2>6. Known limits</h2>
+<ul>
+  <li>The firm, its people and the market are synthetic; tax and benefits aren't modelled.</li>
+  <li>Time to hire counts only filled requisitions, so the latest year looks faster than it is.</li>
+  <li>The lever chart shows counts; a share would need a Tableau table calculation.</li>
+  <li>The workbook is tested on Tableau Public 2026.2.2 for Windows only.</li>
+</ul>
+
+</main>
+</body>
+</html>
