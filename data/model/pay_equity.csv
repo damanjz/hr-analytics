@@ -1,0 +1,3 @@
+metric,value,ci_low,ci_high,employees
+"Adjusted pay ratio (same level, department, location, rating, tenure)",0.9771815039307249,0.9613227224431976,0.9933019051057904,2520
+"Unadjusted pay ratio (women / men, median)",0.7494134209291412,,,2520

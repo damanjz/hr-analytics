@@ -1,0 +1,1714 @@
+emp_id,exit_date,month,exit_type,exit_reason,department,level,location,gender,last_rating,regretted
+E100001,2022-08-22,2022-08-01,Voluntary,Career growth,Sales and Presales,L1,Hyderabad,Man,4,true
+E100002,2022-08-11,2022-08-01,Involuntary,Performance,Data and Analytics,L2,Hyderabad,Man,5,false
+E100003,2024-03-23,2024-03-01,Voluntary,Relocation or commute,Cloud and Infrastructure,L2,Bengaluru,Woman,3,false
+E100004,2023-01-26,2023-01-01,Voluntary,Better pay,Quality Engineering,L1,Bengaluru,Man,,false
+E100007,2024-06-09,2024-06-01,Voluntary,Relocation or commute,Quality Engineering,L1,Bengaluru,Man,2,false
+E100010,2024-10-17,2024-10-01,Voluntary,Better pay,Delivery,L3,Bengaluru,Man,3,false
+E100012,2022-04-24,2022-04-01,Voluntary,Relocation or commute,Sales and Presales,L2,Hyderabad,Man,3,false
+E100013,2024-09-20,2024-09-01,Involuntary,Performance,Sales and Presales,L3,Hyderabad,Man,1,false
+E100014,2024-05-18,2024-05-01,Involuntary,Performance,Delivery,L1,Hyderabad,Man,3,false
+E100016,2022-11-24,2022-11-01,Voluntary,Higher studies,Delivery,L3,Hyderabad,Man,3,false
+E100017,2023-03-05,2023-03-01,Voluntary,Career growth,Delivery,L3,Hyderabad,Man,3,false
+E100018,2022-04-13,2022-04-01,Involuntary,Performance,Quality Engineering,L2,Bengaluru,Man,2,false
+E100019,2023-06-20,2023-06-01,Voluntary,Higher studies,Delivery,L4,Bengaluru,Woman,4,true
+E100020,2025-07-04,2025-07-01,Voluntary,Relocation or commute,Data and Analytics,L2,Hyderabad,Woman,3,false
+E100022,2025-06-01,2025-06-01,Voluntary,Higher studies,Data and Analytics,L2,Hyderabad,Woman,4,true
+E100023,2023-01-24,2023-01-01,Voluntary,Better pay,Cloud and Infrastructure,L3,Bengaluru,Woman,4,true
+E100024,2022-08-16,2022-08-01,Voluntary,Career growth,Delivery,L2,Hyderabad,Man,3,false
+E100025,2026-03-19,2026-03-01,Voluntary,Higher studies,Data and Analytics,L2,Bengaluru,Man,1,false
+E100033,2026-03-24,2026-03-01,Voluntary,Personal,Delivery,L1,Bengaluru,Woman,3,false
+E100034,2023-11-18,2023-11-01,Voluntary,Better pay,Delivery,L4,Bengaluru,Woman,2,false
+E100036,2022-09-27,2022-09-01,Voluntary,Better pay,Data and Analytics,L1,Bengaluru,Man,3,false
+E100041,2025-07-15,2025-07-01,Voluntary,Career growth,Cloud and Infrastructure,L1,Bengaluru,Woman,3,false
+E100046,2023-11-07,2023-11-01,Voluntary,Career growth,Quality Engineering,L3,Hyderabad,Woman,5,true
+E100047,2023-06-14,2023-06-01,Voluntary,Better pay,Delivery,L2,Hyderabad,Man,3,false
+E100048,2024-06-13,2024-06-01,Voluntary,Relocation or commute,Cloud and Infrastructure,L1,Hyderabad,Woman,3,false
+E100049,2022-10-02,2022-10-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Woman,2,false
+E100053,2022-07-13,2022-07-01,Voluntary,Higher studies,Delivery,L1,Hyderabad,Man,1,false
+E100054,2022-07-21,2022-07-01,Voluntary,Career growth,Delivery,L1,Hyderabad,Woman,5,true
+E100058,2023-11-27,2023-11-01,Voluntary,Career growth,Data and Analytics,L2,Bengaluru,Man,3,false
+E100059,2025-12-15,2025-12-01,Voluntary,Higher studies,Cloud and Infrastructure,L1,Bengaluru,Woman,2,false
+E100063,2024-10-04,2024-10-01,Involuntary,Performance,Delivery,L2,Hyderabad,Man,5,false
+E100065,2022-07-12,2022-07-01,Voluntary,Personal,Data and Analytics,L3,Hyderabad,Man,2,false
+E100067,2022-05-23,2022-05-01,Voluntary,Better pay,Corporate Functions,L1,Hyderabad,Man,3,false
+E100068,2024-11-08,2024-11-01,Voluntary,Personal,Delivery,L2,Bengaluru,Woman,3,false
+E100069,2024-04-12,2024-04-01,Voluntary,Better pay,Delivery,L5,Bengaluru,Man,2,false
+E100070,2023-09-06,2023-09-01,Voluntary,Higher studies,Quality Engineering,L1,Bengaluru,Woman,3,false
+E100071,2022-05-25,2022-05-01,Voluntary,Higher studies,Delivery,L3,Hyderabad,Man,5,true
+E100072,2025-10-02,2025-10-01,Voluntary,Better pay,Delivery,L2,Hyderabad,Man,3,false
+E100074,2023-01-23,2023-01-01,Voluntary,Better pay,Quality Engineering,L1,Hyderabad,Woman,,false
+E100075,2023-06-02,2023-06-01,Voluntary,Higher studies,Quality Engineering,L1,Hyderabad,Man,3,false
+E100076,2022-09-05,2022-09-01,Voluntary,Better pay,Delivery,L3,Hyderabad,Man,2,false
+E100077,2024-05-22,2024-05-01,Voluntary,Career growth,Delivery,L2,Hyderabad,Man,4,true
+E100078,2023-02-07,2023-02-01,Voluntary,Better pay,Corporate Functions,L4,Bengaluru,Man,3,false
+E100083,2023-09-12,2023-09-01,Involuntary,Performance,Delivery,L5,Bengaluru,Man,1,false
+E100085,2022-11-02,2022-11-01,Involuntary,Performance,Delivery,L2,Hyderabad,Man,2,false
+E100087,2026-02-11,2026-02-01,Voluntary,Career growth,Corporate Functions,L3,Hyderabad,Man,3,false
+E100090,2024-07-18,2024-07-01,Voluntary,Personal,Corporate Functions,L2,Bengaluru,Man,3,false
+E100092,2023-12-09,2023-12-01,Involuntary,Performance,Cloud and Infrastructure,L4,Bengaluru,Woman,1,false
+E100093,2022-10-22,2022-10-01,Voluntary,Relocation or commute,Delivery,L3,Hyderabad,Man,3,false
+E100094,2022-04-13,2022-04-01,Voluntary,Personal,Delivery,L2,Hyderabad,Man,3,false
+E100095,2024-10-13,2024-10-01,Voluntary,Career growth,Quality Engineering,L3,Bengaluru,Woman,3,false
+E100096,2023-05-02,2023-05-01,Voluntary,Personal,Data and Analytics,L3,Hyderabad,Man,3,false
+E100097,2023-02-11,2023-02-01,Voluntary,Better pay,Cloud and Infrastructure,L4,Hyderabad,Man,3,false
+E100098,2022-06-07,2022-06-01,Voluntary,Relocation or commute,Data and Analytics,L5,Bengaluru,Man,3,false
+E100100,2022-12-05,2022-12-01,Voluntary,Relocation or commute,Delivery,L3,Bengaluru,Woman,3,false
+E100101,2022-11-03,2022-11-01,Voluntary,Better pay,Delivery,L1,Bengaluru,Woman,4,true
+E100102,2023-04-09,2023-04-01,Voluntary,Better pay,Quality Engineering,L2,Hyderabad,Woman,3,false
+E100106,2024-02-11,2024-02-01,Voluntary,Higher studies,Delivery,L1,Hyderabad,Man,3,false
+E100108,2022-05-22,2022-05-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Man,,false
+E100110,2024-12-16,2024-12-01,Involuntary,Performance,Delivery,L1,Hyderabad,Man,1,false
+E100111,2023-12-10,2023-12-01,Voluntary,Better pay,Delivery,L1,Bengaluru,Man,4,true
+E100112,2025-10-18,2025-10-01,Voluntary,Career growth,Quality Engineering,L2,Bengaluru,Man,3,false
+E100113,2022-08-19,2022-08-01,Voluntary,Career growth,Cloud and Infrastructure,L1,Hyderabad,Woman,3,false
+E100116,2025-02-14,2025-02-01,Voluntary,Better pay,Cloud and Infrastructure,L2,Hyderabad,Man,4,true
+E100117,2025-08-21,2025-08-01,Voluntary,Relocation or commute,Quality Engineering,L2,Bengaluru,Man,3,false
+E100118,2022-08-13,2022-08-01,Voluntary,Higher studies,Delivery,L1,Bengaluru,Man,2,false
+E100119,2022-11-21,2022-11-01,Voluntary,Higher studies,Consulting,L2,Hyderabad,Man,2,false
+E100123,2022-06-21,2022-06-01,Voluntary,Better pay,Cloud and Infrastructure,L2,Hyderabad,Man,2,false
+E100126,2022-09-01,2022-09-01,Voluntary,Personal,Corporate Functions,L3,Hyderabad,Man,3,false
+E100127,2022-06-08,2022-06-01,Voluntary,Higher studies,Delivery,L2,Hyderabad,Man,2,false
+E100128,2023-10-07,2023-10-01,Voluntary,Career growth,Quality Engineering,L2,Hyderabad,Woman,3,false
+E100129,2025-08-03,2025-08-01,Involuntary,Performance,Quality Engineering,L2,Bengaluru,Man,2,false
+E100130,2025-03-19,2025-03-01,Voluntary,Better pay,Delivery,L2,Hyderabad,Woman,3,false
+E100132,2025-03-12,2025-03-01,Voluntary,Higher studies,Cloud and Infrastructure,L1,Bengaluru,Man,4,true
+E100135,2023-12-15,2023-12-01,Voluntary,Relocation or commute,Cloud and Infrastructure,L5,Bengaluru,Woman,3,false
+E100136,2022-12-16,2022-12-01,Voluntary,Career growth,Consulting,L4,Bengaluru,Woman,4,true
+E100138,2023-11-09,2023-11-01,Voluntary,Personal,Data and Analytics,L1,Bengaluru,Woman,2,false
+E100140,2023-08-27,2023-08-01,Voluntary,Career growth,Quality Engineering,L3,Hyderabad,Woman,4,true
+E100142,2022-07-25,2022-07-01,Voluntary,Better pay,Delivery,L2,Bengaluru,Man,3,false
+E100143,2023-11-04,2023-11-01,Involuntary,Restructuring,Delivery,L1,Bengaluru,Woman,3,false
+E100144,2023-02-12,2023-02-01,Voluntary,Career growth,Cloud and Infrastructure,L3,Bengaluru,Man,4,true
+E100146,2023-09-03,2023-09-01,Voluntary,Better pay,Sales and Presales,L3,Hyderabad,Man,2,false
+E100148,2024-05-16,2024-05-01,Voluntary,Higher studies,Delivery,L1,Hyderabad,Man,3,false
+E100151,2022-04-18,2022-04-01,Voluntary,Higher studies,Delivery,L1,Bengaluru,Woman,3,false
+E100153,2023-10-20,2023-10-01,Involuntary,Performance,Delivery,L2,Bengaluru,Woman,2,false
+E100156,2023-11-08,2023-11-01,Voluntary,Career growth,Delivery,L2,Hyderabad,Man,2,false
+E100162,2022-04-09,2022-04-01,Voluntary,Better pay,Delivery,L3,Hyderabad,Woman,4,true
+E100164,2022-08-03,2022-08-01,Voluntary,Higher studies,Quality Engineering,L2,Hyderabad,Man,3,false
+E100166,2024-12-24,2024-12-01,Voluntary,Better pay,Quality Engineering,L3,Bengaluru,Man,3,false
+E100167,2022-06-17,2022-06-01,Voluntary,Career growth,Delivery,L1,Hyderabad,Woman,4,true
+E100169,2025-11-09,2025-11-01,Voluntary,Career growth,Consulting,L1,Bengaluru,Man,2,false
+E100170,2024-12-04,2024-12-01,Voluntary,Personal,Delivery,L2,Hyderabad,Woman,4,true
+E100171,2024-09-09,2024-09-01,Voluntary,Better pay,Delivery,L3,Bengaluru,Woman,4,true
+E100172,2023-06-06,2023-06-01,Voluntary,Higher studies,Delivery,L1,Hyderabad,Man,3,false
+E100173,2023-09-16,2023-09-01,Voluntary,Personal,Data and Analytics,L1,Bengaluru,Man,3,false
+E100174,2022-09-16,2022-09-01,Voluntary,Relocation or commute,Delivery,L4,Hyderabad,Woman,4,true
+E100175,2022-12-04,2022-12-01,Voluntary,Relocation or commute,Sales and Presales,L3,Bengaluru,Man,3,false
+E100177,2024-05-15,2024-05-01,Voluntary,Career growth,Quality Engineering,L4,Bengaluru,Man,1,false
+E100179,2024-07-04,2024-07-01,Voluntary,Career growth,Delivery,L1,Hyderabad,Man,2,false
+E100181,2022-04-21,2022-04-01,Voluntary,Better pay,Quality Engineering,L2,Bengaluru,Man,3,false
+E100182,2024-05-06,2024-05-01,Voluntary,Career growth,Delivery,L3,Hyderabad,Man,2,false
+E100184,2022-11-11,2022-11-01,Involuntary,Performance,Delivery,L1,Bengaluru,Woman,3,false
+E100185,2025-03-25,2025-03-01,Voluntary,Relocation or commute,Delivery,L4,Hyderabad,Woman,2,false
+E100188,2023-09-04,2023-09-01,Voluntary,Higher studies,Delivery,L2,Hyderabad,Woman,3,false
+E100191,2022-10-14,2022-10-01,Voluntary,Career growth,Delivery,L2,Bengaluru,Man,4,true
+E100193,2023-04-21,2023-04-01,Involuntary,Performance,Delivery,L2,Bengaluru,Man,2,false
+E100194,2022-08-04,2022-08-01,Voluntary,Higher studies,Quality Engineering,L3,Hyderabad,Man,3,false
+E100195,2025-08-04,2025-08-01,Voluntary,Personal,Sales and Presales,L3,Hyderabad,Woman,4,true
+E100196,2023-06-24,2023-06-01,Voluntary,Career growth,Delivery,L3,Bengaluru,Man,3,false
+E100197,2022-06-03,2022-06-01,Voluntary,Better pay,Cloud and Infrastructure,L2,Hyderabad,Man,1,false
+E100200,2022-09-17,2022-09-01,Voluntary,Personal,Quality Engineering,L4,Bengaluru,Woman,2,false
+E100202,2022-06-18,2022-06-01,Voluntary,Career growth,Cloud and Infrastructure,L1,Hyderabad,Man,4,true
+E100203,2022-05-02,2022-05-01,Voluntary,Better pay,Quality Engineering,L2,Hyderabad,Man,1,false
+E100207,2022-04-04,2022-04-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Man,2,false
+E100209,2025-07-19,2025-07-01,Voluntary,Career growth,Delivery,L2,Bengaluru,Woman,3,false
+E100210,2022-09-06,2022-09-01,Voluntary,Career growth,Cloud and Infrastructure,L2,Bengaluru,Man,1,false
+E100211,2022-10-23,2022-10-01,Voluntary,Career growth,Corporate Functions,L2,Hyderabad,Man,1,false
+E100215,2025-04-06,2025-04-01,Voluntary,Better pay,Corporate Functions,L1,Hyderabad,Woman,2,false
+E100216,2022-06-02,2022-06-01,Voluntary,Career growth,Sales and Presales,L1,Hyderabad,Man,3,false
+E100217,2025-08-21,2025-08-01,Involuntary,Performance,Delivery,L1,Hyderabad,Woman,3,false
+E100218,2022-12-01,2022-12-01,Voluntary,Career growth,Delivery,L2,Hyderabad,Man,1,false
+E100219,2025-10-27,2025-10-01,Involuntary,Performance,Cloud and Infrastructure,L5,Hyderabad,Woman,2,false
+E100220,2024-05-11,2024-05-01,Voluntary,Higher studies,Quality Engineering,L1,Hyderabad,Man,5,true
+E100222,2022-04-09,2022-04-01,Voluntary,Career growth,Data and Analytics,L2,Hyderabad,Woman,3,false
+E100225,2023-12-25,2023-12-01,Voluntary,Personal,Data and Analytics,L1,Hyderabad,Woman,2,false
+E100230,2023-08-18,2023-08-01,Voluntary,Better pay,Quality Engineering,L4,Hyderabad,Woman,5,true
+E100231,2024-06-16,2024-06-01,Involuntary,Performance,Cloud and Infrastructure,L3,Bengaluru,Man,1,false
+E100232,2022-08-16,2022-08-01,Voluntary,Higher studies,Cloud and Infrastructure,L2,Hyderabad,Woman,4,true
+E100233,2023-06-17,2023-06-01,Voluntary,Better pay,Delivery,L2,Hyderabad,Woman,3,false
+E100234,2024-01-05,2024-01-01,Voluntary,Personal,Quality Engineering,L3,Hyderabad,Man,1,false
+E100235,2022-06-04,2022-06-01,Voluntary,Better pay,Delivery,L5,Bengaluru,Man,2,false
+E100236,2024-11-02,2024-11-01,Voluntary,Relocation or commute,Delivery,L1,Bengaluru,Man,3,false
+E100237,2022-08-01,2022-08-01,Voluntary,Better pay,Quality Engineering,L1,Bengaluru,Man,2,false
+E100240,2022-05-17,2022-05-01,Voluntary,Career growth,Delivery,L1,Bengaluru,Woman,4,true
+E100241,2024-11-11,2024-11-01,Involuntary,Performance,Delivery,L1,Hyderabad,Man,1,false
+E100244,2022-10-19,2022-10-01,Voluntary,Better pay,Delivery,L3,Bengaluru,Man,2,false
+E100245,2022-10-26,2022-10-01,Voluntary,Personal,Quality Engineering,L3,Hyderabad,Woman,4,true
+E100247,2023-12-20,2023-12-01,Involuntary,Restructuring,Delivery,L1,Hyderabad,Man,3,false
+E100248,2022-05-18,2022-05-01,Voluntary,Higher studies,Delivery,L2,Hyderabad,Woman,3,false
+E100249,2022-06-16,2022-06-01,Voluntary,Career growth,Delivery,L4,Bengaluru,Woman,3,false
+E100254,2025-10-09,2025-10-01,Voluntary,Better pay,Delivery,L3,Hyderabad,Man,4,true
+E100256,2022-09-02,2022-09-01,Voluntary,Better pay,Data and Analytics,L2,Hyderabad,Woman,2,false
+E100257,2024-10-09,2024-10-01,Involuntary,Performance,Delivery,L1,Hyderabad,Woman,2,false
+E100261,2024-03-17,2024-03-01,Voluntary,Relocation or commute,Quality Engineering,L3,Hyderabad,Man,2,false
+E100262,2022-07-10,2022-07-01,Voluntary,Better pay,Delivery,L4,Bengaluru,Woman,2,false
+E100263,2025-06-27,2025-06-01,Voluntary,Personal,Cloud and Infrastructure,L2,Hyderabad,Woman,4,true
+E100264,2023-08-12,2023-08-01,Voluntary,Higher studies,Cloud and Infrastructure,L1,Bengaluru,Man,3,false
+E100268,2023-08-16,2023-08-01,Voluntary,Better pay,Delivery,L2,Hyderabad,Woman,3,false
+E100269,2023-01-01,2023-01-01,Voluntary,Personal,Cloud and Infrastructure,L3,Hyderabad,Man,3,false
+E100270,2022-10-06,2022-10-01,Voluntary,Relocation or commute,Quality Engineering,L2,Hyderabad,Woman,3,false
+E100272,2025-09-16,2025-09-01,Voluntary,Better pay,Delivery,L2,Hyderabad,Woman,4,true
+E100273,2023-08-12,2023-08-01,Voluntary,Career growth,Quality Engineering,L3,Bengaluru,Woman,4,true
+E100275,2024-06-24,2024-06-01,Involuntary,Performance,Sales and Presales,L3,Hyderabad,Man,3,false
+E100276,2024-12-02,2024-12-01,Voluntary,Better pay,Data and Analytics,L3,Hyderabad,Man,3,false
+E100279,2024-05-23,2024-05-01,Voluntary,Relocation or commute,Cloud and Infrastructure,L1,Hyderabad,Woman,4,true
+E100281,2022-07-17,2022-07-01,Voluntary,Higher studies,Sales and Presales,L1,Bengaluru,Woman,4,true
+E100283,2022-12-27,2022-12-01,Voluntary,Better pay,Data and Analytics,L2,Bengaluru,Woman,2,false
+E100284,2024-03-10,2024-03-01,Voluntary,Career growth,Delivery,L2,Hyderabad,Man,3,false
+E100287,2022-12-10,2022-12-01,Voluntary,Career growth,Delivery,L2,Hyderabad,Man,5,true
+E100288,2025-04-05,2025-04-01,Voluntary,Relocation or commute,Quality Engineering,L1,Hyderabad,Man,3,false
+E100289,2025-08-04,2025-08-01,Involuntary,Performance,Delivery,L2,Hyderabad,Man,3,false
+E100290,2023-10-17,2023-10-01,Involuntary,Restructuring,Delivery,L2,Bengaluru,Man,4,false
+E100291,2022-05-13,2022-05-01,Voluntary,Higher studies,Consulting,L2,Bengaluru,Man,3,false
+E100292,2022-06-11,2022-06-01,Voluntary,Career growth,Cloud and Infrastructure,L2,Hyderabad,Woman,2,false
+E100293,2026-02-21,2026-02-01,Voluntary,Career growth,Quality Engineering,L4,Bengaluru,Man,2,false
+E100294,2023-06-11,2023-06-01,Voluntary,Personal,Quality Engineering,L4,Hyderabad,Man,3,false
+E100295,2023-06-09,2023-06-01,Involuntary,Performance,Delivery,L5,Bengaluru,Man,3,false
+E100296,2025-09-01,2025-09-01,Voluntary,Career growth,Delivery,L3,Bengaluru,Man,4,true
+E100298,2022-09-12,2022-09-01,Voluntary,Better pay,Delivery,L3,Bengaluru,Man,4,true
+E100299,2024-04-02,2024-04-01,Voluntary,Better pay,Quality Engineering,L3,Hyderabad,Man,4,true
+E100300,2022-09-01,2022-09-01,Voluntary,Higher studies,Delivery,L2,Bengaluru,Woman,2,false
+E100301,2024-12-04,2024-12-01,Voluntary,Career growth,Corporate Functions,L1,Hyderabad,Woman,3,false
+E100302,2025-02-11,2025-02-01,Voluntary,Personal,Sales and Presales,L4,Hyderabad,Man,3,false
+E100303,2024-10-24,2024-10-01,Voluntary,Better pay,Delivery,L2,Hyderabad,Woman,4,true
+E100304,2023-11-04,2023-11-01,Voluntary,Higher studies,Consulting,L2,Bengaluru,Woman,5,true
+E100305,2023-01-13,2023-01-01,Voluntary,Career growth,Delivery,L2,Hyderabad,Man,3,false
+E100308,2025-10-24,2025-10-01,Voluntary,Personal,Data and Analytics,L2,Hyderabad,Woman,2,false
+E100309,2022-10-25,2022-10-01,Voluntary,Relocation or commute,Consulting,L3,Hyderabad,Woman,3,false
+E100311,2026-02-25,2026-02-01,Voluntary,Personal,Delivery,L1,Hyderabad,Man,3,false
+E100313,2024-05-15,2024-05-01,Voluntary,Relocation or commute,Cloud and Infrastructure,L2,Bengaluru,Man,5,true
+E100316,2024-07-24,2024-07-01,Voluntary,Better pay,Corporate Functions,L3,Bengaluru,Woman,2,false
+E100318,2025-12-06,2025-12-01,Involuntary,Performance,Delivery,L1,Hyderabad,Woman,1,false
+E100320,2023-08-26,2023-08-01,Voluntary,Personal,Delivery,L1,Bengaluru,Woman,4,true
+E100323,2022-04-12,2022-04-01,Voluntary,Personal,Quality Engineering,L2,Hyderabad,Man,3,false
+E100324,2024-12-14,2024-12-01,Voluntary,Higher studies,Data and Analytics,L2,Hyderabad,Man,3,false
+E100326,2024-03-01,2024-03-01,Voluntary,Better pay,Quality Engineering,L4,Hyderabad,Man,5,true
+E100327,2022-08-21,2022-08-01,Voluntary,Higher studies,Delivery,L2,Hyderabad,Woman,3,false
+E100331,2023-10-04,2023-10-01,Involuntary,Restructuring,Delivery,L2,Bengaluru,Woman,3,false
+E100332,2023-08-26,2023-08-01,Voluntary,Higher studies,Delivery,L2,Hyderabad,Woman,3,false
+E100334,2025-10-15,2025-10-01,Involuntary,Performance,Delivery,L1,Hyderabad,Man,2,false
+E100335,2022-12-24,2022-12-01,Voluntary,Personal,Delivery,L2,Hyderabad,Man,4,true
+E100336,2022-06-18,2022-06-01,Voluntary,Better pay,Consulting,L3,Bengaluru,Man,2,false
+E100337,2023-06-19,2023-06-01,Involuntary,Performance,Delivery,L3,Hyderabad,Man,3,false
+E100338,2024-02-09,2024-02-01,Voluntary,Higher studies,Delivery,L5,Hyderabad,Woman,1,false
+E100339,2023-05-09,2023-05-01,Involuntary,Performance,Delivery,L2,Hyderabad,Man,3,false
+E100340,2022-05-25,2022-05-01,Voluntary,Better pay,Data and Analytics,L3,Hyderabad,Man,3,false
+E100344,2025-05-20,2025-05-01,Voluntary,Relocation or commute,Data and Analytics,L4,Bengaluru,Man,4,true
+E100345,2024-10-26,2024-10-01,Voluntary,Better pay,Quality Engineering,L5,Bengaluru,Man,3,false
+E100347,2022-06-07,2022-06-01,Involuntary,Performance,Cloud and Infrastructure,L4,Bengaluru,Man,2,false
+E100349,2024-07-03,2024-07-01,Voluntary,Higher studies,Consulting,L2,Hyderabad,Woman,4,true
+E100350,2022-09-18,2022-09-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Man,2,false
+E100351,2022-09-24,2022-09-01,Involuntary,Performance,Cloud and Infrastructure,L2,Hyderabad,Woman,1,false
+E100354,2024-10-24,2024-10-01,Involuntary,Performance,Quality Engineering,L2,Hyderabad,Man,1,false
+E100355,2022-06-17,2022-06-01,Voluntary,Career growth,Delivery,L3,Bengaluru,Woman,4,true
+E100356,2025-08-13,2025-08-01,Involuntary,Performance,Delivery,L1,Hyderabad,Woman,2,false
+E100359,2023-10-01,2023-10-01,Involuntary,Performance,Delivery,L1,Bengaluru,Man,2,false
+E100360,2024-04-05,2024-04-01,Voluntary,Better pay,Quality Engineering,L3,Hyderabad,Man,3,false
+E100361,2023-12-11,2023-12-01,Involuntary,Performance,Corporate Functions,L3,Bengaluru,Man,2,false
+E100362,2023-12-16,2023-12-01,Voluntary,Career growth,Cloud and Infrastructure,L2,Hyderabad,Man,5,true
+E100363,2024-09-03,2024-09-01,Voluntary,Relocation or commute,Delivery,L1,Bengaluru,Man,4,true
+E100364,2022-10-08,2022-10-01,Involuntary,Performance,Delivery,L4,Hyderabad,Man,4,false
+E100366,2024-08-04,2024-08-01,Voluntary,Higher studies,Data and Analytics,L2,Hyderabad,Man,3,false
+E100367,2022-04-13,2022-04-01,Voluntary,Personal,Sales and Presales,L1,Hyderabad,Man,2,false
+E100368,2023-02-10,2023-02-01,Voluntary,Career growth,Cloud and Infrastructure,L1,Hyderabad,Woman,3,false
+E100369,2022-05-15,2022-05-01,Voluntary,Career growth,Corporate Functions,L3,Hyderabad,Woman,4,true
+E100372,2022-10-19,2022-10-01,Voluntary,Better pay,Quality Engineering,L1,Hyderabad,Woman,1,false
+E100373,2024-12-18,2024-12-01,Involuntary,Performance,Data and Analytics,L2,Hyderabad,Man,3,false
+E100374,2025-01-06,2025-01-01,Voluntary,Higher studies,Delivery,L3,Hyderabad,Woman,4,true
+E100379,2022-05-03,2022-05-01,Voluntary,Personal,Cloud and Infrastructure,L1,Bengaluru,Woman,4,true
+E100380,2025-08-26,2025-08-01,Voluntary,Better pay,Cloud and Infrastructure,L2,Bengaluru,Man,3,false
+E100381,2023-02-11,2023-02-01,Voluntary,Relocation or commute,Corporate Functions,L4,Bengaluru,Man,3,false
+E100382,2022-12-24,2022-12-01,Voluntary,Higher studies,Delivery,L1,Hyderabad,Man,3,false
+E100387,2025-11-11,2025-11-01,Voluntary,Better pay,Quality Engineering,L2,Bengaluru,Woman,2,false
+E100388,2024-05-11,2024-05-01,Voluntary,Personal,Sales and Presales,L3,Hyderabad,Woman,2,false
+E100390,2025-03-03,2025-03-01,Voluntary,Better pay,Delivery,L2,Hyderabad,Woman,3,false
+E100391,2022-05-21,2022-05-01,Voluntary,Better pay,Sales and Presales,L1,Bengaluru,Man,,false
+E100392,2023-09-01,2023-09-01,Voluntary,Relocation or commute,Cloud and Infrastructure,L1,Hyderabad,Man,3,false
+E100393,2024-07-26,2024-07-01,Involuntary,Performance,Delivery,L3,Bengaluru,Woman,2,false
+E100395,2023-01-10,2023-01-01,Voluntary,Better pay,Data and Analytics,L4,Hyderabad,Man,2,false
+E100396,2024-02-10,2024-02-01,Involuntary,Performance,Delivery,L3,Hyderabad,Man,1,false
+E100397,2022-05-06,2022-05-01,Involuntary,Performance,Delivery,L2,Bengaluru,Man,2,false
+E100398,2025-05-09,2025-05-01,Involuntary,Performance,Delivery,L1,Hyderabad,Man,1,false
+E100402,2023-03-11,2023-03-01,Voluntary,Relocation or commute,Sales and Presales,L3,Bengaluru,Man,3,false
+E100403,2023-04-08,2023-04-01,Voluntary,Higher studies,Delivery,L2,Hyderabad,Man,5,true
+E100405,2022-07-22,2022-07-01,Voluntary,Higher studies,Quality Engineering,L2,Hyderabad,Man,5,true
+E100407,2022-11-26,2022-11-01,Voluntary,Higher studies,Delivery,L3,Hyderabad,Woman,3,false
+E100410,2023-03-03,2023-03-01,Voluntary,Better pay,Data and Analytics,L3,Hyderabad,Woman,4,true
+E100411,2023-02-22,2023-02-01,Voluntary,Personal,Data and Analytics,L2,Hyderabad,Man,3,false
+E100412,2025-10-11,2025-10-01,Involuntary,Performance,Delivery,L5,Bengaluru,Woman,1,false
+E100415,2025-06-01,2025-06-01,Voluntary,Relocation or commute,Corporate Functions,L1,Hyderabad,Man,2,false
+E100416,2025-10-02,2025-10-01,Voluntary,Career growth,Cloud and Infrastructure,L2,Hyderabad,Man,2,false
+E100417,2022-07-21,2022-07-01,Voluntary,Higher studies,Cloud and Infrastructure,L2,Hyderabad,Man,3,false
+E100419,2024-03-25,2024-03-01,Voluntary,Career growth,Delivery,L4,Hyderabad,Man,1,false
+E100420,2024-06-10,2024-06-01,Voluntary,Career growth,Quality Engineering,L1,Bengaluru,Man,1,false
+E100422,2022-08-10,2022-08-01,Voluntary,Personal,Data and Analytics,L3,Bengaluru,Woman,3,false
+E100423,2024-01-26,2024-01-01,Voluntary,Relocation or commute,Delivery,L1,Bengaluru,Man,3,false
+E100424,2025-05-17,2025-05-01,Involuntary,Performance,Data and Analytics,L5,Bengaluru,Woman,5,false
+E100426,2024-12-02,2024-12-01,Involuntary,Performance,Delivery,L5,Hyderabad,Woman,2,false
+E100428,2023-08-12,2023-08-01,Voluntary,Career growth,Delivery,L2,Bengaluru,Man,5,true
+E100430,2024-07-22,2024-07-01,Voluntary,Career growth,Delivery,L3,Hyderabad,Man,4,true
+E100431,2022-10-14,2022-10-01,Voluntary,Higher studies,Delivery,L2,Bengaluru,Woman,3,false
+E100432,2025-05-26,2025-05-01,Voluntary,Better pay,Delivery,L3,Hyderabad,Woman,4,true
+E100433,2023-09-10,2023-09-01,Voluntary,Better pay,Cloud and Infrastructure,L2,Bengaluru,Man,3,false
+E100434,2023-12-18,2023-12-01,Voluntary,Career growth,Corporate Functions,L2,Hyderabad,Man,2,false
+E100437,2023-07-09,2023-07-01,Voluntary,Better pay,Cloud and Infrastructure,L2,Hyderabad,Woman,3,false
+E100438,2023-10-07,2023-10-01,Involuntary,Restructuring,Cloud and Infrastructure,L2,Bengaluru,Woman,3,false
+E100439,2024-07-03,2024-07-01,Voluntary,Career growth,Cloud and Infrastructure,L1,Bengaluru,Woman,3,false
+E100441,2022-06-17,2022-06-01,Voluntary,Better pay,Cloud and Infrastructure,L5,Hyderabad,Man,1,false
+E100442,2024-10-16,2024-10-01,Voluntary,Career growth,Quality Engineering,L3,Hyderabad,Woman,5,true
+E100443,2022-09-12,2022-09-01,Voluntary,Better pay,Cloud and Infrastructure,L5,Hyderabad,Woman,3,false
+E100445,2025-02-20,2025-02-01,Involuntary,Performance,Delivery,L6,Hyderabad,Man,5,false
+E100446,2024-03-13,2024-03-01,Involuntary,Performance,Delivery,L1,Hyderabad,Man,1,false
+E100449,2023-10-14,2023-10-01,Voluntary,Better pay,Delivery,L3,Hyderabad,Man,5,true
+E100452,2023-12-09,2023-12-01,Voluntary,Career growth,Delivery,L2,Bengaluru,Man,2,false
+E100455,2022-11-17,2022-11-01,Voluntary,Personal,Corporate Functions,L1,Hyderabad,Man,5,true
+E100457,2023-06-23,2023-06-01,Voluntary,Better pay,Delivery,L2,Hyderabad,Man,5,true
+E100460,2023-09-15,2023-09-01,Involuntary,Performance,Delivery,L3,Hyderabad,Man,2,false
+E100462,2022-07-10,2022-07-01,Involuntary,Performance,Cloud and Infrastructure,L4,Hyderabad,Man,2,false
+E100465,2022-12-09,2022-12-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Woman,3,false
+E100466,2022-08-26,2022-08-01,Voluntary,Better pay,Sales and Presales,L2,Hyderabad,Man,4,true
+E100467,2024-09-11,2024-09-01,Voluntary,Personal,Delivery,L3,Bengaluru,Woman,3,false
+E100468,2022-11-10,2022-11-01,Voluntary,Better pay,Data and Analytics,L1,Hyderabad,Man,,false
+E100469,2023-07-05,2023-07-01,Voluntary,Better pay,Quality Engineering,L1,Bengaluru,Woman,3,false
+E100472,2022-07-22,2022-07-01,Voluntary,Personal,Quality Engineering,L2,Hyderabad,Man,3,false
+E100475,2026-02-24,2026-02-01,Voluntary,Relocation or commute,Cloud and Infrastructure,L3,Hyderabad,Woman,3,false
+E100479,2024-01-14,2024-01-01,Voluntary,Career growth,Corporate Functions,L1,Hyderabad,Man,3,false
+E100480,2024-05-12,2024-05-01,Voluntary,Higher studies,Cloud and Infrastructure,L1,Bengaluru,Woman,4,true
+E100482,2024-05-19,2024-05-01,Voluntary,Career growth,Data and Analytics,L2,Hyderabad,Woman,3,false
+E100483,2022-05-06,2022-05-01,Voluntary,Relocation or commute,Delivery,L2,Bengaluru,Man,4,true
+E100484,2023-05-11,2023-05-01,Voluntary,Better pay,Quality Engineering,L2,Hyderabad,Man,2,false
+E100487,2023-12-08,2023-12-01,Voluntary,Career growth,Delivery,L4,Hyderabad,Man,1,false
+E100489,2024-01-24,2024-01-01,Voluntary,Personal,Delivery,L1,Hyderabad,Woman,3,false
+E100492,2025-03-13,2025-03-01,Voluntary,Relocation or commute,Delivery,L3,Hyderabad,Man,4,true
+E100495,2022-06-01,2022-06-01,Voluntary,Career growth,Corporate Functions,L1,Hyderabad,Woman,,false
+E100498,2024-01-24,2024-01-01,Voluntary,Higher studies,Cloud and Infrastructure,L2,Hyderabad,Woman,2,false
+E100500,2022-05-13,2022-05-01,Involuntary,Performance,Quality Engineering,L4,Hyderabad,Man,3,false
+E100501,2022-09-02,2022-09-01,Voluntary,Better pay,Data and Analytics,L1,Bengaluru,Man,3,false
+E100504,2023-09-06,2023-09-01,Voluntary,Relocation or commute,Cloud and Infrastructure,L1,Hyderabad,Man,3,false
+E100508,2024-11-18,2024-11-01,Voluntary,Career growth,Consulting,L3,Hyderabad,Woman,2,false
+E100510,2022-10-19,2022-10-01,Involuntary,Performance,Cloud and Infrastructure,L2,Bengaluru,Man,1,false
+E100512,2023-07-03,2023-07-01,Voluntary,Better pay,Cloud and Infrastructure,L3,Hyderabad,Woman,5,true
+E100513,2022-04-11,2022-04-01,Voluntary,Better pay,Quality Engineering,L1,Hyderabad,Woman,3,false
+E100514,2023-01-19,2023-01-01,Voluntary,Relocation or commute,Quality Engineering,L2,Hyderabad,Man,4,true
+E100515,2024-06-26,2024-06-01,Involuntary,Performance,Delivery,L2,Hyderabad,Man,2,false
+E100517,2022-09-01,2022-09-01,Voluntary,Personal,Cloud and Infrastructure,L3,Hyderabad,Man,3,false
+E100521,2025-04-24,2025-04-01,Voluntary,Better pay,Data and Analytics,L3,Bengaluru,Woman,2,false
+E100523,2023-10-26,2023-10-01,Voluntary,Personal,Delivery,L2,Hyderabad,Man,1,false
+E100524,2022-07-07,2022-07-01,Voluntary,Relocation or commute,Corporate Functions,L3,Bengaluru,Woman,4,true
+E100526,2022-06-04,2022-06-01,Voluntary,Career growth,Delivery,L4,Hyderabad,Woman,3,false
+E100527,2025-10-26,2025-10-01,Voluntary,Better pay,Data and Analytics,L3,Hyderabad,Woman,5,true
+E100528,2024-10-25,2024-10-01,Voluntary,Better pay,Delivery,L4,Bengaluru,Woman,4,true
+E100530,2025-04-05,2025-04-01,Voluntary,Career growth,Cloud and Infrastructure,L3,Bengaluru,Man,3,false
+E100531,2023-06-16,2023-06-01,Voluntary,Higher studies,Corporate Functions,L4,Hyderabad,Man,4,true
+E100535,2024-02-09,2024-02-01,Voluntary,Higher studies,Delivery,L1,Hyderabad,Woman,4,true
+E100536,2025-04-02,2025-04-01,Voluntary,Higher studies,Delivery,L1,Bengaluru,Man,3,false
+E100537,2023-10-11,2023-10-01,Voluntary,Better pay,Delivery,L2,Hyderabad,Man,2,false
+E100539,2023-12-17,2023-12-01,Voluntary,Better pay,Sales and Presales,L3,Bengaluru,Woman,3,false
+E100540,2024-10-13,2024-10-01,Voluntary,Better pay,Quality Engineering,L3,Bengaluru,Man,3,false
+E100541,2023-02-25,2023-02-01,Voluntary,Personal,Delivery,L1,Hyderabad,Man,3,false
+E100542,2023-05-05,2023-05-01,Voluntary,Better pay,Delivery,L3,Hyderabad,Man,5,true
+E100543,2022-04-03,2022-04-01,Voluntary,Higher studies,Cloud and Infrastructure,L2,Hyderabad,Man,4,true
+E100545,2025-04-21,2025-04-01,Voluntary,Better pay,Quality Engineering,L2,Bengaluru,Man,3,false
+E100546,2022-05-11,2022-05-01,Voluntary,Career growth,Delivery,L1,Hyderabad,Woman,2,false
+E100547,2024-05-18,2024-05-01,Voluntary,Better pay,Delivery,L4,Bengaluru,Man,3,false
+E100548,2023-09-09,2023-09-01,Voluntary,Higher studies,Delivery,L1,Bengaluru,Woman,3,false
+E100549,2022-04-23,2022-04-01,Voluntary,Relocation or commute,Delivery,L1,Bengaluru,Woman,3,false
+E100550,2023-06-25,2023-06-01,Voluntary,Personal,Cloud and Infrastructure,L2,Hyderabad,Man,3,false
+E100551,2022-10-09,2022-10-01,Voluntary,Better pay,Data and Analytics,L6,Bengaluru,Man,5,true
+E100553,2022-04-21,2022-04-01,Voluntary,Personal,Cloud and Infrastructure,L1,Hyderabad,Man,3,false
+E100554,2023-02-01,2023-02-01,Involuntary,Performance,Corporate Functions,L5,Hyderabad,Man,3,false
+E100555,2022-04-02,2022-04-01,Involuntary,Performance,Delivery,L2,Hyderabad,Woman,2,false
+E100556,2024-01-14,2024-01-01,Involuntary,Performance,Quality Engineering,L4,Hyderabad,Man,1,false
+E100557,2024-08-13,2024-08-01,Voluntary,Better pay,Quality Engineering,L1,Hyderabad,Woman,3,false
+E100558,2025-08-20,2025-08-01,Voluntary,Personal,Delivery,L4,Bengaluru,Man,3,false
+E100559,2025-02-19,2025-02-01,Voluntary,Relocation or commute,Cloud and Infrastructure,L2,Bengaluru,Man,2,false
+E100560,2023-11-15,2023-11-01,Voluntary,Better pay,Consulting,L1,Hyderabad,Woman,2,false
+E100562,2023-09-22,2023-09-01,Involuntary,Performance,Delivery,L6,Bengaluru,Man,4,false
+E100566,2023-01-26,2023-01-01,Voluntary,Career growth,Delivery,L6,Bengaluru,Man,3,false
+E100567,2026-03-15,2026-03-01,Involuntary,Performance,Delivery,L2,Hyderabad,Man,2,false
+E100568,2023-12-12,2023-12-01,Voluntary,Career growth,Consulting,L1,Bengaluru,Woman,2,false
+E100569,2022-08-04,2022-08-01,Voluntary,Better pay,Cloud and Infrastructure,L4,Hyderabad,Man,3,false
+E100570,2022-08-03,2022-08-01,Voluntary,Relocation or commute,Corporate Functions,L2,Hyderabad,Man,3,false
+E100571,2025-01-18,2025-01-01,Involuntary,Performance,Quality Engineering,L2,Bengaluru,Man,2,false
+E100572,2025-12-21,2025-12-01,Voluntary,Career growth,Corporate Functions,L2,Hyderabad,Man,3,false
+E100573,2024-10-06,2024-10-01,Voluntary,Higher studies,Delivery,L1,Bengaluru,Woman,3,false
+E100576,2024-09-20,2024-09-01,Voluntary,Career growth,Delivery,L2,Hyderabad,Woman,3,false
+E100582,2022-07-27,2022-07-01,Voluntary,Better pay,Quality Engineering,L3,Hyderabad,Man,2,false
+E100583,2022-07-07,2022-07-01,Voluntary,Relocation or commute,Data and Analytics,L2,Hyderabad,Man,3,false
+E100584,2025-03-10,2025-03-01,Voluntary,Better pay,Data and Analytics,L2,Hyderabad,Woman,5,true
+E100588,2023-02-03,2023-02-01,Voluntary,Better pay,Delivery,L4,Hyderabad,Man,4,true
+E100589,2023-06-07,2023-06-01,Voluntary,Career growth,Cloud and Infrastructure,L3,Bengaluru,Woman,5,true
+E100590,2022-04-14,2022-04-01,Voluntary,Better pay,Data and Analytics,L1,Hyderabad,Woman,2,false
+E100593,2026-03-08,2026-03-01,Voluntary,Higher studies,Delivery,L2,Hyderabad,Man,3,false
+E100594,2023-11-14,2023-11-01,Involuntary,Restructuring,Delivery,L1,Hyderabad,Woman,3,false
+E100595,2025-12-04,2025-12-01,Voluntary,Career growth,Sales and Presales,L3,Bengaluru,Man,3,false
+E100596,2024-05-23,2024-05-01,Voluntary,Better pay,Cloud and Infrastructure,L2,Bengaluru,Man,2,false
+E100597,2022-10-20,2022-10-01,Voluntary,Personal,Corporate Functions,L3,Hyderabad,Man,3,false
+E100598,2022-05-22,2022-05-01,Voluntary,Career growth,Delivery,L1,Hyderabad,Woman,3,false
+E100600,2024-09-13,2024-09-01,Voluntary,Career growth,Cloud and Infrastructure,L2,Hyderabad,Woman,2,false
+E100602,2024-08-07,2024-08-01,Voluntary,Better pay,Data and Analytics,L2,Bengaluru,Man,3,false
+E100605,2022-11-23,2022-11-01,Voluntary,Better pay,Data and Analytics,L2,Hyderabad,Man,3,false
+E100610,2025-07-16,2025-07-01,Voluntary,Better pay,Delivery,L2,Hyderabad,Man,2,false
+E100611,2022-12-02,2022-12-01,Voluntary,Personal,Delivery,L3,Bengaluru,Man,5,true
+E100612,2025-03-16,2025-03-01,Involuntary,Performance,Quality Engineering,L2,Hyderabad,Man,2,false
+E100613,2023-09-15,2023-09-01,Voluntary,Higher studies,Delivery,L1,Bengaluru,Woman,3,false
+E100614,2022-05-03,2022-05-01,Voluntary,Career growth,Data and Analytics,L1,Hyderabad,Woman,4,true
+E100616,2023-06-09,2023-06-01,Voluntary,Higher studies,Cloud and Infrastructure,L1,Hyderabad,Man,3,false
+E100617,2022-05-07,2022-05-01,Voluntary,Relocation or commute,Delivery,L2,Hyderabad,Man,3,false
+E100618,2022-04-14,2022-04-01,Voluntary,Better pay,Quality Engineering,L4,Hyderabad,Man,4,true
+E100619,2024-05-05,2024-05-01,Voluntary,Better pay,Delivery,L4,Bengaluru,Woman,5,true
+E100620,2023-04-05,2023-04-01,Voluntary,Personal,Quality Engineering,L1,Hyderabad,Man,3,false
+E100621,2024-10-19,2024-10-01,Voluntary,Higher studies,Delivery,L2,Hyderabad,Man,5,true
+E100623,2023-05-15,2023-05-01,Voluntary,Relocation or commute,Delivery,L2,Bengaluru,Woman,3,false
+E100631,2025-10-22,2025-10-01,Voluntary,Career growth,Consulting,L4,Hyderabad,Woman,3,false
+E100632,2022-06-08,2022-06-01,Voluntary,Better pay,Sales and Presales,L1,Hyderabad,Man,4,true
+E100633,2022-08-18,2022-08-01,Voluntary,Better pay,Cloud and Infrastructure,L1,Bengaluru,Woman,3,false
+E100634,2022-04-15,2022-04-01,Voluntary,Higher studies,Cloud and Infrastructure,L3,Bengaluru,Woman,3,false
+E100638,2024-01-18,2024-01-01,Voluntary,Career growth,Delivery,L2,Hyderabad,Man,3,false
+E100639,2023-05-05,2023-05-01,Voluntary,Career growth,Delivery,L3,Hyderabad,Woman,3,false
+E100641,2022-06-22,2022-06-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Man,2,false
+E100642,2022-07-24,2022-07-01,Voluntary,Personal,Delivery,L2,Bengaluru,Man,4,true
+E100643,2022-11-01,2022-11-01,Voluntary,Higher studies,Data and Analytics,L2,Bengaluru,Woman,5,true
+E100644,2023-02-24,2023-02-01,Voluntary,Better pay,Quality Engineering,L2,Hyderabad,Man,3,false
+E100647,2022-12-12,2022-12-01,Voluntary,Relocation or commute,Sales and Presales,L4,Bengaluru,Man,5,true
+E100649,2025-02-02,2025-02-01,Voluntary,Career growth,Quality Engineering,L3,Hyderabad,Man,3,false
+E100650,2024-08-09,2024-08-01,Involuntary,Performance,Delivery,L1,Bengaluru,Woman,2,false
+E100652,2022-05-07,2022-05-01,Involuntary,Performance,Delivery,L1,Hyderabad,Man,1,false
+E100653,2023-03-05,2023-03-01,Voluntary,Career growth,Data and Analytics,L2,Hyderabad,Woman,3,false
+E100655,2024-07-06,2024-07-01,Voluntary,Better pay,Cloud and Infrastructure,L4,Hyderabad,Woman,4,true
+E100659,2026-01-17,2026-01-01,Involuntary,Performance,Delivery,L1,Bengaluru,Man,1,false
+E100660,2024-06-07,2024-06-01,Voluntary,Better pay,Delivery,L3,Hyderabad,Woman,4,true
+E100661,2023-10-01,2023-10-01,Voluntary,Career growth,Delivery,L1,Bengaluru,Woman,3,false
+E100662,2022-10-27,2022-10-01,Involuntary,Performance,Delivery,L2,Bengaluru,Man,1,false
+E100664,2023-08-12,2023-08-01,Voluntary,Better pay,Delivery,L2,Bengaluru,Man,4,true
+E100665,2025-03-18,2025-03-01,Involuntary,Performance,Cloud and Infrastructure,L2,Hyderabad,Man,1,false
+E100666,2024-08-26,2024-08-01,Voluntary,Personal,Corporate Functions,L4,Hyderabad,Man,3,false
+E100667,2022-11-17,2022-11-01,Voluntary,Personal,Delivery,L2,Hyderabad,Man,2,false
+E100669,2023-11-11,2023-11-01,Voluntary,Better pay,Delivery,L1,Bengaluru,Woman,2,false
+E100670,2022-08-20,2022-08-01,Voluntary,Higher studies,Delivery,L1,Bengaluru,Woman,2,false
+E100671,2023-11-06,2023-11-01,Voluntary,Better pay,Quality Engineering,L4,Hyderabad,Man,2,false
+E100676,2024-03-16,2024-03-01,Voluntary,Higher studies,Delivery,L1,Bengaluru,Man,2,false
+E100677,2022-08-02,2022-08-01,Voluntary,Higher studies,Delivery,L1,Hyderabad,Woman,3,false
+E100679,2024-05-17,2024-05-01,Voluntary,Personal,Delivery,L3,Bengaluru,Man,4,true
+E100680,2023-09-22,2023-09-01,Involuntary,Performance,Quality Engineering,L5,Hyderabad,Man,3,false
+E100682,2022-06-02,2022-06-01,Voluntary,Personal,Corporate Functions,L3,Bengaluru,Woman,3,false
+E100685,2022-05-18,2022-05-01,Involuntary,Performance,Quality Engineering,L4,Bengaluru,Man,1,false
+E100688,2025-07-09,2025-07-01,Voluntary,Higher studies,Data and Analytics,L2,Hyderabad,Woman,5,true
+E100689,2025-11-18,2025-11-01,Voluntary,Relocation or commute,Delivery,L2,Hyderabad,Woman,3,false
+E100690,2023-01-27,2023-01-01,Voluntary,Personal,Quality Engineering,L3,Bengaluru,Man,3,false
+E100694,2024-06-11,2024-06-01,Voluntary,Career growth,Data and Analytics,L4,Bengaluru,Man,2,false
+E100695,2023-08-06,2023-08-01,Voluntary,Relocation or commute,Cloud and Infrastructure,L2,Bengaluru,Woman,4,true
+E100696,2022-10-10,2022-10-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Man,3,false
+E100699,2022-07-17,2022-07-01,Voluntary,Better pay,Delivery,L2,Bengaluru,Man,3,false
+E100700,2024-09-24,2024-09-01,Voluntary,Career growth,Delivery,L2,Hyderabad,Man,1,false
+E100701,2023-03-09,2023-03-01,Voluntary,Better pay,Delivery,L4,Hyderabad,Man,4,true
+E100702,2022-05-06,2022-05-01,Voluntary,Career growth,Delivery,L2,Bengaluru,Woman,3,false
+E100706,2022-05-18,2022-05-01,Voluntary,Personal,Delivery,L2,Hyderabad,Man,3,false
+E100708,2022-05-01,2022-05-01,Voluntary,Relocation or commute,Quality Engineering,L4,Hyderabad,Man,3,false
+E100709,2022-09-23,2022-09-01,Involuntary,Performance,Delivery,L2,Bengaluru,Man,1,false
+E100714,2022-12-14,2022-12-01,Voluntary,Relocation or commute,Corporate Functions,L3,Bengaluru,Man,3,false
+E100717,2024-01-10,2024-01-01,Voluntary,Better pay,Corporate Functions,L4,Bengaluru,Man,3,false
+E100718,2024-09-15,2024-09-01,Involuntary,Performance,Cloud and Infrastructure,L1,Bengaluru,Woman,1,false
+E100719,2023-12-18,2023-12-01,Voluntary,Better pay,Delivery,L3,Hyderabad,Woman,2,false
+E100722,2022-06-23,2022-06-01,Voluntary,Better pay,Consulting,L2,Bengaluru,Woman,3,false
+E100723,2023-04-07,2023-04-01,Voluntary,Better pay,Data and Analytics,L1,Hyderabad,Man,4,true
+E100726,2024-05-08,2024-05-01,Involuntary,Performance,Corporate Functions,L1,Hyderabad,Man,1,false
+E100727,2024-03-05,2024-03-01,Voluntary,Higher studies,Data and Analytics,L2,Hyderabad,Man,3,false
+E100728,2024-02-05,2024-02-01,Voluntary,Career growth,Delivery,L3,Hyderabad,Woman,3,false
+E100731,2025-01-21,2025-01-01,Involuntary,Performance,Delivery,L4,Bengaluru,Woman,1,false
+E100732,2022-04-25,2022-04-01,Voluntary,Better pay,Cloud and Infrastructure,L2,Bengaluru,Man,4,true
+E100733,2022-12-25,2022-12-01,Involuntary,Performance,Data and Analytics,L1,Bengaluru,Woman,1,false
+E100735,2025-05-11,2025-05-01,Voluntary,Relocation or commute,Delivery,L3,Bengaluru,Man,2,false
+E100736,2023-02-11,2023-02-01,Voluntary,Career growth,Data and Analytics,L2,Hyderabad,Man,4,true
+E100738,2024-10-14,2024-10-01,Involuntary,Performance,Corporate Functions,L2,Hyderabad,Woman,1,false
+E100740,2025-05-16,2025-05-01,Voluntary,Career growth,Delivery,L2,Hyderabad,Man,3,false
+E100741,2023-08-08,2023-08-01,Voluntary,Career growth,Sales and Presales,L1,Hyderabad,Man,2,false
+E100742,2023-05-19,2023-05-01,Voluntary,Better pay,Delivery,L2,Hyderabad,Man,3,false
+E100743,2024-09-20,2024-09-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Woman,3,false
+E100745,2024-07-11,2024-07-01,Voluntary,Better pay,Quality Engineering,L3,Bengaluru,Man,3,false
+E100746,2022-04-17,2022-04-01,Voluntary,Personal,Delivery,L2,Bengaluru,Man,3,false
+E100748,2025-03-02,2025-03-01,Voluntary,Better pay,Delivery,L4,Hyderabad,Man,2,false
+E100750,2022-12-09,2022-12-01,Voluntary,Higher studies,Cloud and Infrastructure,L2,Bengaluru,Woman,2,false
+E100751,2022-11-07,2022-11-01,Voluntary,Personal,Delivery,L1,Hyderabad,Man,4,true
+E100754,2024-07-15,2024-07-01,Voluntary,Career growth,Data and Analytics,L2,Bengaluru,Man,3,false
+E100755,2024-07-22,2024-07-01,Involuntary,Performance,Corporate Functions,L1,Hyderabad,Man,1,false
+E100756,2022-07-24,2022-07-01,Voluntary,Career growth,Delivery,L2,Hyderabad,Woman,1,false
+E100757,2023-08-21,2023-08-01,Voluntary,Higher studies,Sales and Presales,L3,Bengaluru,Man,2,false
+E100759,2022-09-13,2022-09-01,Voluntary,Better pay,Sales and Presales,L3,Hyderabad,Man,3,false
+E100760,2022-10-04,2022-10-01,Voluntary,Personal,Data and Analytics,L1,Hyderabad,Woman,3,false
+E100763,2022-05-24,2022-05-01,Voluntary,Better pay,Delivery,L2,Bengaluru,Man,4,true
+E100764,2022-07-21,2022-07-01,Voluntary,Relocation or commute,Data and Analytics,L2,Hyderabad,Man,2,false
+E100765,2023-03-02,2023-03-01,Voluntary,Higher studies,Cloud and Infrastructure,L2,Hyderabad,Man,4,true
+E100767,2024-05-21,2024-05-01,Voluntary,Better pay,Delivery,L2,Hyderabad,Woman,3,false
+E100769,2022-08-09,2022-08-01,Voluntary,Relocation or commute,Delivery,L2,Bengaluru,Man,3,false
+E100773,2022-06-05,2022-06-01,Voluntary,Better pay,Delivery,L1,Bengaluru,Woman,,false
+E100779,2023-02-13,2023-02-01,Voluntary,Personal,Delivery,L1,Bengaluru,Man,3,false
+E100781,2023-12-19,2023-12-01,Voluntary,Better pay,Corporate Functions,L2,Bengaluru,Woman,2,false
+E100785,2024-12-09,2024-12-01,Voluntary,Better pay,Delivery,L3,Bengaluru,Man,4,true
+E100786,2022-08-08,2022-08-01,Involuntary,Performance,Data and Analytics,L3,Hyderabad,Man,1,false
+E100787,2025-11-15,2025-11-01,Voluntary,Relocation or commute,Delivery,L2,Bengaluru,Woman,3,false
+E100788,2022-07-09,2022-07-01,Voluntary,Career growth,Cloud and Infrastructure,L2,Hyderabad,Man,4,true
+E100789,2023-03-05,2023-03-01,Voluntary,Higher studies,Delivery,L2,Hyderabad,Man,3,false
+E100792,2022-09-19,2022-09-01,Voluntary,Personal,Data and Analytics,L3,Bengaluru,Man,1,false
+E100793,2024-02-20,2024-02-01,Voluntary,Personal,Delivery,L2,Hyderabad,Man,5,true
+E100794,2025-12-16,2025-12-01,Voluntary,Personal,Data and Analytics,L2,Bengaluru,Man,4,true
+E100795,2022-09-14,2022-09-01,Voluntary,Relocation or commute,Delivery,L1,Hyderabad,Woman,4,true
+E100799,2023-06-10,2023-06-01,Voluntary,Better pay,Quality Engineering,L2,Hyderabad,Man,3,false
+E100800,2022-10-23,2022-10-01,Voluntary,Relocation or commute,Delivery,L2,Hyderabad,Woman,3,false
+E100801,2024-03-20,2024-03-01,Voluntary,Career growth,Sales and Presales,L1,Hyderabad,Man,3,false
+E100803,2024-05-14,2024-05-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Woman,3,false
+E100804,2026-02-18,2026-02-01,Voluntary,Higher studies,Delivery,L2,Hyderabad,Man,3,false
+E100805,2024-04-14,2024-04-01,Voluntary,Higher studies,Cloud and Infrastructure,L1,Hyderabad,Woman,2,false
+E100808,2023-07-27,2023-07-01,Voluntary,Career growth,Cloud and Infrastructure,L2,Hyderabad,Woman,2,false
+E100809,2022-08-15,2022-08-01,Voluntary,Higher studies,Quality Engineering,L2,Bengaluru,Man,3,false
+E100810,2023-03-03,2023-03-01,Involuntary,Performance,Quality Engineering,L2,Hyderabad,Man,3,false
+E100813,2025-12-22,2025-12-01,Voluntary,Higher studies,Delivery,L2,Bengaluru,Man,3,false
+E100814,2022-06-03,2022-06-01,Voluntary,Better pay,Cloud and Infrastructure,L1,Hyderabad,Man,3,false
+E100815,2023-10-22,2023-10-01,Voluntary,Personal,Delivery,L1,Hyderabad,Man,3,false
+E100817,2022-06-19,2022-06-01,Voluntary,Better pay,Delivery,L2,Hyderabad,Woman,3,false
+E100818,2022-05-22,2022-05-01,Voluntary,Higher studies,Cloud and Infrastructure,L2,Hyderabad,Woman,3,false
+E100819,2022-06-12,2022-06-01,Voluntary,Better pay,Delivery,L2,Bengaluru,Man,4,true
+E100821,2022-07-06,2022-07-01,Involuntary,Performance,Cloud and Infrastructure,L2,Hyderabad,Man,1,false
+E100822,2023-01-05,2023-01-01,Voluntary,Career growth,Quality Engineering,L1,Bengaluru,Man,3,false
+E100823,2023-02-21,2023-02-01,Voluntary,Higher studies,Quality Engineering,L2,Hyderabad,Man,4,true
+E100825,2023-09-13,2023-09-01,Involuntary,Performance,Delivery,L3,Hyderabad,Man,4,false
+E100826,2023-12-18,2023-12-01,Voluntary,Career growth,Quality Engineering,L2,Hyderabad,Man,4,true
+E100827,2022-05-16,2022-05-01,Voluntary,Personal,Delivery,L2,Hyderabad,Man,3,false
+E100828,2024-09-19,2024-09-01,Involuntary,Performance,Quality Engineering,L5,Hyderabad,Man,2,false
+E100830,2023-06-09,2023-06-01,Voluntary,Better pay,Data and Analytics,L3,Bengaluru,Woman,3,false
+E100831,2022-07-07,2022-07-01,Voluntary,Better pay,Corporate Functions,L2,Bengaluru,Woman,2,false
+E100832,2022-05-06,2022-05-01,Voluntary,Higher studies,Data and Analytics,L2,Bengaluru,Woman,3,false
+E100833,2023-06-10,2023-06-01,Voluntary,Career growth,Sales and Presales,L2,Hyderabad,Woman,5,true
+E100834,2022-12-21,2022-12-01,Voluntary,Better pay,Delivery,L2,Hyderabad,Woman,5,true
+E100835,2022-10-07,2022-10-01,Voluntary,Higher studies,Data and Analytics,L2,Bengaluru,Man,3,false
+E100836,2023-03-04,2023-03-01,Voluntary,Higher studies,Cloud and Infrastructure,L2,Hyderabad,Man,4,true
+E100837,2023-12-26,2023-12-01,Voluntary,Better pay,Corporate Functions,L4,Hyderabad,Man,3,false
+E100838,2023-01-14,2023-01-01,Voluntary,Career growth,Data and Analytics,L3,Hyderabad,Man,3,false
+E100842,2022-05-13,2022-05-01,Voluntary,Better pay,Delivery,L5,Hyderabad,Man,3,false
+E100843,2024-02-01,2024-02-01,Voluntary,Higher studies,Data and Analytics,L1,Hyderabad,Woman,4,true
+E100846,2023-01-11,2023-01-01,Voluntary,Better pay,Cloud and Infrastructure,L3,Hyderabad,Woman,3,false
+E100847,2022-08-04,2022-08-01,Voluntary,Better pay,Cloud and Infrastructure,L3,Hyderabad,Non-binary,3,false
+E100850,2022-05-22,2022-05-01,Voluntary,Better pay,Data and Analytics,L3,Hyderabad,Woman,2,false
+E100852,2024-07-04,2024-07-01,Voluntary,Career growth,Quality Engineering,L1,Hyderabad,Woman,3,false
+E100853,2023-01-27,2023-01-01,Voluntary,Better pay,Quality Engineering,L3,Hyderabad,Woman,4,true
+E100856,2024-11-13,2024-11-01,Involuntary,Performance,Cloud and Infrastructure,L1,Hyderabad,Man,5,false
+E100858,2023-09-02,2023-09-01,Voluntary,Personal,Delivery,L2,Bengaluru,Man,4,true
+E100859,2022-04-12,2022-04-01,Voluntary,Better pay,Delivery,L2,Bengaluru,Man,3,false
+E100861,2023-01-08,2023-01-01,Voluntary,Career growth,Quality Engineering,L2,Bengaluru,Man,2,false
+E100867,2025-06-09,2025-06-01,Voluntary,Better pay,Delivery,L5,Bengaluru,Man,3,false
+E100869,2023-11-16,2023-11-01,Voluntary,Better pay,Delivery,L4,Bengaluru,Man,4,true
+E100870,2022-05-07,2022-05-01,Voluntary,Career growth,Delivery,L2,Hyderabad,Man,4,true
+E100872,2022-04-24,2022-04-01,Voluntary,Relocation or commute,Cloud and Infrastructure,L3,Hyderabad,Man,5,true
+E100881,2023-04-17,2023-04-01,Voluntary,Higher studies,Cloud and Infrastructure,L2,Bengaluru,Man,3,false
+E100891,2025-02-25,2025-02-01,Voluntary,Better pay,Quality Engineering,L3,Hyderabad,Woman,3,false
+E100900,2022-11-13,2022-11-01,Voluntary,Relocation or commute,Cloud and Infrastructure,L1,Bengaluru,Man,2,false
+E100901,2022-12-21,2022-12-01,Voluntary,Career growth,Quality Engineering,L2,Bengaluru,Woman,4,true
+E100903,2023-02-14,2023-02-01,Voluntary,Personal,Delivery,L3,Hyderabad,Woman,5,true
+E100904,2023-09-11,2023-09-01,Involuntary,Performance,Cloud and Infrastructure,L1,Bengaluru,Man,4,false
+E100906,2022-05-07,2022-05-01,Voluntary,Higher studies,Delivery,L1,Hyderabad,Man,3,false
+E100909,2023-10-21,2023-10-01,Involuntary,Performance,Delivery,L3,Bengaluru,Woman,2,false
+E100911,2024-10-10,2024-10-01,Voluntary,Better pay,Quality Engineering,L3,Bengaluru,Man,2,false
+E100912,2022-08-10,2022-08-01,Voluntary,Career growth,Data and Analytics,L2,Hyderabad,Man,3,false
+E100914,2025-03-15,2025-03-01,Voluntary,Better pay,Quality Engineering,L2,Bengaluru,Man,2,false
+E100916,2023-09-22,2023-09-01,Voluntary,Personal,Cloud and Infrastructure,L2,Bengaluru,Woman,3,false
+E100918,2023-12-07,2023-12-01,Voluntary,Better pay,Delivery,L2,Hyderabad,Man,5,true
+E100919,2024-05-04,2024-05-01,Voluntary,Personal,Cloud and Infrastructure,L2,Bengaluru,Man,3,false
+E100920,2022-08-09,2022-08-01,Voluntary,Career growth,Data and Analytics,L1,Bengaluru,Man,3,false
+E100922,2023-01-06,2023-01-01,Voluntary,Better pay,Delivery,L3,Hyderabad,Woman,2,false
+E100923,2025-01-10,2025-01-01,Voluntary,Personal,Delivery,L4,Hyderabad,Woman,4,true
+E100924,2022-05-18,2022-05-01,Voluntary,Personal,Data and Analytics,L3,Bengaluru,Woman,4,true
+E100925,2022-07-05,2022-07-01,Voluntary,Better pay,Delivery,L1,Bengaluru,Woman,3,false
+E100926,2024-07-20,2024-07-01,Voluntary,Better pay,Corporate Functions,L2,Hyderabad,Woman,3,false
+E100927,2023-08-18,2023-08-01,Voluntary,Career growth,Data and Analytics,L2,Bengaluru,Man,3,false
+E100929,2024-12-13,2024-12-01,Voluntary,Relocation or commute,Cloud and Infrastructure,L2,Bengaluru,Man,4,true
+E100930,2024-11-14,2024-11-01,Voluntary,Better pay,Delivery,L3,Bengaluru,Man,3,false
+E100931,2025-01-13,2025-01-01,Voluntary,Better pay,Consulting,L4,Bengaluru,Man,3,false
+E100932,2023-05-05,2023-05-01,Voluntary,Better pay,Cloud and Infrastructure,L4,Hyderabad,Man,3,false
+E100933,2023-02-25,2023-02-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Woman,3,false
+E100935,2022-05-21,2022-05-01,Voluntary,Personal,Sales and Presales,L2,Bengaluru,Woman,3,false
+E100936,2023-05-13,2023-05-01,Voluntary,Higher studies,Consulting,L2,Bengaluru,Woman,3,false
+E100937,2022-11-14,2022-11-01,Voluntary,Higher studies,Cloud and Infrastructure,L1,Bengaluru,Woman,3,false
+E100938,2022-04-01,2022-04-01,Voluntary,Better pay,Delivery,L3,Hyderabad,Man,3,false
+E100939,2022-09-25,2022-09-01,Voluntary,Higher studies,Delivery,L2,Hyderabad,Man,2,false
+E100941,2022-08-05,2022-08-01,Involuntary,Performance,Quality Engineering,L1,Hyderabad,Woman,4,false
+E100948,2022-11-13,2022-11-01,Voluntary,Better pay,Delivery,L3,Hyderabad,Man,2,false
+E100949,2022-10-18,2022-10-01,Voluntary,Better pay,Data and Analytics,L2,Bengaluru,Man,3,false
+E100950,2024-10-26,2024-10-01,Involuntary,Performance,Quality Engineering,L1,Bengaluru,Woman,1,false
+E100951,2022-05-14,2022-05-01,Voluntary,Career growth,Delivery,L5,Bengaluru,Man,3,false
+E100953,2022-05-26,2022-05-01,Voluntary,Relocation or commute,Delivery,L2,Hyderabad,Man,4,true
+E100956,2022-08-25,2022-08-01,Voluntary,Better pay,Quality Engineering,L2,Hyderabad,Man,3,false
+E100957,2025-11-01,2025-11-01,Voluntary,Career growth,Delivery,L4,Hyderabad,Man,4,true
+E100960,2022-12-26,2022-12-01,Voluntary,Higher studies,Delivery,L3,Hyderabad,Man,4,true
+E100961,2022-09-05,2022-09-01,Voluntary,Higher studies,Quality Engineering,L3,Hyderabad,Man,2,false
+E100963,2023-08-19,2023-08-01,Voluntary,Better pay,Consulting,L2,Bengaluru,Woman,4,true
+E100964,2022-05-08,2022-05-01,Voluntary,Personal,Delivery,L1,Hyderabad,Woman,3,false
+E100968,2022-06-11,2022-06-01,Involuntary,Performance,Delivery,L3,Bengaluru,Man,2,false
+E100972,2023-05-20,2023-05-01,Voluntary,Personal,Sales and Presales,L1,Hyderabad,Woman,2,false
+E100973,2022-07-12,2022-07-01,Voluntary,Better pay,Delivery,L3,Hyderabad,Woman,3,false
+E100978,2023-07-08,2023-07-01,Voluntary,Higher studies,Sales and Presales,L2,Hyderabad,Man,3,false
+E100979,2022-06-15,2022-06-01,Voluntary,Personal,Delivery,L2,Hyderabad,Woman,2,false
+E100980,2023-05-20,2023-05-01,Voluntary,Higher studies,Sales and Presales,L1,Hyderabad,Man,3,false
+E100981,2024-12-02,2024-12-01,Voluntary,Career growth,Delivery,L3,Bengaluru,Woman,3,false
+E100982,2022-11-06,2022-11-01,Voluntary,Personal,Quality Engineering,L2,Hyderabad,Man,2,false
+E100985,2022-10-11,2022-10-01,Voluntary,Career growth,Delivery,L3,Bengaluru,Man,2,false
+E100986,2022-11-14,2022-11-01,Voluntary,Career growth,Delivery,L2,Bengaluru,Man,3,false
+E100988,2022-07-05,2022-07-01,Voluntary,Better pay,Data and Analytics,L4,Hyderabad,Man,4,true
+E100989,2025-11-27,2025-11-01,Voluntary,Career growth,Data and Analytics,L3,Hyderabad,Man,5,true
+E100990,2023-04-23,2023-04-01,Voluntary,Higher studies,Delivery,L1,Hyderabad,Man,3,false
+E100992,2023-08-15,2023-08-01,Voluntary,Personal,Cloud and Infrastructure,L2,Hyderabad,Woman,2,false
+E100994,2022-10-14,2022-10-01,Voluntary,Better pay,Delivery,L4,Bengaluru,Man,2,false
+E100996,2024-06-15,2024-06-01,Voluntary,Higher studies,Delivery,L1,Hyderabad,Man,3,false
+E100997,2024-02-06,2024-02-01,Voluntary,Career growth,Quality Engineering,L3,Hyderabad,Man,3,false
+E100999,2022-09-24,2022-09-01,Voluntary,Career growth,Delivery,L4,Hyderabad,Woman,3,false
+E101000,2023-01-20,2023-01-01,Involuntary,Performance,Delivery,L2,Hyderabad,Woman,4,false
+E101001,2023-11-24,2023-11-01,Voluntary,Relocation or commute,Consulting,L4,Hyderabad,Woman,4,true
+E101002,2024-07-07,2024-07-01,Voluntary,Relocation or commute,Delivery,L2,Bengaluru,Man,4,true
+E101004,2025-11-14,2025-11-01,Involuntary,Performance,Delivery,L2,Hyderabad,Man,1,false
+E101007,2023-04-14,2023-04-01,Voluntary,Better pay,Delivery,L2,Hyderabad,Woman,4,true
+E101016,2023-01-25,2023-01-01,Voluntary,Personal,Quality Engineering,L2,Hyderabad,Man,2,false
+E101018,2022-04-09,2022-04-01,Voluntary,Better pay,Cloud and Infrastructure,L1,Hyderabad,Man,3,false
+E101019,2023-02-27,2023-02-01,Voluntary,Better pay,Quality Engineering,L3,Hyderabad,Man,3,false
+E101020,2022-04-13,2022-04-01,Voluntary,Career growth,Cloud and Infrastructure,L2,Bengaluru,Woman,3,false
+E101021,2024-07-12,2024-07-01,Voluntary,Career growth,Cloud and Infrastructure,L2,Hyderabad,Woman,4,true
+E101022,2022-04-04,2022-04-01,Voluntary,Better pay,Data and Analytics,L2,Bengaluru,Man,1,false
+E101023,2025-07-14,2025-07-01,Voluntary,Career growth,Delivery,L3,Bengaluru,Man,3,false
+E101026,2023-02-16,2023-02-01,Voluntary,Higher studies,Cloud and Infrastructure,L2,Hyderabad,Woman,2,false
+E101029,2023-04-05,2023-04-01,Voluntary,Career growth,Delivery,L2,Bengaluru,Woman,5,true
+E101031,2024-09-21,2024-09-01,Voluntary,Better pay,Delivery,L1,Bengaluru,Woman,2,false
+E101032,2023-03-23,2023-03-01,Voluntary,Higher studies,Corporate Functions,L1,Bengaluru,Man,3,false
+E101033,2023-11-26,2023-11-01,Involuntary,Performance,Delivery,L2,Bengaluru,Man,2,false
+E101034,2023-09-24,2023-09-01,Voluntary,Better pay,Delivery,L2,Bengaluru,Man,5,true
+E101037,2025-08-12,2025-08-01,Involuntary,Performance,Quality Engineering,L1,Hyderabad,Woman,3,false
+E101039,2022-11-03,2022-11-01,Voluntary,Career growth,Delivery,L1,Hyderabad,Woman,,false
+E101042,2023-01-22,2023-01-01,Voluntary,Career growth,Sales and Presales,L2,Bengaluru,Man,3,false
+E101043,2023-02-24,2023-02-01,Voluntary,Better pay,Cloud and Infrastructure,L3,Bengaluru,Woman,2,false
+E101044,2023-04-02,2023-04-01,Voluntary,Better pay,Quality Engineering,L5,Hyderabad,Man,3,false
+E101047,2022-12-25,2022-12-01,Voluntary,Higher studies,Quality Engineering,L1,Hyderabad,Man,1,false
+E101049,2025-10-05,2025-10-01,Voluntary,Higher studies,Delivery,L2,Hyderabad,Man,3,false
+E101053,2024-04-17,2024-04-01,Voluntary,Career growth,Quality Engineering,L1,Bengaluru,Woman,4,true
+E101054,2022-06-25,2022-06-01,Voluntary,Career growth,Quality Engineering,L4,Hyderabad,Man,3,false
+E101055,2022-08-07,2022-08-01,Voluntary,Better pay,Quality Engineering,L4,Hyderabad,Man,5,true
+E101056,2022-07-18,2022-07-01,Voluntary,Higher studies,Quality Engineering,L1,Bengaluru,Man,4,true
+E101057,2024-09-25,2024-09-01,Voluntary,Higher studies,Cloud and Infrastructure,L2,Hyderabad,Man,2,false
+E101058,2023-12-13,2023-12-01,Voluntary,Personal,Delivery,L3,Hyderabad,Man,3,false
+E101060,2022-11-10,2022-11-01,Voluntary,Career growth,Delivery,L2,Bengaluru,Man,3,false
+E101061,2022-09-23,2022-09-01,Involuntary,Performance,Delivery,L3,Bengaluru,Woman,5,false
+E101062,2023-09-13,2023-09-01,Voluntary,Better pay,Data and Analytics,L1,Bengaluru,Woman,3,false
+E101064,2023-05-11,2023-05-01,Voluntary,Career growth,Delivery,L4,Bengaluru,Man,3,false
+E101065,2025-10-19,2025-10-01,Voluntary,Career growth,Cloud and Infrastructure,L2,Hyderabad,Woman,2,false
+E101066,2023-11-16,2023-11-01,Voluntary,Career growth,Data and Analytics,L1,Hyderabad,Man,3,false
+E101071,2022-10-07,2022-10-01,Voluntary,Better pay,Delivery,L2,Hyderabad,Man,3,false
+E101073,2025-07-21,2025-07-01,Voluntary,Better pay,Corporate Functions,L1,Bengaluru,Man,2,false
+E101076,2024-04-22,2024-04-01,Voluntary,Higher studies,Delivery,L2,Bengaluru,Woman,3,false
+E101077,2025-02-03,2025-02-01,Involuntary,Performance,Consulting,L2,Bengaluru,Man,1,false
+E101078,2024-06-21,2024-06-01,Involuntary,Performance,Corporate Functions,L4,Hyderabad,Man,2,false
+E101079,2023-07-16,2023-07-01,Voluntary,Relocation or commute,Delivery,L1,Bengaluru,Woman,2,false
+E101080,2022-05-25,2022-05-01,Voluntary,Better pay,Sales and Presales,L1,Hyderabad,Man,4,true
+E101081,2022-07-15,2022-07-01,Voluntary,Relocation or commute,Sales and Presales,L5,Hyderabad,Man,3,false
+E101082,2022-04-22,2022-04-01,Voluntary,Better pay,Data and Analytics,L1,Hyderabad,Man,4,true
+E101083,2022-05-12,2022-05-01,Voluntary,Better pay,Quality Engineering,L2,Hyderabad,Man,4,true
+E101087,2022-05-05,2022-05-01,Voluntary,Higher studies,Data and Analytics,L2,Hyderabad,Man,4,true
+E101091,2022-05-03,2022-05-01,Voluntary,Better pay,Consulting,L2,Hyderabad,Man,2,false
+E101093,2022-06-22,2022-06-01,Voluntary,Career growth,Delivery,L3,Bengaluru,Woman,2,false
+E101094,2024-09-20,2024-09-01,Voluntary,Higher studies,Delivery,L2,Hyderabad,Man,2,false
+E101096,2023-03-12,2023-03-01,Voluntary,Personal,Corporate Functions,L2,Hyderabad,Man,4,true
+E101099,2022-10-11,2022-10-01,Voluntary,Personal,Delivery,L1,Hyderabad,Man,3,false
+E101102,2025-05-15,2025-05-01,Voluntary,Better pay,Quality Engineering,L4,Bengaluru,Man,4,true
+E101103,2023-11-15,2023-11-01,Voluntary,Career growth,Quality Engineering,L4,Hyderabad,Woman,3,false
+E101104,2022-04-04,2022-04-01,Involuntary,Performance,Delivery,L3,Hyderabad,Woman,1,false
+E101106,2023-08-15,2023-08-01,Voluntary,Personal,Delivery,L2,Bengaluru,Man,4,true
+E101107,2022-09-11,2022-09-01,Voluntary,Career growth,Delivery,L2,Bengaluru,Woman,4,true
+E101112,2024-09-19,2024-09-01,Voluntary,Higher studies,Quality Engineering,L1,Hyderabad,Man,3,false
+E101114,2023-04-15,2023-04-01,Voluntary,Better pay,Delivery,L6,Bengaluru,Man,4,true
+E101115,2023-10-05,2023-10-01,Involuntary,Performance,Delivery,L1,Hyderabad,Man,2,false
+E101117,2024-04-19,2024-04-01,Voluntary,Career growth,Delivery,L4,Hyderabad,Woman,4,true
+E101122,2022-08-03,2022-08-01,Voluntary,Career growth,Delivery,L5,Bengaluru,Man,4,true
+E101123,2023-11-05,2023-11-01,Voluntary,Relocation or commute,Consulting,L1,Hyderabad,Man,3,false
+E101126,2022-12-24,2022-12-01,Voluntary,Better pay,Sales and Presales,L1,Hyderabad,Woman,3,false
+E101127,2022-06-06,2022-06-01,Voluntary,Relocation or commute,Delivery,L3,Bengaluru,Man,4,true
+E101129,2025-07-18,2025-07-01,Involuntary,Performance,Delivery,L1,Bengaluru,Woman,2,false
+E101133,2023-07-05,2023-07-01,Voluntary,Personal,Sales and Presales,L3,Bengaluru,Man,3,false
+E101135,2025-12-09,2025-12-01,Voluntary,Relocation or commute,Delivery,L4,Hyderabad,Man,4,true
+E101140,2023-11-26,2023-11-01,Voluntary,Career growth,Delivery,L3,Bengaluru,Man,4,true
+E101141,2023-10-22,2023-10-01,Voluntary,Relocation or commute,Corporate Functions,L4,Bengaluru,Man,2,false
+E101143,2023-05-26,2023-05-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Non-binary,3,false
+E101145,2023-11-08,2023-11-01,Involuntary,Restructuring,Delivery,L2,Bengaluru,Woman,3,false
+E101146,2023-09-21,2023-09-01,Involuntary,Performance,Quality Engineering,L2,Hyderabad,Woman,1,false
+E101147,2022-09-17,2022-09-01,Voluntary,Career growth,Delivery,L3,Hyderabad,Man,2,false
+E101148,2023-03-10,2023-03-01,Voluntary,Personal,Delivery,L3,Hyderabad,Man,3,false
+E101150,2022-12-05,2022-12-01,Voluntary,Higher studies,Delivery,L3,Bengaluru,Woman,3,false
+E101152,2024-07-20,2024-07-01,Involuntary,Performance,Delivery,L1,Hyderabad,Woman,2,false
+E101160,2025-05-26,2025-05-01,Voluntary,Career growth,Delivery,L3,Bengaluru,Woman,3,false
+E101161,2022-11-02,2022-11-01,Involuntary,Performance,Delivery,L4,Bengaluru,Man,2,false
+E101162,2022-12-02,2022-12-01,Voluntary,Career growth,Delivery,L5,Hyderabad,Man,2,false
+E101163,2023-12-03,2023-12-01,Voluntary,Career growth,Quality Engineering,L3,Hyderabad,Man,2,false
+E101164,2023-01-18,2023-01-01,Voluntary,Better pay,Delivery,L3,Bengaluru,Man,3,false
+E101165,2022-10-23,2022-10-01,Voluntary,Higher studies,Quality Engineering,L1,Hyderabad,Woman,4,true
+E101167,2022-12-08,2022-12-01,Involuntary,Performance,Data and Analytics,L5,Hyderabad,Man,2,false
+E101170,2023-06-09,2023-06-01,Voluntary,Higher studies,Data and Analytics,L1,Bengaluru,Woman,1,false
+E101172,2025-07-09,2025-07-01,Involuntary,Performance,Delivery,L1,Hyderabad,Man,3,false
+E101174,2022-08-25,2022-08-01,Voluntary,Higher studies,Delivery,L1,Hyderabad,Man,2,false
+E101184,2022-06-25,2022-06-01,Voluntary,Higher studies,Sales and Presales,L4,Bengaluru,Woman,3,false
+E101185,2022-05-19,2022-05-01,Voluntary,Career growth,Sales and Presales,L3,Hyderabad,Woman,2,false
+E101186,2023-01-24,2023-01-01,Voluntary,Relocation or commute,Cloud and Infrastructure,L1,Hyderabad,Woman,2,false
+E101189,2023-12-12,2023-12-01,Voluntary,Better pay,Delivery,L1,Bengaluru,Man,2,false
+E101194,2022-08-13,2022-08-01,Involuntary,Performance,Data and Analytics,L2,Bengaluru,Woman,2,false
+E101195,2023-04-07,2023-04-01,Voluntary,Career growth,Quality Engineering,L4,Hyderabad,Man,4,true
+E101196,2026-03-03,2026-03-01,Voluntary,Higher studies,Data and Analytics,L4,Bengaluru,Man,5,true
+E101198,2025-05-15,2025-05-01,Voluntary,Career growth,Delivery,L2,Hyderabad,Man,4,true
+E101201,2022-08-01,2022-08-01,Involuntary,Performance,Delivery,L4,Hyderabad,Man,2,false
+E101203,2023-01-15,2023-01-01,Voluntary,Better pay,Delivery,L2,Bengaluru,Man,3,false
+E101211,2025-09-26,2025-09-01,Voluntary,Better pay,Delivery,L3,Hyderabad,Woman,5,true
+E101212,2025-10-02,2025-10-01,Voluntary,Relocation or commute,Quality Engineering,L2,Bengaluru,Woman,4,true
+E101213,2022-05-24,2022-05-01,Voluntary,Better pay,Data and Analytics,L1,Hyderabad,Woman,3,false
+E101215,2025-07-11,2025-07-01,Involuntary,Performance,Quality Engineering,L3,Bengaluru,Woman,3,false
+E101219,2025-08-10,2025-08-01,Voluntary,Relocation or commute,Delivery,L3,Hyderabad,Man,4,true
+E101220,2022-05-03,2022-05-01,Voluntary,Better pay,Quality Engineering,L1,Bengaluru,Woman,3,false
+E101222,2022-09-15,2022-09-01,Voluntary,Career growth,Delivery,L4,Hyderabad,Man,4,true
+E101226,2023-05-15,2023-05-01,Voluntary,Relocation or commute,Data and Analytics,L2,Bengaluru,Man,2,false
+E101228,2023-04-10,2023-04-01,Voluntary,Career growth,Delivery,L3,Hyderabad,Man,3,false
+E101229,2025-02-15,2025-02-01,Voluntary,Higher studies,Sales and Presales,L2,Hyderabad,Man,2,false
+E101230,2024-10-17,2024-10-01,Voluntary,Career growth,Delivery,L3,Hyderabad,Man,3,false
+E101231,2026-02-04,2026-02-01,Voluntary,Career growth,Delivery,L2,Bengaluru,Woman,5,true
+E101235,2024-01-21,2024-01-01,Voluntary,Better pay,Delivery,L3,Bengaluru,Woman,3,false
+E101237,2022-06-16,2022-06-01,Voluntary,Career growth,Cloud and Infrastructure,L2,Hyderabad,Man,4,true
+E101238,2025-04-06,2025-04-01,Voluntary,Better pay,Quality Engineering,L2,Hyderabad,Man,2,false
+E101240,2023-05-07,2023-05-01,Voluntary,Relocation or commute,Delivery,L3,Hyderabad,Man,3,false
+E101243,2022-08-23,2022-08-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Woman,3,false
+E101244,2025-09-07,2025-09-01,Involuntary,Performance,Quality Engineering,L6,Hyderabad,Man,1,false
+E101245,2023-04-19,2023-04-01,Voluntary,Relocation or commute,Delivery,L3,Bengaluru,Man,3,false
+E101247,2022-11-26,2022-11-01,Voluntary,Better pay,Quality Engineering,L2,Hyderabad,Man,4,true
+E101248,2022-06-15,2022-06-01,Involuntary,Performance,Corporate Functions,L3,Hyderabad,Man,1,false
+E101250,2022-07-20,2022-07-01,Involuntary,Performance,Corporate Functions,L3,Hyderabad,Man,2,false
+E101251,2024-06-24,2024-06-01,Voluntary,Career growth,Delivery,L4,Hyderabad,Man,3,false
+E101252,2023-12-17,2023-12-01,Voluntary,Better pay,Quality Engineering,L1,Bengaluru,Man,2,false
+E101253,2025-05-05,2025-05-01,Voluntary,Better pay,Delivery,L3,Bengaluru,Woman,3,false
+E101255,2022-08-10,2022-08-01,Voluntary,Better pay,Sales and Presales,L2,Bengaluru,Woman,2,false
+E101258,2022-10-16,2022-10-01,Voluntary,Higher studies,Delivery,L1,Hyderabad,Woman,3,false
+E101261,2025-10-04,2025-10-01,Voluntary,Relocation or commute,Data and Analytics,L4,Hyderabad,Woman,3,false
+E101263,2025-11-19,2025-11-01,Voluntary,Personal,Delivery,L3,Hyderabad,Woman,3,false
+E101267,2022-07-21,2022-07-01,Voluntary,Better pay,Cloud and Infrastructure,L1,Hyderabad,Woman,5,true
+E101268,2023-09-01,2023-09-01,Voluntary,Higher studies,Sales and Presales,L2,Hyderabad,Man,4,true
+E101269,2022-05-21,2022-05-01,Voluntary,Higher studies,Corporate Functions,L2,Bengaluru,Woman,4,true
+E101272,2022-07-18,2022-07-01,Involuntary,Performance,Delivery,L2,Hyderabad,Man,1,false
+E101273,2023-11-08,2023-11-01,Voluntary,Career growth,Corporate Functions,L2,Bengaluru,Man,4,true
+E101276,2023-02-19,2023-02-01,Voluntary,Personal,Delivery,L2,Hyderabad,Man,3,false
+E101278,2023-04-09,2023-04-01,Voluntary,Higher studies,Quality Engineering,L1,Hyderabad,Woman,3,false
+E101281,2022-06-24,2022-06-01,Voluntary,Higher studies,Delivery,L1,Hyderabad,Man,4,true
+E101283,2022-08-16,2022-08-01,Voluntary,Better pay,Delivery,L2,Bengaluru,Woman,4,true
+E101284,2022-12-25,2022-12-01,Voluntary,Career growth,Sales and Presales,L1,Hyderabad,Woman,4,true
+E101285,2022-11-20,2022-11-01,Voluntary,Career growth,Consulting,L6,Bengaluru,Man,3,false
+E101286,2024-04-22,2024-04-01,Voluntary,Better pay,Data and Analytics,L1,Hyderabad,Woman,4,true
+E101287,2022-07-24,2022-07-01,Voluntary,Personal,Delivery,L3,Hyderabad,Man,4,true
+E101290,2024-08-11,2024-08-01,Voluntary,Relocation or commute,Delivery,L2,Hyderabad,Man,3,false
+E101291,2025-12-08,2025-12-01,Involuntary,Performance,Data and Analytics,L2,Hyderabad,Man,2,false
+E101295,2023-02-16,2023-02-01,Voluntary,Better pay,Delivery,L2,Bengaluru,Woman,2,false
+E101298,2022-04-23,2022-04-01,Voluntary,Relocation or commute,Sales and Presales,L1,Hyderabad,Man,2,false
+E101299,2024-08-23,2024-08-01,Voluntary,Career growth,Delivery,L4,Bengaluru,Man,5,true
+E101303,2024-11-08,2024-11-01,Voluntary,Career growth,Sales and Presales,L5,Hyderabad,Woman,3,false
+E101305,2022-11-14,2022-11-01,Voluntary,Relocation or commute,Delivery,L4,Hyderabad,Man,4,true
+E101306,2022-12-13,2022-12-01,Voluntary,Higher studies,Delivery,L1,Bengaluru,Man,,false
+E101316,2023-10-22,2023-10-01,Involuntary,Restructuring,Delivery,L1,Hyderabad,Man,3,false
+E101320,2022-08-09,2022-08-01,Voluntary,Higher studies,Delivery,L2,Hyderabad,Man,3,false
+E101321,2023-11-27,2023-11-01,Voluntary,Higher studies,Delivery,L4,Hyderabad,Man,3,false
+E101324,2022-07-03,2022-07-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Man,1,false
+E101326,2023-08-03,2023-08-01,Involuntary,Performance,Delivery,L3,Bengaluru,Woman,2,false
+E101328,2023-05-02,2023-05-01,Involuntary,Performance,Quality Engineering,L2,Bengaluru,Man,3,false
+E101330,2025-06-08,2025-06-01,Voluntary,Higher studies,Quality Engineering,L1,Bengaluru,Woman,3,false
+E101331,2023-08-04,2023-08-01,Voluntary,Higher studies,Quality Engineering,L1,Hyderabad,Woman,3,false
+E101334,2022-09-10,2022-09-01,Voluntary,Better pay,Sales and Presales,L2,Hyderabad,Woman,3,false
+E101335,2022-12-22,2022-12-01,Voluntary,Higher studies,Sales and Presales,L1,Bengaluru,Woman,,false
+E101338,2023-08-13,2023-08-01,Involuntary,Performance,Delivery,L1,Bengaluru,Man,1,false
+E101344,2024-09-19,2024-09-01,Voluntary,Career growth,Cloud and Infrastructure,L3,Bengaluru,Man,3,false
+E101345,2022-04-04,2022-04-01,Voluntary,Relocation or commute,Delivery,L3,Hyderabad,Woman,3,false
+E101346,2022-05-21,2022-05-01,Voluntary,Personal,Quality Engineering,L3,Bengaluru,Woman,2,false
+E101347,2022-09-02,2022-09-01,Voluntary,Better pay,Data and Analytics,L3,Bengaluru,Man,3,false
+E101348,2022-07-09,2022-07-01,Voluntary,Career growth,Delivery,L1,Bengaluru,Man,3,false
+E101350,2022-08-22,2022-08-01,Voluntary,Relocation or commute,Data and Analytics,L2,Bengaluru,Man,5,true
+E101351,2023-01-25,2023-01-01,Voluntary,Higher studies,Data and Analytics,L2,Hyderabad,Woman,5,true
+E101356,2023-01-01,2023-01-01,Voluntary,Relocation or commute,Quality Engineering,L3,Hyderabad,Woman,4,true
+E101359,2023-08-20,2023-08-01,Voluntary,Relocation or commute,Quality Engineering,L1,Hyderabad,Woman,1,false
+E101361,2025-01-01,2025-01-01,Voluntary,Higher studies,Delivery,L2,Bengaluru,Man,4,true
+E101365,2023-09-16,2023-09-01,Voluntary,Relocation or commute,Corporate Functions,L2,Hyderabad,Woman,5,true
+E101368,2024-04-09,2024-04-01,Involuntary,Performance,Consulting,L3,Bengaluru,Man,1,false
+E101369,2023-09-10,2023-09-01,Voluntary,Better pay,Data and Analytics,L4,Bengaluru,Man,3,false
+E101370,2023-07-18,2023-07-01,Voluntary,Better pay,Quality Engineering,L3,Bengaluru,Woman,3,false
+E101373,2023-09-01,2023-09-01,Voluntary,Higher studies,Data and Analytics,L1,Bengaluru,Woman,2,false
+E101374,2022-10-24,2022-10-01,Voluntary,Career growth,Data and Analytics,L4,Hyderabad,Woman,4,true
+E101375,2022-07-18,2022-07-01,Voluntary,Relocation or commute,Delivery,L2,Hyderabad,Woman,1,false
+E101376,2023-05-25,2023-05-01,Voluntary,Higher studies,Cloud and Infrastructure,L3,Hyderabad,Woman,3,false
+E101377,2022-10-08,2022-10-01,Voluntary,Better pay,Delivery,L2,Hyderabad,Man,4,true
+E101378,2022-10-25,2022-10-01,Voluntary,Higher studies,Quality Engineering,L2,Bengaluru,Non-binary,3,false
+E101381,2023-02-06,2023-02-01,Involuntary,Performance,Delivery,L3,Bengaluru,Man,2,false
+E101383,2023-04-06,2023-04-01,Voluntary,Personal,Delivery,L2,Bengaluru,Woman,2,false
+E101384,2023-09-27,2023-09-01,Voluntary,Relocation or commute,Quality Engineering,L1,Hyderabad,Woman,3,false
+E101387,2023-01-27,2023-01-01,Voluntary,Relocation or commute,Quality Engineering,L2,Bengaluru,Woman,3,false
+E101388,2022-07-18,2022-07-01,Voluntary,Higher studies,Sales and Presales,L1,Hyderabad,Woman,3,false
+E101390,2023-07-09,2023-07-01,Voluntary,Career growth,Data and Analytics,L4,Hyderabad,Man,3,false
+E101395,2023-11-12,2023-11-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Man,4,true
+E101396,2023-09-10,2023-09-01,Involuntary,Performance,Data and Analytics,L2,Bengaluru,Man,1,false
+E101397,2025-12-05,2025-12-01,Voluntary,Relocation or commute,Delivery,L3,Bengaluru,Man,3,false
+E101398,2023-12-01,2023-12-01,Voluntary,Higher studies,Delivery,L2,Hyderabad,Man,1,false
+E101400,2022-10-27,2022-10-01,Involuntary,Performance,Delivery,L2,Bengaluru,Man,2,false
+E101401,2023-02-09,2023-02-01,Voluntary,Better pay,Delivery,L3,Bengaluru,Man,4,true
+E101403,2024-12-20,2024-12-01,Voluntary,Relocation or commute,Delivery,L3,Hyderabad,Man,4,true
+E101404,2023-04-09,2023-04-01,Voluntary,Better pay,Consulting,L1,Bengaluru,Man,3,false
+E101406,2022-07-09,2022-07-01,Voluntary,Relocation or commute,Data and Analytics,L1,Hyderabad,Man,3,false
+E101408,2024-10-13,2024-10-01,Voluntary,Relocation or commute,Delivery,L1,Bengaluru,Woman,3,false
+E101409,2023-10-16,2023-10-01,Voluntary,Better pay,Delivery,L3,Bengaluru,Man,1,false
+E101410,2024-03-15,2024-03-01,Voluntary,Career growth,Delivery,L1,Bengaluru,Woman,2,false
+E101411,2024-10-24,2024-10-01,Voluntary,Career growth,Consulting,L3,Bengaluru,Man,4,true
+E101412,2022-04-11,2022-04-01,Voluntary,Higher studies,Data and Analytics,L1,Bengaluru,Man,3,false
+E101413,2023-10-03,2023-10-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Man,5,true
+E101415,2022-09-26,2022-09-01,Voluntary,Career growth,Delivery,L2,Hyderabad,Man,3,false
+E101420,2023-07-18,2023-07-01,Involuntary,Performance,Sales and Presales,L1,Hyderabad,Man,2,false
+E101421,2022-04-25,2022-04-01,Voluntary,Career growth,Delivery,L2,Hyderabad,Man,5,true
+E101422,2025-05-16,2025-05-01,Voluntary,Personal,Data and Analytics,L3,Hyderabad,Man,4,true
+E101428,2023-08-10,2023-08-01,Involuntary,Performance,Data and Analytics,L2,Hyderabad,Man,2,false
+E101429,2022-11-02,2022-11-01,Voluntary,Better pay,Delivery,L1,Bengaluru,Woman,4,true
+E101430,2025-10-06,2025-10-01,Voluntary,Better pay,Cloud and Infrastructure,L2,Hyderabad,Man,5,true
+E101431,2023-11-02,2023-11-01,Voluntary,Personal,Delivery,L1,Bengaluru,Woman,3,false
+E101433,2026-01-16,2026-01-01,Involuntary,Performance,Sales and Presales,L4,Hyderabad,Man,1,false
+E101435,2022-08-12,2022-08-01,Voluntary,Better pay,Cloud and Infrastructure,L1,Hyderabad,Woman,3,false
+E101438,2022-07-24,2022-07-01,Voluntary,Personal,Data and Analytics,L1,Bengaluru,Woman,4,true
+E101439,2022-10-07,2022-10-01,Voluntary,Relocation or commute,Data and Analytics,L5,Hyderabad,Man,2,false
+E101440,2022-06-26,2022-06-01,Involuntary,Performance,Delivery,L3,Bengaluru,Woman,2,false
+E101442,2023-08-12,2023-08-01,Voluntary,Career growth,Consulting,L2,Hyderabad,Woman,3,false
+E101444,2025-05-13,2025-05-01,Voluntary,Personal,Delivery,L3,Bengaluru,Man,3,false
+E101445,2023-07-20,2023-07-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Man,2,false
+E101450,2023-12-17,2023-12-01,Voluntary,Career growth,Data and Analytics,L1,Hyderabad,Man,4,true
+E101459,2022-08-07,2022-08-01,Voluntary,Career growth,Sales and Presales,L5,Hyderabad,Man,2,false
+E101460,2023-08-08,2023-08-01,Voluntary,Higher studies,Delivery,L2,Hyderabad,Woman,3,false
+E101462,2024-12-26,2024-12-01,Voluntary,Higher studies,Delivery,L4,Hyderabad,Woman,4,true
+E101464,2022-04-16,2022-04-01,Voluntary,Career growth,Delivery,L3,Hyderabad,Man,2,false
+E101465,2023-03-27,2023-03-01,Voluntary,Higher studies,Sales and Presales,L1,Bengaluru,Man,4,true
+E101466,2022-08-21,2022-08-01,Involuntary,Performance,Quality Engineering,L1,Bengaluru,Man,1,false
+E101467,2022-11-04,2022-11-01,Voluntary,Higher studies,Quality Engineering,L2,Bengaluru,Woman,3,false
+E101469,2024-09-19,2024-09-01,Voluntary,Relocation or commute,Delivery,L2,Hyderabad,Man,3,false
+E101470,2023-10-03,2023-10-01,Voluntary,Better pay,Delivery,L3,Bengaluru,Woman,5,true
+E101476,2023-03-26,2023-03-01,Voluntary,Personal,Quality Engineering,L3,Hyderabad,Woman,2,false
+E101479,2022-05-14,2022-05-01,Voluntary,Relocation or commute,Sales and Presales,L1,Bengaluru,Man,4,true
+E101480,2022-11-16,2022-11-01,Voluntary,Better pay,Sales and Presales,L2,Bengaluru,Man,5,true
+E101484,2022-05-04,2022-05-01,Involuntary,Performance,Sales and Presales,L1,Hyderabad,Woman,1,false
+E101486,2022-07-03,2022-07-01,Voluntary,Better pay,Delivery,L3,Bengaluru,Man,2,false
+E101488,2024-06-06,2024-06-01,Voluntary,Personal,Delivery,L5,Hyderabad,Man,4,true
+E101490,2024-12-05,2024-12-01,Voluntary,Career growth,Delivery,L3,Bengaluru,Man,4,true
+E101492,2023-02-01,2023-02-01,Voluntary,Better pay,Delivery,L2,Hyderabad,Woman,4,true
+E101493,2022-09-21,2022-09-01,Voluntary,Career growth,Data and Analytics,L2,Hyderabad,Man,5,true
+E101494,2024-03-08,2024-03-01,Voluntary,Better pay,Data and Analytics,L3,Hyderabad,Man,3,false
+E101495,2022-09-03,2022-09-01,Voluntary,Relocation or commute,Delivery,L2,Bengaluru,Man,4,true
+E101496,2022-04-01,2022-04-01,Voluntary,Better pay,Cloud and Infrastructure,L3,Hyderabad,Woman,3,false
+E101500,2025-11-14,2025-11-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Man,3,false
+E101501,2024-08-08,2024-08-01,Voluntary,Relocation or commute,Delivery,L3,Bengaluru,Man,3,false
+E101504,2025-05-05,2025-05-01,Voluntary,Better pay,Cloud and Infrastructure,L2,Hyderabad,Man,2,false
+E101507,2023-01-14,2023-01-01,Voluntary,Better pay,Delivery,L2,Hyderabad,Man,4,true
+E101508,2025-12-22,2025-12-01,Voluntary,Career growth,Cloud and Infrastructure,L2,Hyderabad,Woman,4,true
+E101509,2024-09-22,2024-09-01,Voluntary,Career growth,Delivery,L3,Hyderabad,Man,3,false
+E101512,2023-05-14,2023-05-01,Involuntary,Performance,Delivery,L1,Bengaluru,Woman,1,false
+E101514,2025-10-20,2025-10-01,Voluntary,Relocation or commute,Quality Engineering,L2,Hyderabad,Man,3,false
+E101515,2023-01-01,2023-01-01,Voluntary,Relocation or commute,Delivery,L3,Hyderabad,Man,2,false
+E101524,2024-08-09,2024-08-01,Voluntary,Higher studies,Data and Analytics,L2,Bengaluru,Woman,3,false
+E101528,2026-02-17,2026-02-01,Voluntary,Better pay,Delivery,L2,Bengaluru,Man,3,false
+E101529,2025-10-01,2025-10-01,Voluntary,Better pay,Delivery,L3,Bengaluru,Man,3,false
+E101534,2022-09-08,2022-09-01,Voluntary,Personal,Delivery,L4,Hyderabad,Man,2,false
+E101540,2022-06-18,2022-06-01,Voluntary,Career growth,Delivery,L2,Hyderabad,Man,3,false
+E101541,2022-07-02,2022-07-01,Voluntary,Career growth,Cloud and Infrastructure,L1,Hyderabad,Woman,5,true
+E101542,2022-09-04,2022-09-01,Voluntary,Better pay,Delivery,L2,Bengaluru,Man,4,true
+E101543,2025-04-21,2025-04-01,Voluntary,Personal,Delivery,L3,Bengaluru,Man,4,true
+E101546,2023-09-20,2023-09-01,Involuntary,Performance,Delivery,L1,Hyderabad,Man,3,false
+E101547,2023-09-23,2023-09-01,Involuntary,Performance,Delivery,L3,Bengaluru,Man,2,false
+E101548,2023-11-16,2023-11-01,Involuntary,Restructuring,Sales and Presales,L3,Hyderabad,Woman,3,false
+E101549,2022-10-08,2022-10-01,Voluntary,Higher studies,Data and Analytics,L2,Hyderabad,Man,3,false
+E101550,2023-11-19,2023-11-01,Voluntary,Relocation or commute,Cloud and Infrastructure,L2,Bengaluru,Woman,2,false
+E101552,2026-01-13,2026-01-01,Involuntary,Performance,Delivery,L2,Bengaluru,Man,1,false
+E101553,2022-04-07,2022-04-01,Involuntary,Performance,Quality Engineering,L1,Hyderabad,Woman,1,false
+E101554,2022-10-10,2022-10-01,Voluntary,Career growth,Cloud and Infrastructure,L4,Bengaluru,Woman,4,true
+E101555,2022-10-22,2022-10-01,Voluntary,Relocation or commute,Delivery,L3,Bengaluru,Man,4,true
+E101557,2026-02-09,2026-02-01,Voluntary,Personal,Cloud and Infrastructure,L2,Hyderabad,Man,5,true
+E101558,2023-08-17,2023-08-01,Voluntary,Relocation or commute,Delivery,L2,Bengaluru,Man,4,true
+E101561,2023-03-24,2023-03-01,Voluntary,Relocation or commute,Data and Analytics,L4,Hyderabad,Man,2,false
+E101563,2022-10-25,2022-10-01,Voluntary,Better pay,Delivery,L5,Bengaluru,Man,3,false
+E101565,2022-11-03,2022-11-01,Voluntary,Better pay,Data and Analytics,L2,Bengaluru,Man,2,false
+E101567,2025-01-21,2025-01-01,Voluntary,Career growth,Quality Engineering,L2,Hyderabad,Woman,3,false
+E101573,2022-05-09,2022-05-01,Voluntary,Better pay,Delivery,L2,Hyderabad,Man,1,false
+E101575,2026-02-13,2026-02-01,Voluntary,Better pay,Delivery,L2,Hyderabad,Woman,3,false
+E101576,2024-10-13,2024-10-01,Voluntary,Career growth,Delivery,L2,Hyderabad,Man,4,true
+E101577,2022-04-18,2022-04-01,Voluntary,Better pay,Cloud and Infrastructure,L2,Hyderabad,Man,3,false
+E101579,2023-10-23,2023-10-01,Involuntary,Performance,Delivery,L1,Hyderabad,Man,2,false
+E101583,2025-11-09,2025-11-01,Voluntary,Higher studies,Delivery,L2,Bengaluru,Man,3,false
+E101584,2023-03-12,2023-03-01,Voluntary,Career growth,Delivery,L3,Hyderabad,Man,3,false
+E101585,2022-08-07,2022-08-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Woman,3,false
+E101586,2022-06-25,2022-06-01,Voluntary,Higher studies,Cloud and Infrastructure,L2,Bengaluru,Woman,2,false
+E101587,2024-11-18,2024-11-01,Voluntary,Career growth,Delivery,L4,Bengaluru,Man,3,false
+E101588,2022-06-11,2022-06-01,Voluntary,Higher studies,Quality Engineering,L2,Bengaluru,Man,4,true
+E101590,2024-06-03,2024-06-01,Voluntary,Better pay,Sales and Presales,L4,Bengaluru,Man,3,false
+E101591,2023-10-26,2023-10-01,Involuntary,Performance,Delivery,L1,Bengaluru,Man,1,false
+E101594,2024-05-03,2024-05-01,Involuntary,Performance,Cloud and Infrastructure,L2,Hyderabad,Man,1,false
+E101596,2024-12-27,2024-12-01,Involuntary,Performance,Delivery,L6,Hyderabad,Man,1,false
+E101600,2022-10-16,2022-10-01,Voluntary,Better pay,Delivery,L3,Hyderabad,Woman,2,false
+E101604,2022-08-06,2022-08-01,Voluntary,Better pay,Delivery,L2,Hyderabad,Man,3,false
+E101605,2022-06-20,2022-06-01,Involuntary,Performance,Delivery,L1,Bengaluru,Woman,2,false
+E101607,2022-06-13,2022-06-01,Voluntary,Higher studies,Delivery,L1,Hyderabad,Man,4,true
+E101608,2024-03-18,2024-03-01,Voluntary,Career growth,Delivery,L2,Hyderabad,Man,2,false
+E101609,2022-10-02,2022-10-01,Voluntary,Relocation or commute,Delivery,L3,Hyderabad,Man,4,true
+E101610,2026-01-21,2026-01-01,Voluntary,Personal,Quality Engineering,L1,Bengaluru,Woman,4,true
+E101611,2022-05-10,2022-05-01,Voluntary,Personal,Data and Analytics,L2,Bengaluru,Woman,2,false
+E101612,2022-12-02,2022-12-01,Voluntary,Better pay,Cloud and Infrastructure,L2,Bengaluru,Man,1,false
+E101613,2024-02-08,2024-02-01,Voluntary,Career growth,Delivery,L2,Bengaluru,Man,3,false
+E101614,2022-08-10,2022-08-01,Voluntary,Higher studies,Delivery,L2,Bengaluru,Man,2,false
+E101615,2022-04-26,2022-04-01,Voluntary,Better pay,Cloud and Infrastructure,L2,Hyderabad,Man,3,false
+E101616,2022-10-19,2022-10-01,Voluntary,Higher studies,Sales and Presales,L1,Hyderabad,Woman,2,false
+E101618,2026-01-23,2026-01-01,Voluntary,Better pay,Cloud and Infrastructure,L4,Bengaluru,Man,5,true
+E101619,2024-11-06,2024-11-01,Voluntary,Personal,Quality Engineering,L2,Hyderabad,Man,3,false
+E101621,2022-09-07,2022-09-01,Voluntary,Better pay,Delivery,L3,Hyderabad,Man,2,false
+E101622,2022-06-09,2022-06-01,Voluntary,Better pay,Data and Analytics,L1,Bengaluru,Man,3,false
+E101624,2023-11-24,2023-11-01,Voluntary,Better pay,Corporate Functions,L2,Bengaluru,Man,4,true
+E101626,2024-02-24,2024-02-01,Involuntary,Performance,Corporate Functions,L1,Hyderabad,Man,2,false
+E101627,2022-09-08,2022-09-01,Voluntary,Higher studies,Delivery,L1,Hyderabad,Woman,4,true
+E101630,2022-05-23,2022-05-01,Voluntary,Better pay,Delivery,L2,Hyderabad,Man,3,false
+E101631,2022-11-01,2022-11-01,Voluntary,Career growth,Delivery,L6,Hyderabad,Man,3,false
+E101632,2023-11-21,2023-11-01,Involuntary,Performance,Cloud and Infrastructure,L2,Hyderabad,Man,2,false
+E101633,2022-11-24,2022-11-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Man,,false
+E101634,2022-05-14,2022-05-01,Voluntary,Better pay,Cloud and Infrastructure,L2,Hyderabad,Man,3,false
+E101636,2023-10-20,2023-10-01,Involuntary,Restructuring,Delivery,L1,Bengaluru,Woman,3,false
+E101638,2023-07-20,2023-07-01,Involuntary,Performance,Cloud and Infrastructure,L2,Bengaluru,Woman,2,false
+E101640,2022-04-01,2022-04-01,Voluntary,Better pay,Quality Engineering,L2,Hyderabad,Woman,3,false
+E101642,2024-02-01,2024-02-01,Voluntary,Relocation or commute,Delivery,L4,Hyderabad,Man,3,false
+E101644,2024-02-14,2024-02-01,Voluntary,Personal,Delivery,L2,Bengaluru,Man,2,false
+E101645,2024-02-16,2024-02-01,Voluntary,Higher studies,Delivery,L2,Bengaluru,Woman,1,false
+E101650,2023-05-03,2023-05-01,Voluntary,Better pay,Consulting,L5,Hyderabad,Man,5,true
+E101651,2024-02-20,2024-02-01,Voluntary,Better pay,Delivery,L2,Bengaluru,Woman,3,false
+E101653,2024-10-11,2024-10-01,Voluntary,Better pay,Delivery,L5,Bengaluru,Man,3,false
+E101656,2022-08-10,2022-08-01,Voluntary,Higher studies,Sales and Presales,L4,Bengaluru,Woman,2,false
+E101657,2024-11-10,2024-11-01,Voluntary,Relocation or commute,Cloud and Infrastructure,L3,Bengaluru,Man,4,true
+E101659,2024-11-25,2024-11-01,Voluntary,Better pay,Consulting,L4,Bengaluru,Man,3,false
+E101660,2022-10-02,2022-10-01,Voluntary,Relocation or commute,Delivery,L3,Bengaluru,Woman,4,true
+E101663,2022-06-27,2022-06-01,Voluntary,Career growth,Delivery,L4,Bengaluru,Man,3,false
+E101664,2022-11-05,2022-11-01,Voluntary,Relocation or commute,Delivery,L3,Bengaluru,Man,2,false
+E101665,2022-09-12,2022-09-01,Voluntary,Relocation or commute,Quality Engineering,L3,Bengaluru,Man,3,false
+E101667,2022-08-24,2022-08-01,Voluntary,Career growth,Consulting,L3,Hyderabad,Woman,3,false
+E101668,2023-01-06,2023-01-01,Voluntary,Career growth,Cloud and Infrastructure,L2,Hyderabad,Woman,1,false
+E101669,2024-01-11,2024-01-01,Involuntary,Performance,Delivery,L2,Hyderabad,Man,1,false
+E101670,2022-07-14,2022-07-01,Voluntary,Better pay,Data and Analytics,L3,Bengaluru,Man,1,false
+E101675,2024-02-02,2024-02-01,Voluntary,Career growth,Quality Engineering,L3,Bengaluru,Woman,3,false
+E101676,2026-01-26,2026-01-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Woman,3,false
+E101677,2022-09-23,2022-09-01,Voluntary,Better pay,Delivery,L3,Hyderabad,Woman,4,true
+E101678,2023-01-13,2023-01-01,Voluntary,Relocation or commute,Corporate Functions,L4,Bengaluru,Man,4,true
+E101679,2025-01-26,2025-01-01,Voluntary,Personal,Data and Analytics,L1,Bengaluru,Woman,4,true
+E101683,2022-08-02,2022-08-01,Voluntary,Relocation or commute,Delivery,L3,Bengaluru,Woman,4,true
+E101684,2025-09-10,2025-09-01,Voluntary,Higher studies,Delivery,L2,Hyderabad,Woman,3,false
+E101689,2025-05-18,2025-05-01,Voluntary,Career growth,Quality Engineering,L3,Hyderabad,Man,5,true
+E101692,2022-10-22,2022-10-01,Voluntary,Higher studies,Quality Engineering,L2,Bengaluru,Woman,4,true
+E101693,2024-12-01,2024-12-01,Voluntary,Personal,Sales and Presales,L3,Hyderabad,Man,3,false
+E101695,2026-01-23,2026-01-01,Voluntary,Personal,Delivery,L2,Hyderabad,Man,4,true
+E101696,2022-09-27,2022-09-01,Voluntary,Relocation or commute,Cloud and Infrastructure,L2,Bengaluru,Man,2,false
+E101697,2025-06-07,2025-06-01,Voluntary,Relocation or commute,Corporate Functions,L2,Hyderabad,Woman,4,true
+E101700,2022-04-19,2022-04-01,Voluntary,Better pay,Data and Analytics,L2,Hyderabad,Man,2,false
+E101704,2025-11-06,2025-11-01,Voluntary,Relocation or commute,Consulting,L2,Hyderabad,Woman,3,false
+E101705,2022-06-27,2022-06-01,Voluntary,Career growth,Delivery,L3,Hyderabad,Woman,5,true
+E101706,2023-01-14,2023-01-01,Voluntary,Higher studies,Delivery,L3,Hyderabad,Man,3,false
+E101708,2026-01-08,2026-01-01,Voluntary,Relocation or commute,Delivery,L6,Bengaluru,Man,3,false
+E101711,2025-03-22,2025-03-01,Voluntary,Better pay,Delivery,L4,Hyderabad,Woman,5,true
+E101714,2026-01-02,2026-01-01,Voluntary,Career growth,Corporate Functions,L4,Hyderabad,Man,3,false
+E101719,2023-01-02,2023-01-01,Voluntary,Personal,Delivery,L4,Hyderabad,Woman,4,true
+E101721,2022-10-25,2022-10-01,Voluntary,Career growth,Data and Analytics,L2,Hyderabad,Man,4,true
+E101725,2023-06-15,2023-06-01,Voluntary,Career growth,Delivery,L2,Hyderabad,Man,2,false
+E101726,2025-10-04,2025-10-01,Involuntary,Performance,Cloud and Infrastructure,L6,Hyderabad,Man,2,false
+E101729,2023-02-16,2023-02-01,Voluntary,Personal,Cloud and Infrastructure,L4,Bengaluru,Man,4,true
+E101731,2025-05-17,2025-05-01,Involuntary,Performance,Quality Engineering,L3,Bengaluru,Man,2,false
+E101733,2022-10-05,2022-10-01,Voluntary,Personal,Cloud and Infrastructure,L4,Hyderabad,Woman,3,false
+E101734,2022-10-17,2022-10-01,Voluntary,Relocation or commute,Data and Analytics,L3,Hyderabad,Man,3,false
+E101740,2023-06-23,2023-06-01,Involuntary,Performance,Delivery,L1,Hyderabad,Man,1,false
+E101741,2025-06-07,2025-06-01,Involuntary,Performance,Sales and Presales,L3,Bengaluru,Man,1,false
+E101742,2024-01-05,2024-01-01,Voluntary,Better pay,Quality Engineering,L2,Hyderabad,Man,3,false
+E101744,2022-10-08,2022-10-01,Voluntary,Higher studies,Quality Engineering,L1,Hyderabad,Woman,3,false
+E101745,2023-10-07,2023-10-01,Involuntary,Performance,Quality Engineering,L3,Hyderabad,Man,1,false
+E101746,2022-06-06,2022-06-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Man,4,true
+E101748,2022-12-19,2022-12-01,Voluntary,Better pay,Corporate Functions,L1,Hyderabad,Man,4,true
+E101749,2024-03-22,2024-03-01,Voluntary,Higher studies,Corporate Functions,L4,Hyderabad,Man,1,false
+E101750,2022-04-25,2022-04-01,Voluntary,Career growth,Data and Analytics,L1,Bengaluru,Woman,2,false
+E101753,2024-06-27,2024-06-01,Voluntary,Better pay,Delivery,L3,Hyderabad,Woman,4,true
+E101754,2023-01-19,2023-01-01,Voluntary,Career growth,Corporate Functions,L1,Bengaluru,Woman,,false
+E101756,2024-07-07,2024-07-01,Voluntary,Better pay,Delivery,L6,Hyderabad,Man,3,false
+E101757,2022-04-15,2022-04-01,Voluntary,Higher studies,Sales and Presales,L1,Hyderabad,Woman,3,false
+E101760,2022-11-10,2022-11-01,Voluntary,Better pay,Delivery,L4,Bengaluru,Man,2,false
+E101762,2022-10-02,2022-10-01,Involuntary,Performance,Quality Engineering,L2,Bengaluru,Man,1,false
+E101764,2022-08-04,2022-08-01,Voluntary,Career growth,Delivery,L2,Bengaluru,Woman,3,false
+E101765,2024-09-12,2024-09-01,Voluntary,Higher studies,Delivery,L1,Bengaluru,Woman,3,false
+E101767,2025-07-19,2025-07-01,Voluntary,Better pay,Corporate Functions,L2,Hyderabad,Man,2,false
+E101769,2022-05-01,2022-05-01,Involuntary,Performance,Data and Analytics,L4,Hyderabad,Man,1,false
+E101770,2024-05-04,2024-05-01,Involuntary,Performance,Quality Engineering,L1,Hyderabad,Man,2,false
+E101772,2024-10-17,2024-10-01,Voluntary,Higher studies,Delivery,L2,Bengaluru,Man,3,false
+E101773,2023-06-18,2023-06-01,Voluntary,Higher studies,Delivery,L3,Bengaluru,Woman,3,false
+E101776,2023-05-26,2023-05-01,Voluntary,Personal,Sales and Presales,L3,Hyderabad,Man,5,true
+E101777,2025-10-27,2025-10-01,Involuntary,Performance,Delivery,L1,Hyderabad,Woman,5,false
+E101778,2024-02-03,2024-02-01,Involuntary,Performance,Delivery,L2,Bengaluru,Man,2,false
+E101779,2024-10-03,2024-10-01,Voluntary,Higher studies,Delivery,L2,Hyderabad,Man,3,false
+E101780,2022-04-26,2022-04-01,Voluntary,Career growth,Consulting,L4,Bengaluru,Woman,4,true
+E101781,2022-06-07,2022-06-01,Voluntary,Relocation or commute,Data and Analytics,L1,Bengaluru,Man,5,true
+E101782,2024-07-06,2024-07-01,Voluntary,Higher studies,Sales and Presales,L2,Hyderabad,Woman,1,false
+E101783,2023-07-13,2023-07-01,Voluntary,Higher studies,Data and Analytics,L2,Bengaluru,Man,3,false
+E101784,2022-12-22,2022-12-01,Voluntary,Better pay,Delivery,L3,Bengaluru,Man,3,false
+E101785,2025-07-02,2025-07-01,Involuntary,Performance,Sales and Presales,L3,Bengaluru,Woman,1,false
+E101787,2022-06-12,2022-06-01,Voluntary,Higher studies,Cloud and Infrastructure,L3,Bengaluru,Woman,3,false
+E101788,2024-01-23,2024-01-01,Voluntary,Personal,Delivery,L2,Hyderabad,Man,3,false
+E101789,2023-05-21,2023-05-01,Voluntary,Better pay,Delivery,L3,Bengaluru,Woman,3,false
+E101790,2022-07-10,2022-07-01,Voluntary,Better pay,Sales and Presales,L4,Hyderabad,Man,2,false
+E101792,2025-09-09,2025-09-01,Voluntary,Better pay,Data and Analytics,L1,Bengaluru,Woman,3,false
+E101794,2022-09-23,2022-09-01,Voluntary,Personal,Delivery,L1,Hyderabad,Man,,false
+E101796,2024-06-18,2024-06-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Woman,1,false
+E101797,2024-10-08,2024-10-01,Voluntary,Career growth,Quality Engineering,L3,Bengaluru,Man,3,false
+E101798,2022-05-26,2022-05-01,Voluntary,Relocation or commute,Delivery,L2,Bengaluru,Man,3,false
+E101799,2025-04-01,2025-04-01,Voluntary,Better pay,Delivery,L2,Hyderabad,Man,3,false
+E101800,2026-02-09,2026-02-01,Voluntary,Personal,Delivery,L3,Hyderabad,Man,4,true
+E101803,2025-07-10,2025-07-01,Voluntary,Career growth,Cloud and Infrastructure,L2,Bengaluru,Man,4,true
+E101805,2025-09-21,2025-09-01,Voluntary,Better pay,Quality Engineering,L2,Hyderabad,Woman,3,false
+E101807,2023-04-11,2023-04-01,Voluntary,Better pay,Quality Engineering,L4,Bengaluru,Man,3,false
+E101809,2023-05-13,2023-05-01,Voluntary,Better pay,Quality Engineering,L1,Bengaluru,Woman,2,false
+E101811,2022-12-12,2022-12-01,Voluntary,Personal,Sales and Presales,L1,Bengaluru,Man,3,false
+E101812,2026-01-04,2026-01-01,Voluntary,Relocation or commute,Delivery,L3,Hyderabad,Man,3,false
+E101813,2022-12-19,2022-12-01,Voluntary,Higher studies,Data and Analytics,L1,Bengaluru,Man,3,false
+E101814,2022-10-04,2022-10-01,Voluntary,Better pay,Quality Engineering,L3,Hyderabad,Man,2,false
+E101820,2022-08-04,2022-08-01,Voluntary,Relocation or commute,Data and Analytics,L1,Bengaluru,Woman,1,false
+E101822,2022-10-23,2022-10-01,Voluntary,Career growth,Delivery,L2,Hyderabad,Man,3,false
+E101824,2022-06-09,2022-06-01,Voluntary,Career growth,Delivery,L1,Hyderabad,Man,3,false
+E101828,2023-12-19,2023-12-01,Involuntary,Restructuring,Delivery,L2,Hyderabad,Woman,3,false
+E101830,2024-01-02,2024-01-01,Involuntary,Performance,Delivery,L6,Hyderabad,Woman,2,false
+E101831,2023-08-23,2023-08-01,Voluntary,Higher studies,Delivery,L2,Hyderabad,Man,2,false
+E101837,2023-03-16,2023-03-01,Voluntary,Better pay,Corporate Functions,L3,Hyderabad,Man,3,false
+E101839,2024-11-18,2024-11-01,Voluntary,Relocation or commute,Delivery,L3,Bengaluru,Woman,3,false
+E101841,2024-04-17,2024-04-01,Voluntary,Better pay,Corporate Functions,L3,Bengaluru,Man,3,false
+E101843,2022-06-25,2022-06-01,Voluntary,Personal,Delivery,L1,Bengaluru,Man,4,true
+E101844,2023-02-27,2023-02-01,Involuntary,Performance,Delivery,L2,Hyderabad,Woman,2,false
+E101845,2023-09-13,2023-09-01,Voluntary,Career growth,Quality Engineering,L2,Hyderabad,Man,3,false
+E101846,2024-01-21,2024-01-01,Voluntary,Better pay,Data and Analytics,L3,Hyderabad,Man,3,false
+E101847,2025-02-19,2025-02-01,Voluntary,Better pay,Data and Analytics,L2,Bengaluru,Woman,4,true
+E101848,2025-10-07,2025-10-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Man,4,true
+E101849,2022-09-13,2022-09-01,Voluntary,Relocation or commute,Delivery,L3,Bengaluru,Man,3,false
+E101851,2023-04-09,2023-04-01,Voluntary,Better pay,Quality Engineering,L3,Hyderabad,Man,4,true
+E101852,2022-05-05,2022-05-01,Voluntary,Higher studies,Data and Analytics,L2,Bengaluru,Man,4,true
+E101858,2024-08-06,2024-08-01,Voluntary,Career growth,Quality Engineering,L5,Hyderabad,Woman,3,false
+E101859,2022-11-21,2022-11-01,Voluntary,Better pay,Delivery,L2,Hyderabad,Man,2,false
+E101860,2023-12-18,2023-12-01,Voluntary,Better pay,Sales and Presales,L2,Hyderabad,Woman,4,true
+E101861,2022-07-07,2022-07-01,Voluntary,Higher studies,Delivery,L1,Hyderabad,Woman,,false
+E101865,2026-03-11,2026-03-01,Voluntary,Personal,Cloud and Infrastructure,L2,Bengaluru,Man,3,false
+E101868,2025-04-24,2025-04-01,Involuntary,Performance,Sales and Presales,L4,Hyderabad,Man,2,false
+E101869,2022-04-14,2022-04-01,Voluntary,Higher studies,Corporate Functions,L1,Bengaluru,Woman,,false
+E101870,2023-07-19,2023-07-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Man,2,false
+E101871,2024-04-04,2024-04-01,Voluntary,Better pay,Data and Analytics,L3,Bengaluru,Man,3,false
+E101872,2022-08-01,2022-08-01,Voluntary,Higher studies,Cloud and Infrastructure,L1,Hyderabad,Man,3,false
+E101873,2022-08-09,2022-08-01,Voluntary,Better pay,Sales and Presales,L1,Hyderabad,Man,3,false
+E101874,2022-09-04,2022-09-01,Voluntary,Better pay,Delivery,L2,Hyderabad,Woman,1,false
+E101876,2022-06-16,2022-06-01,Voluntary,Better pay,Sales and Presales,L4,Hyderabad,Man,1,false
+E101880,2023-02-10,2023-02-01,Voluntary,Career growth,Delivery,L2,Hyderabad,Man,5,true
+E101881,2022-07-16,2022-07-01,Voluntary,Better pay,Consulting,L4,Hyderabad,Man,3,false
+E101882,2023-09-26,2023-09-01,Voluntary,Relocation or commute,Quality Engineering,L2,Hyderabad,Man,3,false
+E101883,2022-12-25,2022-12-01,Voluntary,Relocation or commute,Delivery,L4,Hyderabad,Woman,3,false
+E101887,2023-05-26,2023-05-01,Voluntary,Higher studies,Delivery,L1,Hyderabad,Man,2,false
+E101890,2023-12-22,2023-12-01,Voluntary,Personal,Corporate Functions,L3,Bengaluru,Man,4,true
+E101891,2022-10-23,2022-10-01,Voluntary,Better pay,Delivery,L3,Bengaluru,Man,3,false
+E101893,2022-05-07,2022-05-01,Voluntary,Career growth,Quality Engineering,L2,Hyderabad,Man,3,false
+E101897,2023-01-27,2023-01-01,Voluntary,Personal,Quality Engineering,L1,Hyderabad,Man,3,false
+E101898,2024-10-17,2024-10-01,Voluntary,Relocation or commute,Delivery,L3,Bengaluru,Woman,3,false
+E101899,2024-04-10,2024-04-01,Involuntary,Performance,Delivery,L1,Hyderabad,Woman,2,false
+E101903,2022-10-08,2022-10-01,Involuntary,Performance,Data and Analytics,L1,Hyderabad,Man,1,false
+E101905,2025-11-07,2025-11-01,Voluntary,Better pay,Delivery,L3,Bengaluru,Man,2,false
+E101906,2022-04-16,2022-04-01,Voluntary,Personal,Delivery,L2,Bengaluru,Woman,4,true
+E101909,2024-08-14,2024-08-01,Voluntary,Better pay,Delivery,L3,Hyderabad,Man,4,true
+E101912,2022-05-20,2022-05-01,Voluntary,Higher studies,Delivery,L1,Hyderabad,Woman,1,false
+E101914,2022-04-01,2022-04-01,Voluntary,Better pay,Data and Analytics,L2,Bengaluru,Man,2,false
+E101920,2023-01-19,2023-01-01,Voluntary,Relocation or commute,Delivery,L3,Hyderabad,Woman,3,false
+E101921,2023-09-19,2023-09-01,Voluntary,Career growth,Quality Engineering,L3,Hyderabad,Woman,4,true
+E101924,2023-12-24,2023-12-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Woman,3,false
+E101925,2025-01-03,2025-01-01,Voluntary,Better pay,Data and Analytics,L6,Hyderabad,Woman,4,true
+E101927,2022-05-20,2022-05-01,Voluntary,Personal,Data and Analytics,L4,Hyderabad,Man,2,false
+E101930,2022-04-10,2022-04-01,Voluntary,Better pay,Quality Engineering,L6,Bengaluru,Man,5,true
+E101931,2022-06-06,2022-06-01,Voluntary,Better pay,Delivery,L1,Bengaluru,Woman,2,false
+E101932,2025-11-05,2025-11-01,Voluntary,Better pay,Cloud and Infrastructure,L3,Hyderabad,Man,2,false
+E101934,2024-09-18,2024-09-01,Involuntary,Performance,Sales and Presales,L1,Bengaluru,Woman,2,false
+E101935,2022-08-10,2022-08-01,Involuntary,Performance,Delivery,L2,Hyderabad,Man,1,false
+E101936,2023-04-15,2023-04-01,Voluntary,Better pay,Data and Analytics,L1,Bengaluru,Woman,3,false
+E101938,2022-08-24,2022-08-01,Voluntary,Career growth,Delivery,L2,Hyderabad,Woman,3,false
+E101939,2025-04-23,2025-04-01,Voluntary,Career growth,Delivery,L1,Hyderabad,Woman,3,false
+E101940,2022-08-15,2022-08-01,Involuntary,Performance,Sales and Presales,L1,Hyderabad,Man,4,false
+E101941,2024-07-24,2024-07-01,Voluntary,Better pay,Delivery,L3,Hyderabad,Man,4,true
+E101942,2023-01-23,2023-01-01,Voluntary,Personal,Cloud and Infrastructure,L3,Bengaluru,Woman,3,false
+E101943,2022-10-26,2022-10-01,Voluntary,Better pay,Delivery,L3,Hyderabad,Woman,3,false
+E101945,2022-08-01,2022-08-01,Involuntary,Performance,Corporate Functions,L4,Hyderabad,Man,2,false
+E101946,2022-06-06,2022-06-01,Involuntary,Performance,Delivery,L1,Hyderabad,Woman,4,false
+E101948,2024-03-06,2024-03-01,Voluntary,Career growth,Delivery,L3,Bengaluru,Woman,4,true
+E101951,2022-09-05,2022-09-01,Voluntary,Better pay,Delivery,L1,Bengaluru,Woman,3,false
+E101952,2023-03-05,2023-03-01,Voluntary,Better pay,Sales and Presales,L4,Hyderabad,Man,3,false
+E101955,2022-08-13,2022-08-01,Voluntary,Better pay,Delivery,L4,Hyderabad,Man,3,false
+E101956,2023-05-04,2023-05-01,Involuntary,Performance,Quality Engineering,L1,Hyderabad,Woman,1,false
+E101959,2024-11-14,2024-11-01,Voluntary,Better pay,Corporate Functions,L3,Bengaluru,Man,4,true
+E101960,2024-11-01,2024-11-01,Involuntary,Performance,Delivery,L1,Hyderabad,Woman,5,false
+E101961,2025-12-24,2025-12-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Man,2,false
+E101963,2023-06-24,2023-06-01,Voluntary,Higher studies,Delivery,L2,Hyderabad,Woman,3,false
+E101964,2023-02-21,2023-02-01,Voluntary,Personal,Delivery,L2,Hyderabad,Man,3,false
+E101966,2024-10-22,2024-10-01,Voluntary,Career growth,Cloud and Infrastructure,L2,Hyderabad,Man,4,true
+E101967,2024-05-20,2024-05-01,Voluntary,Better pay,Quality Engineering,L2,Hyderabad,Man,3,false
+E101968,2024-09-27,2024-09-01,Voluntary,Career growth,Corporate Functions,L2,Bengaluru,Man,4,true
+E101969,2022-04-20,2022-04-01,Voluntary,Better pay,Cloud and Infrastructure,L2,Bengaluru,Woman,2,false
+E101970,2025-04-08,2025-04-01,Involuntary,Performance,Quality Engineering,L2,Bengaluru,Man,2,false
+E101971,2022-06-21,2022-06-01,Voluntary,Better pay,Cloud and Infrastructure,L3,Hyderabad,Man,3,false
+E101973,2023-09-27,2023-09-01,Involuntary,Performance,Quality Engineering,L3,Bengaluru,Man,1,false
+E101974,2023-01-02,2023-01-01,Voluntary,Higher studies,Delivery,L2,Bengaluru,Man,2,false
+E101977,2024-04-08,2024-04-01,Voluntary,Higher studies,Cloud and Infrastructure,L3,Hyderabad,Man,2,false
+E101978,2022-05-11,2022-05-01,Voluntary,Personal,Data and Analytics,L3,Hyderabad,Woman,2,false
+E101981,2022-09-09,2022-09-01,Voluntary,Better pay,Consulting,L1,Hyderabad,Woman,3,false
+E101982,2023-09-19,2023-09-01,Voluntary,Better pay,Delivery,L3,Bengaluru,Man,2,false
+E101984,2022-05-26,2022-05-01,Voluntary,Career growth,Data and Analytics,L3,Bengaluru,Man,3,false
+E101985,2024-10-10,2024-10-01,Voluntary,Better pay,Quality Engineering,L2,Bengaluru,Man,5,true
+E101986,2025-10-27,2025-10-01,Involuntary,Performance,Cloud and Infrastructure,L5,Hyderabad,Man,1,false
+E101990,2025-11-17,2025-11-01,Voluntary,Higher studies,Quality Engineering,L2,Bengaluru,Man,4,true
+E101992,2022-05-15,2022-05-01,Voluntary,Higher studies,Sales and Presales,L1,Hyderabad,Woman,3,false
+E101994,2022-05-11,2022-05-01,Voluntary,Career growth,Cloud and Infrastructure,L2,Hyderabad,Woman,3,false
+E101999,2026-02-14,2026-02-01,Voluntary,Career growth,Data and Analytics,L4,Hyderabad,Man,3,false
+E102001,2023-03-12,2023-03-01,Voluntary,Higher studies,Delivery,L2,Hyderabad,Man,3,false
+E102002,2022-04-22,2022-04-01,Voluntary,Higher studies,Delivery,L4,Bengaluru,Man,4,true
+E102006,2024-10-16,2024-10-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Man,2,false
+E102007,2023-03-06,2023-03-01,Voluntary,Personal,Delivery,L2,Hyderabad,Woman,3,false
+E102008,2023-09-20,2023-09-01,Voluntary,Better pay,Delivery,L2,Bengaluru,Man,4,true
+E102009,2023-06-13,2023-06-01,Voluntary,Career growth,Quality Engineering,L1,Bengaluru,Woman,3,false
+E102010,2022-11-08,2022-11-01,Voluntary,Higher studies,Consulting,L3,Hyderabad,Man,3,false
+E102011,2024-03-19,2024-03-01,Voluntary,Better pay,Delivery,L2,Bengaluru,Man,4,true
+E102013,2024-09-07,2024-09-01,Voluntary,Personal,Delivery,L2,Hyderabad,Woman,2,false
+E102014,2024-04-03,2024-04-01,Voluntary,Career growth,Delivery,L3,Bengaluru,Man,1,false
+E102016,2023-11-25,2023-11-01,Involuntary,Performance,Delivery,L2,Hyderabad,Man,2,false
+E102019,2025-04-26,2025-04-01,Voluntary,Career growth,Delivery,L3,Hyderabad,Man,2,false
+E102020,2022-11-17,2022-11-01,Voluntary,Career growth,Delivery,L1,Bengaluru,Man,3,false
+E102021,2022-04-16,2022-04-01,Voluntary,Better pay,Cloud and Infrastructure,L2,Hyderabad,Woman,2,false
+E102024,2023-11-17,2023-11-01,Voluntary,Better pay,Corporate Functions,L1,Hyderabad,Woman,4,true
+E102026,2023-06-12,2023-06-01,Voluntary,Better pay,Corporate Functions,L2,Hyderabad,Man,3,false
+E102027,2025-08-12,2025-08-01,Voluntary,Career growth,Delivery,L2,Bengaluru,Man,3,false
+E102031,2022-08-22,2022-08-01,Voluntary,Career growth,Sales and Presales,L3,Bengaluru,Man,5,true
+E102036,2022-07-02,2022-07-01,Voluntary,Relocation or commute,Quality Engineering,L1,Hyderabad,Man,4,true
+E102037,2023-02-21,2023-02-01,Voluntary,Better pay,Delivery,L2,Hyderabad,Man,2,false
+E102038,2023-01-05,2023-01-01,Voluntary,Higher studies,Quality Engineering,L2,Bengaluru,Woman,2,false
+E102040,2024-09-14,2024-09-01,Voluntary,Better pay,Delivery,L2,Hyderabad,Woman,1,false
+E102041,2022-09-26,2022-09-01,Voluntary,Relocation or commute,Delivery,L3,Hyderabad,Man,2,false
+E102042,2022-07-14,2022-07-01,Voluntary,Personal,Data and Analytics,L1,Hyderabad,Woman,2,false
+E102043,2024-02-03,2024-02-01,Voluntary,Career growth,Corporate Functions,L4,Bengaluru,Man,3,false
+E102046,2022-05-19,2022-05-01,Voluntary,Career growth,Delivery,L1,Hyderabad,Man,2,false
+E102047,2024-09-06,2024-09-01,Voluntary,Personal,Delivery,L1,Hyderabad,Woman,4,true
+E102051,2025-12-05,2025-12-01,Voluntary,Better pay,Delivery,L6,Hyderabad,Man,3,false
+E102052,2022-09-03,2022-09-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Man,4,true
+E102053,2022-08-11,2022-08-01,Voluntary,Higher studies,Data and Analytics,L3,Bengaluru,Woman,3,false
+E102054,2022-06-07,2022-06-01,Voluntary,Better pay,Consulting,L5,Bengaluru,Man,1,false
+E102055,2025-01-02,2025-01-01,Voluntary,Career growth,Quality Engineering,L2,Hyderabad,Woman,2,false
+E102056,2024-08-10,2024-08-01,Voluntary,Better pay,Delivery,L2,Hyderabad,Man,4,true
+E102058,2024-06-03,2024-06-01,Voluntary,Higher studies,Delivery,L2,Bengaluru,Man,3,false
+E102060,2025-09-19,2025-09-01,Voluntary,Personal,Data and Analytics,L2,Hyderabad,Man,3,false
+E102061,2024-11-14,2024-11-01,Voluntary,Relocation or commute,Delivery,L3,Hyderabad,Man,4,true
+E102063,2023-11-01,2023-11-01,Voluntary,Personal,Sales and Presales,L2,Bengaluru,Woman,3,false
+E102064,2025-06-04,2025-06-01,Voluntary,Career growth,Delivery,L2,Bengaluru,Woman,3,false
+E102065,2022-08-13,2022-08-01,Voluntary,Higher studies,Corporate Functions,L1,Hyderabad,Man,3,false
+E102066,2024-10-13,2024-10-01,Voluntary,Higher studies,Delivery,L1,Bengaluru,Woman,3,false
+E102067,2023-05-21,2023-05-01,Involuntary,Performance,Delivery,L4,Hyderabad,Man,3,false
+E102068,2024-07-25,2024-07-01,Voluntary,Better pay,Delivery,L3,Hyderabad,Woman,4,true
+E102070,2023-02-09,2023-02-01,Voluntary,Better pay,Delivery,L4,Bengaluru,Man,4,true
+E102071,2022-09-19,2022-09-01,Voluntary,Higher studies,Delivery,L2,Hyderabad,Man,3,false
+E102073,2026-03-12,2026-03-01,Voluntary,Better pay,Delivery,L2,Hyderabad,Woman,3,false
+E102074,2022-10-16,2022-10-01,Voluntary,Better pay,Consulting,L1,Hyderabad,Woman,1,false
+E102076,2022-06-14,2022-06-01,Voluntary,Better pay,Data and Analytics,L2,Hyderabad,Woman,5,true
+E102081,2025-02-13,2025-02-01,Voluntary,Career growth,Delivery,L2,Hyderabad,Woman,3,false
+E102083,2026-03-23,2026-03-01,Involuntary,Performance,Delivery,L2,Hyderabad,Woman,4,false
+E102084,2023-07-01,2023-07-01,Voluntary,Career growth,Quality Engineering,L2,Bengaluru,Man,4,true
+E102086,2023-07-24,2023-07-01,Voluntary,Higher studies,Delivery,L2,Hyderabad,Man,3,false
+E102087,2024-02-03,2024-02-01,Voluntary,Personal,Consulting,L2,Bengaluru,Man,3,false
+E102091,2022-07-22,2022-07-01,Voluntary,Career growth,Delivery,L2,Bengaluru,Man,4,true
+E102092,2022-10-07,2022-10-01,Voluntary,Relocation or commute,Delivery,L1,Hyderabad,Man,4,true
+E102094,2022-06-12,2022-06-01,Voluntary,Higher studies,Data and Analytics,L3,Bengaluru,Man,3,false
+E102096,2022-07-08,2022-07-01,Involuntary,Performance,Delivery,L1,Hyderabad,Man,2,false
+E102099,2023-04-11,2023-04-01,Voluntary,Career growth,Delivery,L3,Bengaluru,Man,3,false
+E102100,2022-11-06,2022-11-01,Voluntary,Higher studies,Delivery,L1,Bengaluru,Man,3,false
+E102101,2022-07-18,2022-07-01,Voluntary,Better pay,Delivery,L2,Hyderabad,Woman,5,true
+E102103,2022-11-03,2022-11-01,Voluntary,Personal,Quality Engineering,L3,Bengaluru,Man,2,false
+E102105,2022-09-06,2022-09-01,Voluntary,Career growth,Corporate Functions,L1,Hyderabad,Woman,3,false
+E102107,2024-04-01,2024-04-01,Voluntary,Better pay,Data and Analytics,L1,Hyderabad,Man,3,false
+E102111,2026-01-26,2026-01-01,Voluntary,Career growth,Delivery,L3,Bengaluru,Woman,2,false
+E102117,2025-01-07,2025-01-01,Voluntary,Personal,Data and Analytics,L2,Hyderabad,Woman,4,true
+E102119,2023-10-14,2023-10-01,Voluntary,Better pay,Data and Analytics,L2,Bengaluru,Man,5,true
+E102120,2022-10-13,2022-10-01,Voluntary,Better pay,Cloud and Infrastructure,L4,Hyderabad,Man,4,true
+E102121,2024-12-11,2024-12-01,Involuntary,Performance,Delivery,L4,Bengaluru,Man,2,false
+E102122,2023-03-22,2023-03-01,Voluntary,Better pay,Corporate Functions,L3,Hyderabad,Woman,4,true
+E102123,2025-06-12,2025-06-01,Voluntary,Higher studies,Delivery,L2,Bengaluru,Man,4,true
+E102124,2023-03-12,2023-03-01,Voluntary,Better pay,Delivery,L1,Bengaluru,Man,3,false
+E102125,2024-02-23,2024-02-01,Voluntary,Higher studies,Quality Engineering,L2,Hyderabad,Woman,3,false
+E102129,2023-03-24,2023-03-01,Voluntary,Better pay,Quality Engineering,L2,Bengaluru,Woman,3,false
+E102130,2022-12-11,2022-12-01,Voluntary,Higher studies,Cloud and Infrastructure,L2,Hyderabad,Man,5,true
+E102131,2022-08-26,2022-08-01,Voluntary,Better pay,Delivery,L3,Bengaluru,Man,2,false
+E102133,2022-12-27,2022-12-01,Voluntary,Higher studies,Cloud and Infrastructure,L2,Hyderabad,Woman,2,false
+E102134,2022-05-17,2022-05-01,Voluntary,Better pay,Data and Analytics,L1,Bengaluru,Man,1,false
+E102135,2022-07-02,2022-07-01,Voluntary,Better pay,Corporate Functions,L1,Bengaluru,Woman,3,false
+E102137,2025-08-04,2025-08-01,Voluntary,Career growth,Delivery,L3,Hyderabad,Woman,3,false
+E102138,2022-04-23,2022-04-01,Voluntary,Better pay,Cloud and Infrastructure,L6,Bengaluru,Man,3,false
+E102140,2023-03-24,2023-03-01,Voluntary,Career growth,Quality Engineering,L3,Hyderabad,Man,3,false
+E102142,2023-03-23,2023-03-01,Voluntary,Better pay,Cloud and Infrastructure,L2,Bengaluru,Man,3,false
+E102143,2024-09-06,2024-09-01,Voluntary,Personal,Delivery,L3,Hyderabad,Man,3,false
+E102144,2024-09-02,2024-09-01,Voluntary,Personal,Cloud and Infrastructure,L1,Hyderabad,Man,2,false
+E102147,2024-08-16,2024-08-01,Voluntary,Higher studies,Delivery,L2,Hyderabad,Woman,2,false
+E102148,2023-11-17,2023-11-01,Voluntary,Higher studies,Quality Engineering,L5,Hyderabad,Man,4,true
+E102150,2022-04-14,2022-04-01,Voluntary,Career growth,Cloud and Infrastructure,L3,Hyderabad,Man,5,true
+E102152,2024-05-14,2024-05-01,Voluntary,Relocation or commute,Quality Engineering,L1,Hyderabad,Woman,2,false
+E102153,2025-12-14,2025-12-01,Voluntary,Better pay,Delivery,L3,Hyderabad,Man,4,true
+E102154,2023-05-20,2023-05-01,Voluntary,Relocation or commute,Cloud and Infrastructure,L2,Bengaluru,Woman,3,false
+E102156,2023-09-25,2023-09-01,Voluntary,Career growth,Cloud and Infrastructure,L3,Hyderabad,Man,5,true
+E102158,2024-06-21,2024-06-01,Voluntary,Relocation or commute,Sales and Presales,L1,Hyderabad,Man,1,false
+E102161,2024-12-15,2024-12-01,Voluntary,Relocation or commute,Quality Engineering,L2,Bengaluru,Woman,3,false
+E102162,2023-08-05,2023-08-01,Voluntary,Career growth,Delivery,L2,Hyderabad,Woman,3,false
+E102164,2024-01-22,2024-01-01,Voluntary,Personal,Delivery,L3,Hyderabad,Man,3,false
+E102165,2025-03-21,2025-03-01,Voluntary,Better pay,Quality Engineering,L2,Bengaluru,Man,3,false
+E102166,2025-03-22,2025-03-01,Voluntary,Better pay,Sales and Presales,L1,Hyderabad,Woman,3,false
+E102167,2023-05-18,2023-05-01,Voluntary,Personal,Delivery,L1,Bengaluru,Man,3,false
+E102168,2023-10-27,2023-10-01,Voluntary,Higher studies,Cloud and Infrastructure,L1,Hyderabad,Woman,3,false
+E102169,2025-05-20,2025-05-01,Voluntary,Higher studies,Cloud and Infrastructure,L1,Hyderabad,Man,2,false
+E102170,2025-08-25,2025-08-01,Voluntary,Career growth,Delivery,L3,Hyderabad,Woman,1,false
+E102172,2023-12-01,2023-12-01,Voluntary,Higher studies,Data and Analytics,L1,Bengaluru,Woman,4,true
+E102173,2024-06-04,2024-06-01,Voluntary,Relocation or commute,Cloud and Infrastructure,L2,Hyderabad,Woman,3,false
+E102174,2022-12-02,2022-12-01,Voluntary,Better pay,Quality Engineering,L2,Hyderabad,Man,,false
+E102175,2022-12-03,2022-12-01,Voluntary,Personal,Data and Analytics,L2,Hyderabad,Woman,,false
+E102177,2025-11-22,2025-11-01,Voluntary,Personal,Cloud and Infrastructure,L2,Bengaluru,Woman,5,true
+E102180,2025-08-18,2025-08-01,Involuntary,Performance,Corporate Functions,L1,Hyderabad,Woman,4,false
+E102186,2025-03-22,2025-03-01,Voluntary,Personal,Sales and Presales,L1,Bengaluru,Woman,2,false
+E102187,2025-01-16,2025-01-01,Involuntary,Performance,Delivery,L2,Hyderabad,Man,2,false
+E102189,2023-08-13,2023-08-01,Voluntary,Higher studies,Quality Engineering,L2,Hyderabad,Man,3,false
+E102190,2024-06-16,2024-06-01,Voluntary,Personal,Data and Analytics,L4,Hyderabad,Woman,4,true
+E102191,2023-08-09,2023-08-01,Voluntary,Career growth,Cloud and Infrastructure,L1,Hyderabad,Man,3,false
+E102194,2023-05-23,2023-05-01,Voluntary,Better pay,Data and Analytics,L1,Hyderabad,Woman,2,false
+E102196,2022-12-05,2022-12-01,Voluntary,Career growth,Cloud and Infrastructure,L3,Bengaluru,Man,,false
+E102198,2022-11-07,2022-11-01,Voluntary,Career growth,Data and Analytics,L2,Bengaluru,Man,,false
+E102200,2023-06-24,2023-06-01,Voluntary,Higher studies,Delivery,L2,Hyderabad,Man,1,false
+E102201,2024-09-21,2024-09-01,Voluntary,Better pay,Delivery,L4,Hyderabad,Man,3,false
+E102203,2023-12-27,2023-12-01,Involuntary,Restructuring,Delivery,L2,Bengaluru,Man,4,false
+E102205,2024-11-18,2024-11-01,Voluntary,Better pay,Delivery,L2,Hyderabad,Man,3,false
+E102206,2023-10-27,2023-10-01,Voluntary,Personal,Delivery,L3,Hyderabad,Woman,2,false
+E102210,2023-07-13,2023-07-01,Voluntary,Relocation or commute,Delivery,L1,Hyderabad,Man,3,false
+E102211,2024-08-10,2024-08-01,Voluntary,Better pay,Data and Analytics,L1,Hyderabad,Man,2,false
+E102214,2023-04-19,2023-04-01,Voluntary,Higher studies,Cloud and Infrastructure,L2,Hyderabad,Woman,3,false
+E102215,2026-01-13,2026-01-01,Involuntary,Performance,Sales and Presales,L2,Bengaluru,Man,1,false
+E102216,2024-11-14,2024-11-01,Involuntary,Performance,Delivery,L5,Bengaluru,Man,2,false
+E102218,2023-03-19,2023-03-01,Voluntary,Career growth,Sales and Presales,L1,Hyderabad,Man,,false
+E102220,2025-10-16,2025-10-01,Involuntary,Performance,Data and Analytics,L2,Hyderabad,Man,2,false
+E102223,2024-01-09,2024-01-01,Voluntary,Higher studies,Sales and Presales,L1,Hyderabad,Woman,2,false
+E102224,2023-09-17,2023-09-01,Voluntary,Career growth,Cloud and Infrastructure,L2,Hyderabad,Woman,3,false
+E102225,2024-10-26,2024-10-01,Voluntary,Personal,Delivery,L2,Bengaluru,Man,2,false
+E102226,2025-06-06,2025-06-01,Voluntary,Higher studies,Sales and Presales,L1,Hyderabad,Woman,3,false
+E102227,2026-02-12,2026-02-01,Voluntary,Better pay,Cloud and Infrastructure,L2,Hyderabad,Man,2,false
+E102228,2022-09-22,2022-09-01,Voluntary,Better pay,Delivery,L4,Bengaluru,Woman,,false
+E102230,2025-09-11,2025-09-01,Involuntary,Performance,Cloud and Infrastructure,L2,Hyderabad,Woman,2,false
+E102231,2024-10-23,2024-10-01,Voluntary,Higher studies,Corporate Functions,L1,Hyderabad,Man,3,false
+E102232,2023-03-14,2023-03-01,Voluntary,Personal,Consulting,L2,Bengaluru,Woman,,false
+E102235,2025-08-17,2025-08-01,Voluntary,Career growth,Quality Engineering,L2,Bengaluru,Woman,2,false
+E102236,2026-01-06,2026-01-01,Voluntary,Better pay,Delivery,L2,Bengaluru,Man,3,false
+E102238,2023-06-17,2023-06-01,Voluntary,Relocation or commute,Corporate Functions,L3,Bengaluru,Woman,5,true
+E102241,2025-04-26,2025-04-01,Voluntary,Personal,Data and Analytics,L1,Bengaluru,Woman,5,true
+E102243,2022-12-26,2022-12-01,Voluntary,Career growth,Cloud and Infrastructure,L3,Hyderabad,Man,,false
+E102244,2023-11-21,2023-11-01,Voluntary,Personal,Quality Engineering,L2,Hyderabad,Man,4,true
+E102246,2025-06-21,2025-06-01,Voluntary,Personal,Cloud and Infrastructure,L2,Bengaluru,Man,3,false
+E102248,2023-06-25,2023-06-01,Involuntary,Performance,Delivery,L2,Hyderabad,Man,1,false
+E102251,2024-04-14,2024-04-01,Voluntary,Better pay,Data and Analytics,L2,Bengaluru,Man,2,false
+E102252,2024-09-12,2024-09-01,Voluntary,Personal,Delivery,L3,Hyderabad,Man,4,true
+E102253,2024-02-14,2024-02-01,Voluntary,Better pay,Delivery,L2,Hyderabad,Man,3,false
+E102255,2025-05-03,2025-05-01,Voluntary,Relocation or commute,Data and Analytics,L5,Bengaluru,Man,3,false
+E102256,2023-12-13,2023-12-01,Voluntary,Career growth,Cloud and Infrastructure,L2,Hyderabad,Man,3,false
+E102258,2024-04-21,2024-04-01,Voluntary,Higher studies,Sales and Presales,L1,Hyderabad,Man,2,false
+E102259,2022-12-18,2022-12-01,Voluntary,Better pay,Consulting,L3,Bengaluru,Man,,false
+E102264,2024-12-09,2024-12-01,Voluntary,Higher studies,Delivery,L1,Hyderabad,Man,3,false
+E102266,2023-12-03,2023-12-01,Voluntary,Higher studies,Delivery,L1,Bengaluru,Man,2,false
+E102267,2023-01-02,2023-01-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Woman,,false
+E102269,2025-08-05,2025-08-01,Voluntary,Better pay,Data and Analytics,L1,Bengaluru,Man,2,false
+E102270,2025-02-12,2025-02-01,Voluntary,Higher studies,Cloud and Infrastructure,L3,Bengaluru,Man,5,true
+E102272,2025-10-19,2025-10-01,Voluntary,Relocation or commute,Quality Engineering,L2,Hyderabad,Woman,1,false
+E102274,2023-11-06,2023-11-01,Voluntary,Personal,Quality Engineering,L1,Bengaluru,Man,3,false
+E102276,2025-09-02,2025-09-01,Voluntary,Relocation or commute,Delivery,L3,Bengaluru,Man,4,true
+E102280,2025-06-19,2025-06-01,Voluntary,Better pay,Quality Engineering,L4,Hyderabad,Woman,3,false
+E102282,2023-02-27,2023-02-01,Voluntary,Better pay,Quality Engineering,L6,Bengaluru,Woman,,false
+E102283,2025-03-23,2025-03-01,Voluntary,Better pay,Delivery,L1,Bengaluru,Woman,3,false
+E102284,2026-01-24,2026-01-01,Voluntary,Better pay,Data and Analytics,L3,Hyderabad,Man,3,false
+E102285,2025-07-07,2025-07-01,Voluntary,Personal,Data and Analytics,L4,Bengaluru,Woman,3,false
+E102286,2025-06-15,2025-06-01,Voluntary,Higher studies,Data and Analytics,L2,Bengaluru,Woman,3,false
+E102289,2025-01-09,2025-01-01,Voluntary,Better pay,Quality Engineering,L4,Hyderabad,Man,3,false
+E102291,2025-03-10,2025-03-01,Voluntary,Career growth,Delivery,L4,Bengaluru,Man,2,false
+E102295,2022-11-13,2022-11-01,Voluntary,Better pay,Delivery,L2,Hyderabad,Man,,false
+E102298,2024-01-10,2024-01-01,Voluntary,Higher studies,Cloud and Infrastructure,L2,Bengaluru,Man,,false
+E102300,2024-02-12,2024-02-01,Voluntary,Career growth,Sales and Presales,L4,Hyderabad,Man,,false
+E102301,2024-09-24,2024-09-01,Voluntary,Career growth,Delivery,L1,Hyderabad,Woman,3,false
+E102302,2025-01-08,2025-01-01,Voluntary,Personal,Data and Analytics,L2,Hyderabad,Man,3,false
+E102304,2023-10-13,2023-10-01,Involuntary,Restructuring,Delivery,L2,Bengaluru,Man,,false
+E102306,2025-05-08,2025-05-01,Voluntary,Higher studies,Delivery,L2,Bengaluru,Man,3,false
+E102308,2023-07-19,2023-07-01,Voluntary,Higher studies,Cloud and Infrastructure,L2,Hyderabad,Man,,false
+E102309,2024-08-27,2024-08-01,Voluntary,Better pay,Corporate Functions,L2,Bengaluru,Man,1,false
+E102310,2025-01-17,2025-01-01,Voluntary,Career growth,Delivery,L1,Bengaluru,Man,4,true
+E102311,2026-03-24,2026-03-01,Voluntary,Relocation or commute,Delivery,L3,Hyderabad,Man,3,false
+E102312,2024-07-25,2024-07-01,Voluntary,Higher studies,Delivery,L1,Hyderabad,Woman,4,true
+E102315,2024-04-13,2024-04-01,Voluntary,Career growth,Data and Analytics,L1,Bengaluru,Man,4,true
+E102317,2024-08-09,2024-08-01,Voluntary,Better pay,Quality Engineering,L2,Hyderabad,Man,5,true
+E102318,2024-08-16,2024-08-01,Voluntary,Relocation or commute,Delivery,L2,Bengaluru,Woman,3,false
+E102321,2026-02-17,2026-02-01,Voluntary,Better pay,Quality Engineering,L2,Bengaluru,Woman,4,true
+E102322,2025-07-16,2025-07-01,Voluntary,Higher studies,Delivery,L2,Hyderabad,Man,4,true
+E102323,2025-04-05,2025-04-01,Voluntary,Better pay,Cloud and Infrastructure,L3,Hyderabad,Woman,2,false
+E102324,2023-09-27,2023-09-01,Voluntary,Higher studies,Quality Engineering,L2,Hyderabad,Woman,,false
+E102325,2024-03-18,2024-03-01,Voluntary,Better pay,Cloud and Infrastructure,L1,Hyderabad,Woman,,false
+E102327,2025-02-13,2025-02-01,Voluntary,Higher studies,Quality Engineering,L1,Bengaluru,Woman,4,true
+E102328,2025-06-09,2025-06-01,Involuntary,Performance,Delivery,L2,Bengaluru,Man,1,false
+E102331,2025-11-16,2025-11-01,Voluntary,Better pay,Corporate Functions,L4,Hyderabad,Man,3,false
+E102332,2024-07-20,2024-07-01,Voluntary,Relocation or commute,Data and Analytics,L3,Bengaluru,Man,3,false
+E102334,2024-04-26,2024-04-01,Voluntary,Personal,Corporate Functions,L3,Hyderabad,Woman,3,false
+E102335,2025-03-15,2025-03-01,Voluntary,Better pay,Corporate Functions,L3,Hyderabad,Man,2,false
+E102336,2024-03-12,2024-03-01,Voluntary,Personal,Cloud and Infrastructure,L2,Hyderabad,Man,,false
+E102337,2025-07-27,2025-07-01,Voluntary,Better pay,Cloud and Infrastructure,L4,Bengaluru,Man,3,false
+E102338,2024-08-05,2024-08-01,Voluntary,Better pay,Cloud and Infrastructure,L5,Hyderabad,Man,3,false
+E102339,2023-11-27,2023-11-01,Involuntary,Restructuring,Delivery,L1,Hyderabad,Man,,false
+E102341,2025-12-17,2025-12-01,Voluntary,Better pay,Delivery,L3,Bengaluru,Man,3,false
+E102342,2024-05-10,2024-05-01,Voluntary,Higher studies,Data and Analytics,L3,Bengaluru,Man,3,false
+E102343,2024-04-04,2024-04-01,Voluntary,Higher studies,Delivery,L1,Hyderabad,Man,2,false
+E102348,2023-05-07,2023-05-01,Voluntary,Personal,Delivery,L2,Hyderabad,Man,,false
+E102349,2026-03-07,2026-03-01,Voluntary,Better pay,Data and Analytics,L2,Hyderabad,Man,3,false
+E102354,2024-08-10,2024-08-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Man,3,false
+E102355,2024-08-23,2024-08-01,Voluntary,Relocation or commute,Delivery,L2,Bengaluru,Man,1,false
+E102356,2024-05-14,2024-05-01,Voluntary,Higher studies,Quality Engineering,L4,Bengaluru,Man,2,false
+E102357,2023-03-12,2023-03-01,Voluntary,Relocation or commute,Data and Analytics,L2,Hyderabad,Woman,,false
+E102358,2025-01-01,2025-01-01,Voluntary,Career growth,Data and Analytics,L3,Bengaluru,Man,3,false
+E102359,2024-06-12,2024-06-01,Voluntary,Personal,Cloud and Infrastructure,L4,Hyderabad,Man,5,true
+E102360,2023-07-14,2023-07-01,Involuntary,Performance,Delivery,L1,Bengaluru,Woman,,false
+E102361,2023-04-15,2023-04-01,Voluntary,Better pay,Data and Analytics,L3,Hyderabad,Woman,,false
+E102362,2023-01-01,2023-01-01,Voluntary,Higher studies,Quality Engineering,L2,Bengaluru,Man,,false
+E102363,2024-04-16,2024-04-01,Voluntary,Higher studies,Data and Analytics,L2,Hyderabad,Man,3,false
+E102366,2026-01-12,2026-01-01,Voluntary,Higher studies,Sales and Presales,L2,Bengaluru,Man,1,false
+E102368,2023-01-27,2023-01-01,Voluntary,Better pay,Data and Analytics,L2,Bengaluru,Man,,false
+E102369,2024-02-08,2024-02-01,Voluntary,Better pay,Delivery,L2,Hyderabad,Man,,false
+E102370,2023-08-06,2023-08-01,Voluntary,Career growth,Delivery,L2,Bengaluru,Man,,false
+E102371,2025-07-09,2025-07-01,Voluntary,Higher studies,Sales and Presales,L1,Hyderabad,Woman,3,false
+E102373,2024-07-01,2024-07-01,Voluntary,Relocation or commute,Cloud and Infrastructure,L5,Hyderabad,Man,3,false
+E102375,2025-06-26,2025-06-01,Involuntary,Performance,Sales and Presales,L2,Hyderabad,Man,4,false
+E102376,2024-11-14,2024-11-01,Voluntary,Relocation or commute,Data and Analytics,L2,Hyderabad,Man,3,false
+E102377,2025-03-08,2025-03-01,Voluntary,Better pay,Delivery,L3,Hyderabad,Man,3,false
+E102378,2024-06-05,2024-06-01,Voluntary,Career growth,Delivery,L2,Hyderabad,Man,4,true
+E102383,2025-04-03,2025-04-01,Voluntary,Better pay,Delivery,L5,Hyderabad,Man,3,false
+E102385,2023-07-01,2023-07-01,Voluntary,Personal,Cloud and Infrastructure,L2,Hyderabad,Man,,false
+E102389,2023-02-05,2023-02-01,Voluntary,Better pay,Delivery,L2,Hyderabad,Man,,false
+E102391,2023-11-18,2023-11-01,Involuntary,Restructuring,Delivery,L2,Hyderabad,Woman,,false
+E102392,2024-11-21,2024-11-01,Voluntary,Career growth,Corporate Functions,L2,Hyderabad,Man,4,true
+E102393,2024-02-20,2024-02-01,Voluntary,Better pay,Data and Analytics,L1,Bengaluru,Man,,false
+E102396,2024-06-15,2024-06-01,Voluntary,Relocation or commute,Sales and Presales,L4,Bengaluru,Man,4,true
+E102397,2026-03-14,2026-03-01,Voluntary,Career growth,Consulting,L3,Hyderabad,Woman,3,false
+E102398,2025-11-13,2025-11-01,Voluntary,Better pay,Delivery,L4,Hyderabad,Man,3,false
+E102399,2025-05-15,2025-05-01,Voluntary,Personal,Sales and Presales,L3,Bengaluru,Woman,4,true
+E102400,2024-05-25,2024-05-01,Involuntary,Performance,Delivery,L2,Hyderabad,Woman,4,false
+E102401,2023-08-10,2023-08-01,Voluntary,Personal,Sales and Presales,L5,Hyderabad,Man,,false
+E102403,2024-05-19,2024-05-01,Involuntary,Performance,Delivery,L3,Bengaluru,Man,1,false
+E102405,2025-07-01,2025-07-01,Voluntary,Career growth,Sales and Presales,L3,Hyderabad,Woman,5,true
+E102406,2024-08-23,2024-08-01,Voluntary,Personal,Delivery,L2,Hyderabad,Woman,3,false
+E102408,2024-04-25,2024-04-01,Voluntary,Better pay,Delivery,L3,Hyderabad,Man,3,false
+E102410,2024-08-12,2024-08-01,Involuntary,Performance,Data and Analytics,L3,Bengaluru,Woman,2,false
+E102414,2025-07-23,2025-07-01,Voluntary,Better pay,Quality Engineering,L3,Bengaluru,Woman,2,false
+E102415,2024-02-20,2024-02-01,Voluntary,Better pay,Consulting,L3,Hyderabad,Woman,,false
+E102416,2024-07-23,2024-07-01,Voluntary,Better pay,Cloud and Infrastructure,L2,Bengaluru,Man,4,true
+E102417,2024-12-02,2024-12-01,Voluntary,Career growth,Delivery,L3,Bengaluru,Man,4,true
+E102419,2025-06-18,2025-06-01,Voluntary,Higher studies,Data and Analytics,L5,Hyderabad,Man,5,true
+E102420,2025-11-24,2025-11-01,Voluntary,Relocation or commute,Delivery,L3,Bengaluru,Man,4,true
+E102424,2024-12-10,2024-12-01,Voluntary,Better pay,Delivery,L4,Bengaluru,Man,3,false
+E102425,2025-03-20,2025-03-01,Voluntary,Better pay,Delivery,L4,Bengaluru,Woman,2,false
+E102429,2023-06-21,2023-06-01,Voluntary,Career growth,Cloud and Infrastructure,L1,Bengaluru,Woman,,false
+E102430,2025-05-19,2025-05-01,Voluntary,Better pay,Cloud and Infrastructure,L3,Hyderabad,Man,3,false
+E102431,2025-02-25,2025-02-01,Voluntary,Better pay,Quality Engineering,L3,Hyderabad,Man,2,false
+E102432,2024-07-14,2024-07-01,Involuntary,Performance,Delivery,L3,Bengaluru,Woman,2,false
+E102433,2023-09-02,2023-09-01,Voluntary,Relocation or commute,Delivery,L2,Bengaluru,Woman,,false
+E102434,2024-05-11,2024-05-01,Voluntary,Better pay,Delivery,L4,Hyderabad,Woman,3,false
+E102436,2023-03-13,2023-03-01,Voluntary,Better pay,Delivery,L3,Bengaluru,Man,,false
+E102437,2023-02-24,2023-02-01,Voluntary,Personal,Delivery,L3,Hyderabad,Woman,,false
+E102440,2024-02-27,2024-02-01,Voluntary,Career growth,Quality Engineering,L1,Hyderabad,Woman,,false
+E102441,2023-12-07,2023-12-01,Voluntary,Personal,Delivery,L2,Bengaluru,Woman,,false
+E102442,2023-04-05,2023-04-01,Voluntary,Relocation or commute,Data and Analytics,L2,Bengaluru,Man,,false
+E102446,2025-04-08,2025-04-01,Voluntary,Better pay,Delivery,L5,Bengaluru,Man,3,false
+E102449,2024-05-17,2024-05-01,Voluntary,Higher studies,Delivery,L3,Bengaluru,Woman,3,false
+E102451,2025-01-16,2025-01-01,Voluntary,Personal,Data and Analytics,L2,Hyderabad,Man,3,false
+E102452,2023-06-25,2023-06-01,Voluntary,Higher studies,Quality Engineering,L1,Hyderabad,Woman,,false
+E102453,2024-02-23,2024-02-01,Voluntary,Career growth,Quality Engineering,L3,Hyderabad,Man,,false
+E102456,2025-04-12,2025-04-01,Voluntary,Higher studies,Cloud and Infrastructure,L3,Bengaluru,Man,4,true
+E102457,2024-12-22,2024-12-01,Voluntary,Better pay,Sales and Presales,L3,Bengaluru,Man,3,false
+E102458,2024-07-18,2024-07-01,Voluntary,Better pay,Delivery,L1,Bengaluru,Woman,1,false
+E102462,2024-03-19,2024-03-01,Voluntary,Relocation or commute,Delivery,L3,Bengaluru,Man,,false
+E102463,2024-08-20,2024-08-01,Voluntary,Relocation or commute,Quality Engineering,L3,Bengaluru,Man,4,true
+E102464,2025-07-19,2025-07-01,Voluntary,Career growth,Data and Analytics,L3,Bengaluru,Woman,3,false
+E102465,2024-08-11,2024-08-01,Voluntary,Higher studies,Consulting,L3,Bengaluru,Man,4,true
+E102469,2023-06-22,2023-06-01,Voluntary,Relocation or commute,Delivery,L1,Hyderabad,Woman,,false
+E102470,2024-04-14,2024-04-01,Voluntary,Relocation or commute,Cloud and Infrastructure,L2,Bengaluru,Man,4,true
+E102471,2023-03-20,2023-03-01,Voluntary,Career growth,Delivery,L2,Hyderabad,Man,,false
+E102472,2025-07-13,2025-07-01,Voluntary,Higher studies,Corporate Functions,L1,Hyderabad,Man,3,false
+E102474,2025-12-12,2025-12-01,Voluntary,Better pay,Corporate Functions,L2,Hyderabad,Man,1,false
+E102475,2024-03-13,2024-03-01,Voluntary,Relocation or commute,Quality Engineering,L2,Hyderabad,Man,,false
+E102477,2023-11-17,2023-11-01,Voluntary,Better pay,Delivery,L2,Hyderabad,Man,,false
+E102482,2024-11-19,2024-11-01,Voluntary,Career growth,Delivery,L2,Hyderabad,Man,4,true
+E102485,2025-07-25,2025-07-01,Voluntary,Higher studies,Data and Analytics,L2,Hyderabad,Man,3,false
+E102487,2026-02-12,2026-02-01,Voluntary,Relocation or commute,Cloud and Infrastructure,L2,Bengaluru,Man,3,false
+E102489,2025-02-13,2025-02-01,Voluntary,Personal,Delivery,L4,Hyderabad,Man,4,true
+E102491,2025-05-18,2025-05-01,Voluntary,Relocation or commute,Quality Engineering,L2,Bengaluru,Man,4,true
+E102493,2023-10-18,2023-10-01,Voluntary,Career growth,Delivery,L1,Hyderabad,Woman,,false
+E102499,2024-05-06,2024-05-01,Voluntary,Higher studies,Delivery,L2,Bengaluru,Man,3,false
+E102500,2025-10-17,2025-10-01,Voluntary,Higher studies,Data and Analytics,L2,Hyderabad,Woman,3,false
+E102502,2024-02-13,2024-02-01,Voluntary,Better pay,Data and Analytics,L3,Hyderabad,Man,,false
+E102508,2024-02-17,2024-02-01,Voluntary,Better pay,Delivery,L3,Hyderabad,Man,,false
+E102509,2025-05-06,2025-05-01,Voluntary,Better pay,Quality Engineering,L3,Hyderabad,Man,4,true
+E102513,2023-04-17,2023-04-01,Voluntary,Personal,Delivery,L2,Hyderabad,Woman,,false
+E102517,2023-10-20,2023-10-01,Involuntary,Restructuring,Delivery,L1,Hyderabad,Man,,false
+E102522,2024-07-04,2024-07-01,Voluntary,Relocation or commute,Quality Engineering,L2,Bengaluru,Woman,4,true
+E102523,2023-06-05,2023-06-01,Voluntary,Better pay,Delivery,L3,Bengaluru,Man,,false
+E102524,2024-11-23,2024-11-01,Voluntary,Better pay,Sales and Presales,L1,Hyderabad,Man,3,false
+E102525,2024-01-26,2024-01-01,Voluntary,Higher studies,Cloud and Infrastructure,L2,Bengaluru,Man,,false
+E102526,2023-11-10,2023-11-01,Voluntary,Better pay,Corporate Functions,L1,Hyderabad,Woman,,false
+E102527,2025-05-05,2025-05-01,Voluntary,Better pay,Cloud and Infrastructure,L2,Hyderabad,Man,4,true
+E102529,2024-12-02,2024-12-01,Involuntary,Performance,Cloud and Infrastructure,L3,Hyderabad,Man,2,false
+E102530,2025-12-13,2025-12-01,Voluntary,Better pay,Delivery,L5,Hyderabad,Woman,4,true
+E102531,2024-11-25,2024-11-01,Voluntary,Personal,Delivery,L2,Hyderabad,Man,3,false
+E102532,2025-07-17,2025-07-01,Involuntary,Performance,Delivery,L2,Hyderabad,Man,1,false
+E102533,2025-01-12,2025-01-01,Involuntary,Performance,Cloud and Infrastructure,L2,Bengaluru,Woman,1,false
+E102534,2023-08-01,2023-08-01,Voluntary,Relocation or commute,Delivery,L3,Hyderabad,Man,,false
+E102536,2026-02-25,2026-02-01,Voluntary,Better pay,Cloud and Infrastructure,L1,Hyderabad,Man,3,false
+E102537,2025-04-25,2025-04-01,Voluntary,Better pay,Delivery,L2,Bengaluru,Man,2,false
+E102538,2025-10-27,2025-10-01,Voluntary,Personal,Quality Engineering,L2,Bengaluru,Man,4,true
+E102540,2025-01-06,2025-01-01,Voluntary,Better pay,Delivery,L5,Bengaluru,Man,3,false
+E102542,2023-12-14,2023-12-01,Voluntary,Career growth,Delivery,L4,Bengaluru,Woman,,false
+E102546,2024-05-18,2024-05-01,Voluntary,Better pay,Delivery,L6,Hyderabad,Man,4,true
+E102552,2025-03-23,2025-03-01,Voluntary,Career growth,Delivery,L1,Bengaluru,Man,3,false
+E102554,2023-12-22,2023-12-01,Voluntary,Career growth,Cloud and Infrastructure,L3,Bengaluru,Man,,false
+E102557,2025-10-22,2025-10-01,Involuntary,Performance,Quality Engineering,L1,Bengaluru,Woman,2,false
+E102564,2024-08-23,2024-08-01,Voluntary,Higher studies,Delivery,L2,Hyderabad,Man,4,true
+E102570,2025-10-14,2025-10-01,Voluntary,Better pay,Corporate Functions,L5,Bengaluru,Woman,3,false
+E102571,2025-01-04,2025-01-01,Voluntary,Better pay,Data and Analytics,L2,Hyderabad,Man,5,true
+E102577,2024-10-23,2024-10-01,Voluntary,Career growth,Delivery,L4,Hyderabad,Man,1,false
+E102582,2023-09-27,2023-09-01,Involuntary,Performance,Sales and Presales,L1,Bengaluru,Man,,false
+E102583,2024-03-09,2024-03-01,Involuntary,Performance,Data and Analytics,L1,Bengaluru,Man,,false
+E102584,2024-08-01,2024-08-01,Voluntary,Better pay,Delivery,L4,Hyderabad,Woman,3,false
+E102586,2023-09-04,2023-09-01,Voluntary,Career growth,Delivery,L3,Bengaluru,Woman,,false
+E102591,2025-10-08,2025-10-01,Involuntary,Performance,Quality Engineering,L3,Bengaluru,Woman,1,false
+E102592,2024-05-09,2024-05-01,Voluntary,Relocation or commute,Quality Engineering,L1,Bengaluru,Woman,4,true
+E102595,2023-12-26,2023-12-01,Voluntary,Higher studies,Delivery,L3,Hyderabad,Man,,false
+E102597,2024-06-21,2024-06-01,Voluntary,Career growth,Corporate Functions,L1,Bengaluru,Man,3,false
+E102598,2024-09-03,2024-09-01,Involuntary,Performance,Delivery,L3,Hyderabad,Woman,5,false
+E102606,2025-05-25,2025-05-01,Voluntary,Higher studies,Quality Engineering,L3,Hyderabad,Man,3,false
+E102608,2025-08-24,2025-08-01,Voluntary,Career growth,Delivery,L2,Hyderabad,Man,3,false
+E102611,2024-01-09,2024-01-01,Voluntary,Higher studies,Corporate Functions,L1,Bengaluru,Woman,,false
+E102614,2026-02-24,2026-02-01,Voluntary,Better pay,Delivery,L3,Bengaluru,Man,2,false
+E102615,2026-02-14,2026-02-01,Voluntary,Career growth,Delivery,L3,Hyderabad,Woman,3,false
+E102616,2024-12-20,2024-12-01,Voluntary,Higher studies,Delivery,L4,Bengaluru,Woman,3,false
+E102617,2025-07-03,2025-07-01,Voluntary,Relocation or commute,Consulting,L4,Bengaluru,Man,4,true
+E102619,2025-10-09,2025-10-01,Voluntary,Relocation or commute,Cloud and Infrastructure,L4,Bengaluru,Man,4,true
+E102620,2026-02-26,2026-02-01,Voluntary,Better pay,Delivery,L2,Bengaluru,Man,3,false
+E102626,2025-06-13,2025-06-01,Voluntary,Relocation or commute,Delivery,L2,Bengaluru,Man,4,true
+E102627,2025-10-08,2025-10-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Man,3,false
+E102628,2023-12-11,2023-12-01,Involuntary,Restructuring,Delivery,L2,Hyderabad,Woman,,false
+E102629,2024-03-05,2024-03-01,Voluntary,Better pay,Delivery,L2,Hyderabad,Woman,,false
+E102630,2025-01-07,2025-01-01,Voluntary,Higher studies,Delivery,L2,Hyderabad,Man,3,false
+E102631,2026-01-19,2026-01-01,Voluntary,Relocation or commute,Delivery,L3,Hyderabad,Woman,5,true
+E102632,2025-05-24,2025-05-01,Voluntary,Better pay,Data and Analytics,L2,Bengaluru,Man,3,false
+E102633,2026-01-21,2026-01-01,Voluntary,Relocation or commute,Delivery,L3,Hyderabad,Man,3,false
+E102634,2024-10-23,2024-10-01,Voluntary,Better pay,Data and Analytics,L3,Hyderabad,Man,4,true
+E102637,2024-04-09,2024-04-01,Voluntary,Better pay,Delivery,L2,Hyderabad,Man,4,true
+E102638,2023-12-10,2023-12-01,Involuntary,Restructuring,Delivery,L2,Hyderabad,Woman,,false
+E102640,2023-07-03,2023-07-01,Voluntary,Career growth,Delivery,L1,Hyderabad,Woman,,false
+E102642,2026-02-14,2026-02-01,Voluntary,Better pay,Delivery,L3,Bengaluru,Woman,3,false
+E102643,2024-06-25,2024-06-01,Voluntary,Relocation or commute,Quality Engineering,L2,Bengaluru,Woman,1,false
+E102644,2025-07-27,2025-07-01,Voluntary,Higher studies,Quality Engineering,L2,Hyderabad,Woman,3,false
+E102649,2025-03-19,2025-03-01,Voluntary,Higher studies,Quality Engineering,L2,Hyderabad,Man,4,true
+E102651,2024-03-09,2024-03-01,Voluntary,Better pay,Delivery,L2,Hyderabad,Woman,,false
+E102652,2024-06-25,2024-06-01,Voluntary,Higher studies,Delivery,L2,Hyderabad,Man,3,false
+E102654,2023-12-17,2023-12-01,Involuntary,Restructuring,Delivery,L2,Bengaluru,Non-binary,,false
+E102655,2025-07-09,2025-07-01,Voluntary,Personal,Delivery,L4,Hyderabad,Man,3,false
+E102656,2024-11-26,2024-11-01,Voluntary,Higher studies,Delivery,L2,Hyderabad,Man,5,true
+E102661,2025-04-06,2025-04-01,Voluntary,Higher studies,Consulting,L2,Bengaluru,Man,2,false
+E102662,2025-07-01,2025-07-01,Voluntary,Relocation or commute,Data and Analytics,L2,Hyderabad,Woman,3,false
+E102665,2024-06-13,2024-06-01,Voluntary,Career growth,Delivery,L2,Bengaluru,Man,4,true
+E102667,2025-07-20,2025-07-01,Voluntary,Higher studies,Quality Engineering,L1,Hyderabad,Man,4,true
+E102678,2025-05-07,2025-05-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Woman,5,true
+E102681,2025-05-04,2025-05-01,Voluntary,Higher studies,Delivery,L1,Hyderabad,Man,3,false
+E102682,2024-10-03,2024-10-01,Involuntary,Performance,Delivery,L1,Hyderabad,Man,2,false
+E102684,2024-08-09,2024-08-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Woman,3,false
+E102688,2024-02-02,2024-02-01,Voluntary,Higher studies,Delivery,L1,Bengaluru,Man,,false
+E102690,2024-10-24,2024-10-01,Voluntary,Better pay,Cloud and Infrastructure,L1,Bengaluru,Man,2,false
+E102691,2025-12-25,2025-12-01,Voluntary,Personal,Delivery,L1,Hyderabad,Man,3,false
+E102692,2024-06-27,2024-06-01,Voluntary,Career growth,Sales and Presales,L1,Bengaluru,Woman,4,true
+E102693,2025-04-19,2025-04-01,Involuntary,Performance,Data and Analytics,L1,Bengaluru,Man,1,false
+E102694,2025-08-04,2025-08-01,Involuntary,Performance,Quality Engineering,L1,Hyderabad,Man,3,false
+E102695,2026-03-03,2026-03-01,Involuntary,Performance,Delivery,L1,Bengaluru,Man,1,false
+E102696,2024-08-23,2024-08-01,Voluntary,Relocation or commute,Sales and Presales,L1,Bengaluru,Man,2,false
+E102698,2026-01-12,2026-01-01,Involuntary,Performance,Delivery,L1,Hyderabad,Man,2,false
+E102701,2026-01-15,2026-01-01,Involuntary,Performance,Sales and Presales,L1,Hyderabad,Man,2,false
+E102703,2025-06-01,2025-06-01,Voluntary,Better pay,Quality Engineering,L1,Hyderabad,Woman,3,false
+E102705,2026-03-24,2026-03-01,Voluntary,Career growth,Delivery,L1,Bengaluru,Man,2,false
+E102706,2025-03-27,2025-03-01,Voluntary,Relocation or commute,Delivery,L1,Hyderabad,Man,3,false
+E102710,2025-08-13,2025-08-01,Voluntary,Career growth,Quality Engineering,L1,Hyderabad,Man,4,true
+E102713,2024-08-18,2024-08-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Woman,2,false
+E102715,2026-03-19,2026-03-01,Voluntary,Higher studies,Delivery,L1,Hyderabad,Man,2,false
+E102719,2025-09-02,2025-09-01,Voluntary,Higher studies,Delivery,L1,Bengaluru,Woman,3,false
+E102721,2023-09-21,2023-09-01,Voluntary,Personal,Delivery,L1,Hyderabad,Man,,false
+E102722,2023-10-14,2023-10-01,Voluntary,Better pay,Cloud and Infrastructure,L1,Bengaluru,Man,,false
+E102724,2024-03-07,2024-03-01,Voluntary,Higher studies,Delivery,L1,Hyderabad,Man,,false
+E102729,2024-08-15,2024-08-01,Involuntary,Performance,Consulting,L1,Bengaluru,Woman,1,false
+E102730,2024-05-21,2024-05-01,Voluntary,Higher studies,Delivery,L1,Hyderabad,Man,4,true
+E102733,2025-12-27,2025-12-01,Voluntary,Better pay,Delivery,L1,Bengaluru,Woman,3,false
+E102736,2024-06-13,2024-06-01,Voluntary,Career growth,Data and Analytics,L1,Bengaluru,Man,4,true
+E102738,2025-10-21,2025-10-01,Voluntary,Higher studies,Data and Analytics,L1,Bengaluru,Man,2,false
+E102740,2025-10-10,2025-10-01,Involuntary,Performance,Data and Analytics,L1,Hyderabad,Man,2,false
+E102741,2025-06-17,2025-06-01,Voluntary,Career growth,Sales and Presales,L2,Bengaluru,Man,5,true
+E102743,2025-04-22,2025-04-01,Voluntary,Higher studies,Delivery,L1,Hyderabad,Woman,2,false
+E102748,2024-08-12,2024-08-01,Voluntary,Better pay,Cloud and Infrastructure,L1,Hyderabad,Woman,4,true
+E102750,2025-12-07,2025-12-01,Voluntary,Relocation or commute,Cloud and Infrastructure,L1,Hyderabad,Man,3,false
+E102752,2025-09-02,2025-09-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Man,2,false
+E102753,2025-12-16,2025-12-01,Voluntary,Better pay,Delivery,L1,Bengaluru,Man,2,false
+E102754,2025-05-19,2025-05-01,Voluntary,Higher studies,Sales and Presales,L2,Bengaluru,Non-binary,4,true
+E102755,2025-02-18,2025-02-01,Voluntary,Career growth,Delivery,L1,Hyderabad,Woman,3,false
+E102756,2024-08-02,2024-08-01,Voluntary,Higher studies,Delivery,L1,Hyderabad,Man,4,true
+E102763,2025-04-18,2025-04-01,Voluntary,Personal,Cloud and Infrastructure,L1,Bengaluru,Woman,3,false
+E102767,2026-02-02,2026-02-01,Voluntary,Better pay,Quality Engineering,L2,Bengaluru,Woman,5,true
+E102769,2025-05-20,2025-05-01,Voluntary,Higher studies,Sales and Presales,L2,Hyderabad,Woman,4,true
+E102772,2025-06-21,2025-06-01,Voluntary,Career growth,Delivery,L1,Hyderabad,Woman,2,false
+E102773,2025-07-11,2025-07-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Woman,3,false
+E102775,2025-11-10,2025-11-01,Voluntary,Better pay,Delivery,L1,Bengaluru,Man,2,false
+E102777,2025-04-08,2025-04-01,Involuntary,Performance,Delivery,L1,Bengaluru,Man,1,false
+E102780,2023-10-12,2023-10-01,Involuntary,Restructuring,Delivery,L1,Bengaluru,Woman,,false
+E102782,2025-11-27,2025-11-01,Voluntary,Better pay,Cloud and Infrastructure,L2,Hyderabad,Woman,2,false
+E102783,2024-06-25,2024-06-01,Voluntary,Career growth,Delivery,L1,Hyderabad,Woman,4,true
+E102789,2025-01-17,2025-01-01,Voluntary,Better pay,Delivery,L1,Bengaluru,Woman,3,false
+E102790,2024-10-26,2024-10-01,Voluntary,Better pay,Delivery,L1,Bengaluru,Man,3,false
+E102793,2024-01-11,2024-01-01,Voluntary,Career growth,Cloud and Infrastructure,L1,Bengaluru,Man,,false
+E102798,2024-04-07,2024-04-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Woman,2,false
+E102799,2024-04-16,2024-04-01,Voluntary,Personal,Sales and Presales,L1,Hyderabad,Man,3,false
+E102800,2025-04-07,2025-04-01,Voluntary,Better pay,Quality Engineering,L1,Hyderabad,Man,3,false
+E102802,2025-09-14,2025-09-01,Voluntary,Higher studies,Sales and Presales,L1,Hyderabad,Man,3,false
+E102803,2023-11-04,2023-11-01,Involuntary,Restructuring,Delivery,L1,Hyderabad,Man,,false
+E102807,2026-01-20,2026-01-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Woman,3,false
+E102808,2025-05-09,2025-05-01,Voluntary,Higher studies,Delivery,L2,Hyderabad,Man,4,true
+E102809,2024-06-20,2024-06-01,Voluntary,Better pay,Data and Analytics,L1,Hyderabad,Man,3,false
+E102810,2023-11-02,2023-11-01,Involuntary,Restructuring,Delivery,L1,Bengaluru,Woman,,false
+E102813,2024-10-24,2024-10-01,Voluntary,Career growth,Delivery,L1,Hyderabad,Woman,4,true
+E102817,2026-01-05,2026-01-01,Voluntary,Relocation or commute,Data and Analytics,L1,Hyderabad,Woman,3,false
+E102818,2026-01-16,2026-01-01,Voluntary,Career growth,Delivery,L1,Hyderabad,Woman,2,false
+E102819,2025-04-18,2025-04-01,Voluntary,Better pay,Delivery,L2,Hyderabad,Man,3,false
+E102820,2025-10-22,2025-10-01,Involuntary,Performance,Delivery,L1,Bengaluru,Man,2,false
+E102823,2025-02-24,2025-02-01,Voluntary,Relocation or commute,Quality Engineering,L1,Bengaluru,Woman,2,false
+E102827,2024-02-10,2024-02-01,Voluntary,Personal,Quality Engineering,L1,Bengaluru,Woman,,false
+E102829,2023-09-03,2023-09-01,Voluntary,Higher studies,Delivery,L1,Bengaluru,Woman,,false
+E102831,2024-09-24,2024-09-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Woman,2,false
+E102833,2024-09-21,2024-09-01,Voluntary,Career growth,Quality Engineering,L1,Hyderabad,Woman,2,false
+E102834,2026-02-06,2026-02-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Man,3,false
+E102835,2025-01-15,2025-01-01,Voluntary,Better pay,Data and Analytics,L1,Hyderabad,Woman,3,false
+E102841,2025-03-01,2025-03-01,Involuntary,Performance,Quality Engineering,L1,Hyderabad,Woman,1,false
+E102842,2024-05-11,2024-05-01,Voluntary,Better pay,Delivery,L1,Bengaluru,Woman,4,true
+E102843,2025-09-07,2025-09-01,Voluntary,Higher studies,Consulting,L1,Hyderabad,Woman,3,false
+E102844,2024-07-12,2024-07-01,Involuntary,Performance,Delivery,L1,Bengaluru,Woman,2,false
+E102845,2023-10-04,2023-10-01,Voluntary,Higher studies,Delivery,L1,Hyderabad,Man,,false
+E102846,2025-01-22,2025-01-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Woman,3,false
+E102847,2025-07-24,2025-07-01,Voluntary,Better pay,Delivery,L2,Bengaluru,Man,3,false
+E102848,2026-03-14,2026-03-01,Voluntary,Relocation or commute,Data and Analytics,L1,Hyderabad,Man,2,false
+E102849,2023-10-04,2023-10-01,Involuntary,Restructuring,Delivery,L1,Bengaluru,Woman,,false
+E102850,2025-01-19,2025-01-01,Voluntary,Higher studies,Cloud and Infrastructure,L1,Hyderabad,Woman,3,false
+E102851,2026-02-21,2026-02-01,Involuntary,Performance,Sales and Presales,L1,Hyderabad,Man,2,false
+E102852,2023-10-24,2023-10-01,Voluntary,Better pay,Delivery,L1,Bengaluru,Woman,,false
+E102856,2024-12-20,2024-12-01,Voluntary,Higher studies,Delivery,L1,Hyderabad,Man,3,false
+E102859,2023-09-25,2023-09-01,Voluntary,Career growth,Delivery,L1,Hyderabad,Woman,,false
+E102860,2024-04-14,2024-04-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Woman,3,false
+E102863,2025-12-07,2025-12-01,Involuntary,Performance,Corporate Functions,L2,Hyderabad,Man,2,false
+E102865,2025-10-25,2025-10-01,Voluntary,Better pay,Quality Engineering,L3,Hyderabad,Woman,3,false
+E102870,2025-06-03,2025-06-01,Voluntary,Higher studies,Delivery,L2,Hyderabad,Man,2,false
+E102886,2024-06-08,2024-06-01,Voluntary,Better pay,Quality Engineering,L4,Hyderabad,Woman,4,true
+E102888,2026-02-22,2026-02-01,Voluntary,Better pay,Delivery,L2,Hyderabad,Man,4,true
+E102890,2024-06-14,2024-06-01,Voluntary,Relocation or commute,Cloud and Infrastructure,L1,Bengaluru,Man,4,true
+E102895,2024-11-20,2024-11-01,Involuntary,Performance,Delivery,L3,Hyderabad,Man,1,false
+E102899,2024-09-21,2024-09-01,Voluntary,Better pay,Quality Engineering,L3,Hyderabad,Man,3,false
+E102904,2026-03-04,2026-03-01,Voluntary,Personal,Delivery,L2,Bengaluru,Woman,2,false
+E102905,2023-11-09,2023-11-01,Voluntary,Higher studies,Delivery,L2,Hyderabad,Man,,false
+E102907,2025-02-06,2025-02-01,Involuntary,Performance,Consulting,L5,Hyderabad,Man,1,false
+E102908,2024-11-16,2024-11-01,Voluntary,Relocation or commute,Sales and Presales,L3,Hyderabad,Man,4,true
+E102909,2026-02-04,2026-02-01,Involuntary,Performance,Delivery,L1,Hyderabad,Man,1,false
+E102911,2025-07-12,2025-07-01,Voluntary,Career growth,Data and Analytics,L1,Hyderabad,Man,2,false
+E102912,2025-07-18,2025-07-01,Voluntary,Career growth,Quality Engineering,L1,Hyderabad,Man,2,false
+E102915,2026-03-03,2026-03-01,Voluntary,Better pay,Delivery,L2,Hyderabad,Man,2,false
+E102918,2025-06-03,2025-06-01,Voluntary,Personal,Quality Engineering,L3,Bengaluru,Man,4,true
+E102919,2025-10-27,2025-10-01,Voluntary,Career growth,Quality Engineering,L2,Bengaluru,Man,3,false
+E102923,2024-09-10,2024-09-01,Voluntary,Higher studies,Cloud and Infrastructure,L2,Bengaluru,Woman,4,true
+E102924,2024-03-12,2024-03-01,Voluntary,Higher studies,Data and Analytics,L2,Hyderabad,Woman,,false
+E102926,2023-11-02,2023-11-01,Voluntary,Better pay,Cloud and Infrastructure,L3,Hyderabad,Woman,,false
+E102927,2025-10-10,2025-10-01,Voluntary,Higher studies,Delivery,L2,Hyderabad,Man,2,false
+E102928,2025-02-02,2025-02-01,Involuntary,Performance,Delivery,L3,Bengaluru,Man,,false
+E102933,2023-11-21,2023-11-01,Voluntary,Relocation or commute,Data and Analytics,L1,Bengaluru,Man,,false
+E102939,2024-03-17,2024-03-01,Involuntary,Performance,Quality Engineering,L3,Bengaluru,Woman,,false
+E102940,2025-12-06,2025-12-01,Voluntary,Better pay,Cloud and Infrastructure,L3,Bengaluru,Man,4,true
+E102941,2025-06-12,2025-06-01,Voluntary,Higher studies,Data and Analytics,L2,Bengaluru,Man,3,false
+E102942,2025-06-03,2025-06-01,Voluntary,Higher studies,Delivery,L1,Hyderabad,Woman,3,false
+E102944,2024-01-27,2024-01-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Woman,,false
+E102946,2024-12-26,2024-12-01,Involuntary,Performance,Delivery,L1,Hyderabad,Woman,1,false
+E102949,2024-11-21,2024-11-01,Voluntary,Higher studies,Delivery,L2,Hyderabad,Man,,false
+E102956,2026-02-23,2026-02-01,Voluntary,Better pay,Delivery,L4,Bengaluru,Man,3,false
+E102960,2025-01-11,2025-01-01,Voluntary,Better pay,Corporate Functions,L4,Hyderabad,Man,,false
+E102961,2025-08-06,2025-08-01,Voluntary,Relocation or commute,Cloud and Infrastructure,L2,Hyderabad,Man,5,true
+E102964,2026-03-25,2026-03-01,Voluntary,Career growth,Sales and Presales,L3,Bengaluru,Woman,3,false
+E102965,2026-01-08,2026-01-01,Voluntary,Career growth,Data and Analytics,L3,Bengaluru,Man,3,false
+E102968,2025-08-27,2025-08-01,Involuntary,Performance,Cloud and Infrastructure,L1,Bengaluru,Man,1,false
+E102972,2025-10-22,2025-10-01,Voluntary,Better pay,Sales and Presales,L1,Hyderabad,Woman,4,true
+E102974,2025-07-24,2025-07-01,Voluntary,Better pay,Delivery,L2,Bengaluru,Woman,3,false
+E102975,2024-12-19,2024-12-01,Voluntary,Career growth,Consulting,L2,Hyderabad,Man,,false
+E102979,2025-04-14,2025-04-01,Voluntary,Higher studies,Quality Engineering,L2,Bengaluru,Man,4,true
+E102980,2026-01-24,2026-01-01,Voluntary,Relocation or commute,Corporate Functions,L2,Bengaluru,Man,5,true
+E102982,2026-02-17,2026-02-01,Voluntary,Career growth,Quality Engineering,L1,Bengaluru,Woman,4,true
+E102984,2025-05-23,2025-05-01,Involuntary,Performance,Cloud and Infrastructure,L1,Hyderabad,Woman,1,false
+E102987,2024-12-06,2024-12-01,Voluntary,Personal,Delivery,L1,Hyderabad,Woman,,false
+E102991,2025-05-07,2025-05-01,Voluntary,Relocation or commute,Delivery,L3,Hyderabad,Man,3,false
+E102995,2026-01-11,2026-01-01,Voluntary,Higher studies,Delivery,L1,Bengaluru,Woman,3,false
+E102997,2025-03-14,2025-03-01,Voluntary,Higher studies,Data and Analytics,L2,Bengaluru,Woman,,false
+E103006,2024-08-24,2024-08-01,Voluntary,Personal,Delivery,L1,Bengaluru,Man,,false
+E103010,2025-12-25,2025-12-01,Voluntary,Relocation or commute,Data and Analytics,L4,Bengaluru,Man,3,false
+E103012,2025-09-20,2025-09-01,Voluntary,Better pay,Delivery,L3,Bengaluru,Woman,3,false
+E103015,2025-02-24,2025-02-01,Voluntary,Higher studies,Delivery,L1,Bengaluru,Woman,,false
+E103017,2025-05-26,2025-05-01,Voluntary,Better pay,Delivery,L1,Bengaluru,Man,4,true
+E103023,2025-03-08,2025-03-01,Voluntary,Personal,Delivery,L1,Bengaluru,Man,,false
+E103024,2025-02-06,2025-02-01,Voluntary,Personal,Delivery,L3,Hyderabad,Man,,false
+E103025,2024-12-18,2024-12-01,Voluntary,Relocation or commute,Quality Engineering,L2,Bengaluru,Man,,false
+E103027,2024-02-05,2024-02-01,Involuntary,Performance,Corporate Functions,L1,Hyderabad,Woman,,false
+E103030,2026-02-25,2026-02-01,Voluntary,Personal,Sales and Presales,L3,Bengaluru,Man,3,false
+E103034,2024-05-16,2024-05-01,Voluntary,Relocation or commute,Cloud and Infrastructure,L1,Bengaluru,Woman,,false
+E103035,2025-02-06,2025-02-01,Voluntary,Relocation or commute,Delivery,L2,Bengaluru,Woman,,false
+E103041,2024-10-03,2024-10-01,Voluntary,Higher studies,Cloud and Infrastructure,L3,Hyderabad,Man,,false
+E103046,2024-11-01,2024-11-01,Voluntary,Relocation or commute,Delivery,L2,Bengaluru,Woman,,false
+E103049,2024-10-09,2024-10-01,Voluntary,Career growth,Delivery,L3,Bengaluru,Woman,,false
+E103050,2025-03-04,2025-03-01,Voluntary,Career growth,Delivery,L1,Hyderabad,Woman,,false
+E103054,2024-04-20,2024-04-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Woman,,false
+E103056,2025-09-21,2025-09-01,Voluntary,Better pay,Delivery,L1,Bengaluru,Man,3,false
+E103057,2024-12-16,2024-12-01,Voluntary,Higher studies,Consulting,L1,Hyderabad,Woman,,false
+E103059,2025-07-07,2025-07-01,Involuntary,Performance,Corporate Functions,L2,Bengaluru,Woman,1,false
+E103061,2026-02-12,2026-02-01,Voluntary,Better pay,Sales and Presales,L2,Bengaluru,Man,4,true
+E103067,2025-12-02,2025-12-01,Voluntary,Better pay,Delivery,L6,Bengaluru,Man,3,false
+E103072,2025-12-24,2025-12-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Man,2,false
+E103073,2025-05-02,2025-05-01,Voluntary,Higher studies,Delivery,L1,Bengaluru,Man,3,false
+E103075,2024-08-23,2024-08-01,Voluntary,Better pay,Delivery,L1,Bengaluru,Woman,,false
+E103077,2025-03-22,2025-03-01,Voluntary,Personal,Consulting,L1,Hyderabad,Man,,false
+E103081,2026-02-06,2026-02-01,Voluntary,Career growth,Delivery,L1,Hyderabad,Woman,3,false
+E103087,2024-11-23,2024-11-01,Voluntary,Career growth,Corporate Functions,L3,Bengaluru,Man,,false
+E103088,2024-09-04,2024-09-01,Voluntary,Relocation or commute,Consulting,L1,Bengaluru,Man,,false
+E103090,2025-11-12,2025-11-01,Involuntary,Performance,Delivery,L2,Hyderabad,Woman,2,false
+E103091,2025-03-25,2025-03-01,Voluntary,Better pay,Delivery,L2,Hyderabad,Man,,false
+E103094,2026-03-26,2026-03-01,Voluntary,Career growth,Data and Analytics,L2,Bengaluru,Woman,2,false
+E103095,2025-09-18,2025-09-01,Voluntary,Career growth,Data and Analytics,L1,Bengaluru,Woman,3,false
+E103096,2025-04-14,2025-04-01,Voluntary,Better pay,Consulting,L2,Bengaluru,Woman,4,true
+E103099,2024-09-17,2024-09-01,Voluntary,Better pay,Cloud and Infrastructure,L2,Bengaluru,Woman,,false
+E103100,2025-08-27,2025-08-01,Voluntary,Better pay,Delivery,L2,Hyderabad,Woman,3,false
+E103104,2024-11-15,2024-11-01,Voluntary,Personal,Cloud and Infrastructure,L2,Hyderabad,Man,,false
+E103108,2025-09-24,2025-09-01,Voluntary,Better pay,Data and Analytics,L1,Hyderabad,Woman,3,false
+E103109,2025-06-19,2025-06-01,Voluntary,Personal,Delivery,L2,Hyderabad,Woman,3,false
+E103114,2024-12-03,2024-12-01,Voluntary,Better pay,Cloud and Infrastructure,L3,Bengaluru,Woman,,false
+E103116,2025-05-09,2025-05-01,Voluntary,Career growth,Delivery,L3,Hyderabad,Woman,2,false
+E103120,2025-04-01,2025-04-01,Voluntary,Better pay,Sales and Presales,L2,Hyderabad,Woman,3,false
+E103127,2025-10-16,2025-10-01,Voluntary,Higher studies,Delivery,L2,Hyderabad,Man,3,false
+E103128,2025-12-08,2025-12-01,Involuntary,Performance,Data and Analytics,L1,Bengaluru,Woman,1,false
+E103129,2025-08-14,2025-08-01,Involuntary,Performance,Delivery,L1,Bengaluru,Man,1,false
+E103130,2025-04-03,2025-04-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Man,3,false
+E103140,2025-10-15,2025-10-01,Involuntary,Performance,Quality Engineering,L4,Hyderabad,Man,1,false
+E103145,2025-07-10,2025-07-01,Involuntary,Performance,Delivery,L6,Hyderabad,Man,1,false
+E103148,2025-07-16,2025-07-01,Voluntary,Personal,Cloud and Infrastructure,L2,Hyderabad,Woman,4,true
+E103151,2025-08-14,2025-08-01,Voluntary,Higher studies,Delivery,L2,Hyderabad,Woman,3,false
+E103153,2025-05-03,2025-05-01,Involuntary,Performance,Cloud and Infrastructure,L4,Bengaluru,Woman,3,false
+E103155,2024-06-10,2024-06-01,Voluntary,Personal,Delivery,L2,Hyderabad,Man,,false
+E103156,2025-10-22,2025-10-01,Voluntary,Relocation or commute,Delivery,L2,Hyderabad,Man,1,false
+E103160,2025-04-20,2025-04-01,Voluntary,Better pay,Delivery,L2,Bengaluru,Woman,3,false
+E103172,2025-07-19,2025-07-01,Voluntary,Better pay,Delivery,L2,Bengaluru,Woman,4,true
+E103174,2025-11-13,2025-11-01,Involuntary,Performance,Quality Engineering,L2,Hyderabad,Man,1,false
+E103175,2026-01-10,2026-01-01,Voluntary,Higher studies,Data and Analytics,L1,Bengaluru,Man,4,true
+E103199,2025-06-23,2025-06-01,Voluntary,Relocation or commute,Delivery,L1,Hyderabad,Man,3,false
+E103200,2025-11-23,2025-11-01,Voluntary,Better pay,Delivery,L1,Bengaluru,Man,3,false
+E103201,2025-07-16,2025-07-01,Voluntary,Relocation or commute,Delivery,L2,Bengaluru,Man,2,false
+E103205,2025-10-13,2025-10-01,Voluntary,Relocation or commute,Data and Analytics,L1,Bengaluru,Man,5,true
+E103222,2025-11-20,2025-11-01,Voluntary,Higher studies,Quality Engineering,L1,Bengaluru,Man,3,false
+E103228,2025-02-23,2025-02-01,Voluntary,Higher studies,Delivery,L1,Hyderabad,Man,,false
+E103234,2024-11-17,2024-11-01,Voluntary,Better pay,Delivery,L2,Bengaluru,Woman,,false
+E103238,2025-11-10,2025-11-01,Voluntary,Better pay,Cloud and Infrastructure,L1,Hyderabad,Man,4,true
+E103239,2025-07-12,2025-07-01,Voluntary,Better pay,Quality Engineering,L1,Bengaluru,Man,5,true
+E103240,2025-02-06,2025-02-01,Voluntary,Relocation or commute,Sales and Presales,L1,Bengaluru,Man,,false
+E103242,2025-09-17,2025-09-01,Voluntary,Career growth,Cloud and Infrastructure,L1,Hyderabad,Man,5,true
+E103244,2025-09-15,2025-09-01,Voluntary,Career growth,Delivery,L1,Hyderabad,Man,3,false
+E103245,2025-07-17,2025-07-01,Involuntary,Performance,Delivery,L1,Bengaluru,Woman,2,false
+E103249,2025-12-09,2025-12-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Woman,3,false
+E103251,2025-11-24,2025-11-01,Voluntary,Career growth,Delivery,L1,Bengaluru,Man,4,true
+E103255,2025-10-24,2025-10-01,Involuntary,Performance,Sales and Presales,L1,Hyderabad,Woman,2,false
+E103264,2025-03-25,2025-03-01,Voluntary,Better pay,Quality Engineering,L1,Hyderabad,Man,,false
+E103265,2025-08-20,2025-08-01,Voluntary,Better pay,Quality Engineering,L1,Bengaluru,Woman,4,true
+E103268,2025-11-02,2025-11-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Woman,1,false
+E103284,2026-02-11,2026-02-01,Voluntary,Higher studies,Delivery,L1,Bengaluru,Woman,2,false
+E103285,2025-06-26,2025-06-01,Involuntary,Performance,Sales and Presales,L1,Hyderabad,Man,1,false
+E103290,2025-07-17,2025-07-01,Voluntary,Career growth,Delivery,L1,Hyderabad,Man,5,true
+E103292,2025-05-16,2025-05-01,Voluntary,Personal,Delivery,L1,Hyderabad,Man,3,false
+E103293,2025-07-11,2025-07-01,Voluntary,Higher studies,Quality Engineering,L1,Hyderabad,Woman,3,false
+E103294,2026-01-11,2026-01-01,Voluntary,Career growth,Quality Engineering,L1,Hyderabad,Woman,3,false
+E103303,2025-12-17,2025-12-01,Voluntary,Personal,Quality Engineering,L1,Bengaluru,Woman,3,false
+E103305,2025-02-05,2025-02-01,Voluntary,Better pay,Cloud and Infrastructure,L1,Bengaluru,Woman,,false
+E103306,2025-10-23,2025-10-01,Involuntary,Performance,Delivery,L1,Hyderabad,Woman,1,false
+E103310,2025-09-20,2025-09-01,Involuntary,Performance,Delivery,L1,Hyderabad,Man,2,false
+E103313,2026-02-22,2026-02-01,Voluntary,Career growth,Cloud and Infrastructure,L1,Hyderabad,Man,3,false
+E103317,2026-01-23,2026-01-01,Voluntary,Personal,Cloud and Infrastructure,L1,Hyderabad,Woman,4,true
+E103318,2026-02-13,2026-02-01,Voluntary,Higher studies,Delivery,L1,Bengaluru,Man,5,true
+E103332,2025-04-24,2025-04-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Woman,3,false
+E103338,2025-09-07,2025-09-01,Voluntary,Higher studies,Consulting,L1,Bengaluru,Man,2,false
+E103352,2025-12-08,2025-12-01,Voluntary,Career growth,Quality Engineering,L1,Hyderabad,Woman,3,false
+E103353,2025-06-27,2025-06-01,Voluntary,Higher studies,Delivery,L1,Hyderabad,Man,1,false
+E103363,2025-04-11,2025-04-01,Involuntary,Performance,Quality Engineering,L1,Bengaluru,Man,1,false
+E103366,2025-03-15,2025-03-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Man,,false
+E103371,2025-06-16,2025-06-01,Voluntary,Relocation or commute,Delivery,L1,Hyderabad,Woman,3,false
+E103376,2026-03-23,2026-03-01,Voluntary,Higher studies,Quality Engineering,L1,Bengaluru,Man,1,false
+E103381,2025-09-17,2025-09-01,Voluntary,Personal,Delivery,L1,Hyderabad,Man,4,true
+E103382,2026-02-22,2026-02-01,Voluntary,Higher studies,Sales and Presales,L1,Hyderabad,Woman,4,true
+E103389,2026-01-11,2026-01-01,Voluntary,Higher studies,Data and Analytics,L1,Bengaluru,Man,4,true
+E103394,2026-02-02,2026-02-01,Voluntary,Higher studies,Delivery,L1,Hyderabad,Woman,3,false
+E103400,2025-02-04,2025-02-01,Voluntary,Better pay,Quality Engineering,L1,Hyderabad,Woman,,false
+E103401,2024-09-09,2024-09-01,Voluntary,Career growth,Consulting,L1,Hyderabad,Woman,,false
+E103406,2026-03-03,2026-03-01,Voluntary,Higher studies,Data and Analytics,L1,Bengaluru,Woman,1,false
+E103410,2025-03-19,2025-03-01,Voluntary,Better pay,Quality Engineering,L1,Bengaluru,Man,,false
+E103414,2025-09-07,2025-09-01,Voluntary,Relocation or commute,Delivery,L1,Hyderabad,Man,3,false
+E103416,2026-03-11,2026-03-01,Voluntary,Personal,Data and Analytics,L1,Hyderabad,Woman,4,true
+E103432,2024-10-14,2024-10-01,Voluntary,Relocation or commute,Delivery,L1,Bengaluru,Man,,false
+E103433,2026-01-14,2026-01-01,Involuntary,Performance,Delivery,L1,Bengaluru,Man,4,false
+E103435,2025-06-13,2025-06-01,Voluntary,Better pay,Consulting,L3,Hyderabad,Woman,2,false
+E103440,2025-01-24,2025-01-01,Voluntary,Better pay,Sales and Presales,L1,Hyderabad,Woman,,false
+E103443,2025-09-11,2025-09-01,Voluntary,Better pay,Cloud and Infrastructure,L2,Bengaluru,Man,3,false
+E103463,2025-06-14,2025-06-01,Voluntary,Career growth,Cloud and Infrastructure,L1,Bengaluru,Woman,3,false
+E103468,2025-05-13,2025-05-01,Voluntary,Relocation or commute,Delivery,L3,Hyderabad,Woman,3,false
+E103469,2025-10-15,2025-10-01,Voluntary,Career growth,Cloud and Infrastructure,L2,Bengaluru,Woman,5,true
+E103471,2026-02-08,2026-02-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Man,3,false
+E103474,2025-08-09,2025-08-01,Voluntary,Relocation or commute,Cloud and Infrastructure,L3,Bengaluru,Man,3,false
+E103511,2025-07-09,2025-07-01,Voluntary,Higher studies,Delivery,L2,Hyderabad,Man,,false
+E103519,2025-02-07,2025-02-01,Involuntary,Performance,Data and Analytics,L3,Hyderabad,Man,,false
+E103523,2025-11-17,2025-11-01,Voluntary,Higher studies,Consulting,L2,Hyderabad,Man,,false
+E103524,2025-07-18,2025-07-01,Voluntary,Better pay,Delivery,L3,Bengaluru,Man,,false
+E103542,2026-03-19,2026-03-01,Voluntary,Better pay,Corporate Functions,L2,Hyderabad,Woman,,false
+E103544,2026-01-23,2026-01-01,Voluntary,Higher studies,Delivery,L1,Bengaluru,Man,,false
+E103562,2025-09-15,2025-09-01,Voluntary,Better pay,Quality Engineering,L3,Bengaluru,Man,,false
+E103565,2025-11-23,2025-11-01,Voluntary,Higher studies,Delivery,L1,Hyderabad,Man,,false
+E103573,2026-02-12,2026-02-01,Voluntary,Better pay,Delivery,L2,Hyderabad,Woman,,false
+E103576,2025-10-25,2025-10-01,Voluntary,Personal,Delivery,L3,Hyderabad,Man,,false
+E103589,2026-01-12,2026-01-01,Voluntary,Personal,Delivery,L2,Hyderabad,Man,,false
+E103597,2026-02-18,2026-02-01,Voluntary,Better pay,Quality Engineering,L2,Bengaluru,Woman,,false
+E103606,2026-02-03,2026-02-01,Voluntary,Better pay,Cloud and Infrastructure,L2,Bengaluru,Woman,,false
+E103633,2025-08-26,2025-08-01,Voluntary,Relocation or commute,Delivery,L2,Bengaluru,Woman,,false
+E103651,2026-03-21,2026-03-01,Voluntary,Better pay,Sales and Presales,L3,Hyderabad,Man,,false
+E103661,2025-08-15,2025-08-01,Voluntary,Better pay,Sales and Presales,L2,Bengaluru,Woman,,false
+E103675,2026-01-16,2026-01-01,Voluntary,Better pay,Delivery,L2,Hyderabad,Man,,false
+E103684,2026-02-25,2026-02-01,Involuntary,Performance,Delivery,L3,Hyderabad,Woman,,false
+E103687,2025-11-13,2025-11-01,Voluntary,Higher studies,Delivery,L4,Hyderabad,Man,,false
+E103719,2026-02-17,2026-02-01,Voluntary,Better pay,Consulting,L5,Hyderabad,Man,,false
+E103726,2025-11-02,2025-11-01,Voluntary,Career growth,Delivery,L1,Bengaluru,Man,,false
+E103731,2026-01-18,2026-01-01,Voluntary,Higher studies,Data and Analytics,L2,Hyderabad,Man,,false
+E103741,2026-03-06,2026-03-01,Voluntary,Relocation or commute,Cloud and Infrastructure,L1,Bengaluru,Man,,false
+E103784,2025-11-03,2025-11-01,Voluntary,Higher studies,Cloud and Infrastructure,L2,Hyderabad,Man,,false
+E103802,2026-03-01,2026-03-01,Voluntary,Personal,Delivery,L1,Hyderabad,Woman,,false
+E103861,2026-02-15,2026-02-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Woman,,false
+E103865,2026-02-21,2026-02-01,Voluntary,Higher studies,Quality Engineering,L1,Bengaluru,Man,,false
+E103899,2025-11-03,2025-11-01,Voluntary,Better pay,Delivery,L1,Bengaluru,Woman,,false
+E103913,2026-01-01,2026-01-01,Voluntary,Higher studies,Delivery,L1,Hyderabad,Woman,,false
+E103920,2025-09-21,2025-09-01,Voluntary,Better pay,Quality Engineering,L1,Hyderabad,Woman,,false
+E103935,2025-10-01,2025-10-01,Involuntary,Performance,Consulting,L1,Bengaluru,Man,,false
+E103936,2025-12-27,2025-12-01,Voluntary,Higher studies,Quality Engineering,L1,Hyderabad,Man,,false
+E103955,2026-01-10,2026-01-01,Voluntary,Relocation or commute,Data and Analytics,L1,Bengaluru,Man,,false
+E104050,2026-02-03,2026-02-01,Voluntary,Better pay,Delivery,L1,Hyderabad,Man,,false
+E104148,2026-02-16,2026-02-01,Voluntary,Higher studies,Delivery,L2,Hyderabad,Man,,false
