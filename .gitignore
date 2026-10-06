@@ -1,0 +1,6 @@
+.tableau-schema/
+.captures/
+data/hr.duckdb
+.venv/
+__pycache__/
+dist/

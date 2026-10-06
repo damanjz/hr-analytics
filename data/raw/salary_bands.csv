@@ -1,0 +1,505 @@
+fiscal_year,level,department,location,band_min,band_mid,band_max
+FY 2020-21,L1,Delivery,Hyderabad,309000.0,386000.0,463000.0
+FY 2020-21,L1,Delivery,Bengaluru,324000.0,405000.0,486000.0
+FY 2020-21,L1,Quality Engineering,Hyderabad,284000.0,355000.0,426000.0
+FY 2020-21,L1,Quality Engineering,Bengaluru,298000.0,373000.0,447000.0
+FY 2020-21,L1,Cloud and Infrastructure,Hyderabad,333000.0,417000.0,500000.0
+FY 2020-21,L1,Cloud and Infrastructure,Bengaluru,350000.0,438000.0,525000.0
+FY 2020-21,L1,Data and Analytics,Hyderabad,346000.0,432000.0,519000.0
+FY 2020-21,L1,Data and Analytics,Bengaluru,363000.0,454000.0,544000.0
+FY 2020-21,L1,Consulting,Hyderabad,340000.0,424000.0,509000.0
+FY 2020-21,L1,Consulting,Bengaluru,356000.0,446000.0,535000.0
+FY 2020-21,L1,Sales and Presales,Hyderabad,324000.0,405000.0,486000.0
+FY 2020-21,L1,Sales and Presales,Bengaluru,340000.0,425000.0,510000.0
+FY 2020-21,L1,Corporate Functions,Hyderabad,278000.0,347000.0,417000.0
+FY 2020-21,L1,Corporate Functions,Bengaluru,292000.0,365000.0,437000.0
+FY 2020-21,L2,Delivery,Hyderabad,549000.0,686000.0,823000.0
+FY 2020-21,L2,Delivery,Bengaluru,576000.0,720000.0,864000.0
+FY 2020-21,L2,Quality Engineering,Hyderabad,505000.0,631000.0,757000.0
+FY 2020-21,L2,Quality Engineering,Bengaluru,530000.0,663000.0,795000.0
+FY 2020-21,L2,Cloud and Infrastructure,Hyderabad,593000.0,741000.0,889000.0
+FY 2020-21,L2,Cloud and Infrastructure,Bengaluru,622000.0,778000.0,933000.0
+FY 2020-21,L2,Data and Analytics,Hyderabad,615000.0,768000.0,922000.0
+FY 2020-21,L2,Data and Analytics,Bengaluru,645000.0,807000.0,968000.0
+FY 2020-21,L2,Consulting,Hyderabad,604000.0,754000.0,905000.0
+FY 2020-21,L2,Consulting,Bengaluru,634000.0,792000.0,951000.0
+FY 2020-21,L2,Sales and Presales,Hyderabad,576000.0,720000.0,864000.0
+FY 2020-21,L2,Sales and Presales,Bengaluru,605000.0,756000.0,907000.0
+FY 2020-21,L2,Corporate Functions,Hyderabad,494000.0,617000.0,741000.0
+FY 2020-21,L2,Corporate Functions,Bengaluru,519000.0,648000.0,778000.0
+FY 2020-21,L3,Delivery,Hyderabad,960000.0,1200000.0,1440000.0
+FY 2020-21,L3,Delivery,Bengaluru,1008000.0,1260000.0,1512000.0
+FY 2020-21,L3,Quality Engineering,Hyderabad,883000.0,1104000.0,1325000.0
+FY 2020-21,L3,Quality Engineering,Bengaluru,928000.0,1159000.0,1391000.0
+FY 2020-21,L3,Cloud and Infrastructure,Hyderabad,1037000.0,1296000.0,1556000.0
+FY 2020-21,L3,Cloud and Infrastructure,Bengaluru,1089000.0,1361000.0,1633000.0
+FY 2020-21,L3,Data and Analytics,Hyderabad,1075000.0,1344000.0,1613000.0
+FY 2020-21,L3,Data and Analytics,Bengaluru,1129000.0,1412000.0,1694000.0
+FY 2020-21,L3,Consulting,Hyderabad,1056000.0,1320000.0,1584000.0
+FY 2020-21,L3,Consulting,Bengaluru,1109000.0,1386000.0,1664000.0
+FY 2020-21,L3,Sales and Presales,Hyderabad,1008000.0,1260000.0,1512000.0
+FY 2020-21,L3,Sales and Presales,Bengaluru,1059000.0,1323000.0,1588000.0
+FY 2020-21,L3,Corporate Functions,Hyderabad,864000.0,1080000.0,1296000.0
+FY 2020-21,L3,Corporate Functions,Bengaluru,907000.0,1134000.0,1361000.0
+FY 2020-21,L4,Delivery,Hyderabad,1509000.0,1886000.0,2263000.0
+FY 2020-21,L4,Delivery,Bengaluru,1584000.0,1980000.0,2377000.0
+FY 2020-21,L4,Quality Engineering,Hyderabad,1388000.0,1735000.0,2082000.0
+FY 2020-21,L4,Quality Engineering,Bengaluru,1458000.0,1822000.0,2186000.0
+FY 2020-21,L4,Cloud and Infrastructure,Hyderabad,1630000.0,2037000.0,2444000.0
+FY 2020-21,L4,Cloud and Infrastructure,Bengaluru,1711000.0,2139000.0,2567000.0
+FY 2020-21,L4,Data and Analytics,Hyderabad,1690000.0,2112000.0,2535000.0
+FY 2020-21,L4,Data and Analytics,Bengaluru,1774000.0,2218000.0,2662000.0
+FY 2020-21,L4,Consulting,Hyderabad,1660000.0,2075000.0,2490000.0
+FY 2020-21,L4,Consulting,Bengaluru,1743000.0,2178000.0,2614000.0
+FY 2020-21,L4,Sales and Presales,Hyderabad,1584000.0,1980000.0,2377000.0
+FY 2020-21,L4,Sales and Presales,Bengaluru,1664000.0,2079000.0,2495000.0
+FY 2020-21,L4,Corporate Functions,Hyderabad,1358000.0,1698000.0,2037000.0
+FY 2020-21,L4,Corporate Functions,Bengaluru,1426000.0,1782000.0,2139000.0
+FY 2020-21,L5,Delivery,Hyderabad,2332000.0,2915000.0,3498000.0
+FY 2020-21,L5,Delivery,Bengaluru,2449000.0,3061000.0,3673000.0
+FY 2020-21,L5,Quality Engineering,Hyderabad,2145000.0,2682000.0,3218000.0
+FY 2020-21,L5,Quality Engineering,Bengaluru,2253000.0,2816000.0,3379000.0
+FY 2020-21,L5,Cloud and Infrastructure,Hyderabad,2519000.0,3148000.0,3778000.0
+FY 2020-21,L5,Cloud and Infrastructure,Bengaluru,2644000.0,3306000.0,3967000.0
+FY 2020-21,L5,Data and Analytics,Hyderabad,2612000.0,3265000.0,3918000.0
+FY 2020-21,L5,Data and Analytics,Bengaluru,2742000.0,3428000.0,4114000.0
+FY 2020-21,L5,Consulting,Hyderabad,2565000.0,3206000.0,3848000.0
+FY 2020-21,L5,Consulting,Bengaluru,2693000.0,3367000.0,4040000.0
+FY 2020-21,L5,Sales and Presales,Hyderabad,2449000.0,3061000.0,3673000.0
+FY 2020-21,L5,Sales and Presales,Bengaluru,2571000.0,3214000.0,3856000.0
+FY 2020-21,L5,Corporate Functions,Hyderabad,2099000.0,2623000.0,3148000.0
+FY 2020-21,L5,Corporate Functions,Bengaluru,2204000.0,2755000.0,3306000.0
+FY 2020-21,L6,Delivery,Hyderabad,3772000.0,4715000.0,5658000.0
+FY 2020-21,L6,Delivery,Bengaluru,3961000.0,4951000.0,5941000.0
+FY 2020-21,L6,Quality Engineering,Hyderabad,3471000.0,4338000.0,5206000.0
+FY 2020-21,L6,Quality Engineering,Bengaluru,3644000.0,4555000.0,5466000.0
+FY 2020-21,L6,Cloud and Infrastructure,Hyderabad,4074000.0,5093000.0,6111000.0
+FY 2020-21,L6,Cloud and Infrastructure,Bengaluru,4278000.0,5347000.0,6417000.0
+FY 2020-21,L6,Data and Analytics,Hyderabad,4225000.0,5281000.0,6337000.0
+FY 2020-21,L6,Data and Analytics,Bengaluru,4436000.0,5545000.0,6654000.0
+FY 2020-21,L6,Consulting,Hyderabad,4150000.0,5187000.0,6224000.0
+FY 2020-21,L6,Consulting,Bengaluru,4357000.0,5446000.0,6535000.0
+FY 2020-21,L6,Sales and Presales,Hyderabad,3961000.0,4951000.0,5941000.0
+FY 2020-21,L6,Sales and Presales,Bengaluru,4159000.0,5199000.0,6238000.0
+FY 2020-21,L6,Corporate Functions,Hyderabad,3395000.0,4244000.0,5093000.0
+FY 2020-21,L6,Corporate Functions,Bengaluru,3565000.0,4456000.0,5347000.0
+FY 2021-22,L1,Delivery,Hyderabad,333000.0,417000.0,500000.0
+FY 2021-22,L1,Delivery,Bengaluru,350000.0,438000.0,525000.0
+FY 2021-22,L1,Quality Engineering,Hyderabad,307000.0,383000.0,460000.0
+FY 2021-22,L1,Quality Engineering,Bengaluru,322000.0,403000.0,483000.0
+FY 2021-22,L1,Cloud and Infrastructure,Hyderabad,360000.0,450000.0,540000.0
+FY 2021-22,L1,Cloud and Infrastructure,Bengaluru,378000.0,472000.0,567000.0
+FY 2021-22,L1,Data and Analytics,Hyderabad,373000.0,467000.0,560000.0
+FY 2021-22,L1,Data and Analytics,Bengaluru,392000.0,490000.0,588000.0
+FY 2021-22,L1,Consulting,Hyderabad,367000.0,458000.0,550000.0
+FY 2021-22,L1,Consulting,Bengaluru,385000.0,481000.0,578000.0
+FY 2021-22,L1,Sales and Presales,Hyderabad,350000.0,438000.0,525000.0
+FY 2021-22,L1,Sales and Presales,Bengaluru,368000.0,459000.0,551000.0
+FY 2021-22,L1,Corporate Functions,Hyderabad,300000.0,375000.0,450000.0
+FY 2021-22,L1,Corporate Functions,Bengaluru,315000.0,394000.0,472000.0
+FY 2021-22,L2,Delivery,Hyderabad,593000.0,741000.0,889000.0
+FY 2021-22,L2,Delivery,Bengaluru,622000.0,778000.0,933000.0
+FY 2021-22,L2,Quality Engineering,Hyderabad,545000.0,681000.0,818000.0
+FY 2021-22,L2,Quality Engineering,Bengaluru,572000.0,716000.0,859000.0
+FY 2021-22,L2,Cloud and Infrastructure,Hyderabad,640000.0,800000.0,960000.0
+FY 2021-22,L2,Cloud and Infrastructure,Bengaluru,672000.0,840000.0,1008000.0
+FY 2021-22,L2,Data and Analytics,Hyderabad,664000.0,830000.0,996000.0
+FY 2021-22,L2,Data and Analytics,Bengaluru,697000.0,871000.0,1045000.0
+FY 2021-22,L2,Consulting,Hyderabad,652000.0,815000.0,978000.0
+FY 2021-22,L2,Consulting,Bengaluru,684000.0,856000.0,1027000.0
+FY 2021-22,L2,Sales and Presales,Hyderabad,622000.0,778000.0,933000.0
+FY 2021-22,L2,Sales and Presales,Bengaluru,653000.0,817000.0,980000.0
+FY 2021-22,L2,Corporate Functions,Hyderabad,533000.0,667000.0,800000.0
+FY 2021-22,L2,Corporate Functions,Bengaluru,560000.0,700000.0,840000.0
+FY 2021-22,L3,Delivery,Hyderabad,1037000.0,1296000.0,1556000.0
+FY 2021-22,L3,Delivery,Bengaluru,1089000.0,1361000.0,1633000.0
+FY 2021-22,L3,Quality Engineering,Hyderabad,954000.0,1193000.0,1431000.0
+FY 2021-22,L3,Quality Engineering,Bengaluru,1002000.0,1252000.0,1503000.0
+FY 2021-22,L3,Cloud and Infrastructure,Hyderabad,1120000.0,1400000.0,1680000.0
+FY 2021-22,L3,Cloud and Infrastructure,Bengaluru,1176000.0,1470000.0,1764000.0
+FY 2021-22,L3,Data and Analytics,Hyderabad,1161000.0,1452000.0,1742000.0
+FY 2021-22,L3,Data and Analytics,Bengaluru,1220000.0,1524000.0,1829000.0
+FY 2021-22,L3,Consulting,Hyderabad,1141000.0,1426000.0,1711000.0
+FY 2021-22,L3,Consulting,Bengaluru,1198000.0,1497000.0,1797000.0
+FY 2021-22,L3,Sales and Presales,Hyderabad,1089000.0,1361000.0,1633000.0
+FY 2021-22,L3,Sales and Presales,Bengaluru,1143000.0,1429000.0,1715000.0
+FY 2021-22,L3,Corporate Functions,Hyderabad,933000.0,1167000.0,1400000.0
+FY 2021-22,L3,Corporate Functions,Bengaluru,980000.0,1225000.0,1470000.0
+FY 2021-22,L4,Delivery,Hyderabad,1630000.0,2037000.0,2444000.0
+FY 2021-22,L4,Delivery,Bengaluru,1711000.0,2139000.0,2567000.0
+FY 2021-22,L4,Quality Engineering,Hyderabad,1499000.0,1874000.0,2249000.0
+FY 2021-22,L4,Quality Engineering,Bengaluru,1574000.0,1968000.0,2361000.0
+FY 2021-22,L4,Cloud and Infrastructure,Hyderabad,1760000.0,2200000.0,2640000.0
+FY 2021-22,L4,Cloud and Infrastructure,Bengaluru,1848000.0,2310000.0,2772000.0
+FY 2021-22,L4,Data and Analytics,Hyderabad,1825000.0,2281000.0,2738000.0
+FY 2021-22,L4,Data and Analytics,Bengaluru,1916000.0,2396000.0,2875000.0
+FY 2021-22,L4,Consulting,Hyderabad,1793000.0,2241000.0,2689000.0
+FY 2021-22,L4,Consulting,Bengaluru,1882000.0,2353000.0,2823000.0
+FY 2021-22,L4,Sales and Presales,Hyderabad,1711000.0,2139000.0,2567000.0
+FY 2021-22,L4,Sales and Presales,Bengaluru,1797000.0,2246000.0,2695000.0
+FY 2021-22,L4,Corporate Functions,Hyderabad,1467000.0,1833000.0,2200000.0
+FY 2021-22,L4,Corporate Functions,Bengaluru,1540000.0,1925000.0,2310000.0
+FY 2021-22,L5,Delivery,Hyderabad,2519000.0,3148000.0,3778000.0
+FY 2021-22,L5,Delivery,Bengaluru,2644000.0,3306000.0,3967000.0
+FY 2021-22,L5,Quality Engineering,Hyderabad,2317000.0,2896000.0,3476000.0
+FY 2021-22,L5,Quality Engineering,Bengaluru,2433000.0,3041000.0,3649000.0
+FY 2021-22,L5,Cloud and Infrastructure,Hyderabad,2720000.0,3400000.0,4080000.0
+FY 2021-22,L5,Cloud and Infrastructure,Bengaluru,2856000.0,3570000.0,4284000.0
+FY 2021-22,L5,Data and Analytics,Hyderabad,2821000.0,3526000.0,4231000.0
+FY 2021-22,L5,Data and Analytics,Bengaluru,2962000.0,3702000.0,4443000.0
+FY 2021-22,L5,Consulting,Hyderabad,2770000.0,3463000.0,4156000.0
+FY 2021-22,L5,Consulting,Bengaluru,2909000.0,3636000.0,4363000.0
+FY 2021-22,L5,Sales and Presales,Hyderabad,2644000.0,3306000.0,3967000.0
+FY 2021-22,L5,Sales and Presales,Bengaluru,2777000.0,3471000.0,4165000.0
+FY 2021-22,L5,Corporate Functions,Hyderabad,2267000.0,2833000.0,3400000.0
+FY 2021-22,L5,Corporate Functions,Bengaluru,2380000.0,2975000.0,3570000.0
+FY 2021-22,L6,Delivery,Hyderabad,4074000.0,5093000.0,6111000.0
+FY 2021-22,L6,Delivery,Bengaluru,4278000.0,5347000.0,6417000.0
+FY 2021-22,L6,Quality Engineering,Hyderabad,3748000.0,4685000.0,5622000.0
+FY 2021-22,L6,Quality Engineering,Bengaluru,3936000.0,4919000.0,5903000.0
+FY 2021-22,L6,Cloud and Infrastructure,Hyderabad,4400000.0,5500000.0,6600000.0
+FY 2021-22,L6,Cloud and Infrastructure,Bengaluru,4620000.0,5775000.0,6930000.0
+FY 2021-22,L6,Data and Analytics,Hyderabad,4563000.0,5704000.0,6844000.0
+FY 2021-22,L6,Data and Analytics,Bengaluru,4791000.0,5989000.0,7187000.0
+FY 2021-22,L6,Consulting,Hyderabad,4481000.0,5602000.0,6722000.0
+FY 2021-22,L6,Consulting,Bengaluru,4706000.0,5882000.0,7058000.0
+FY 2021-22,L6,Sales and Presales,Hyderabad,4278000.0,5347000.0,6417000.0
+FY 2021-22,L6,Sales and Presales,Bengaluru,4492000.0,5615000.0,6737000.0
+FY 2021-22,L6,Corporate Functions,Hyderabad,3667000.0,4583000.0,5500000.0
+FY 2021-22,L6,Corporate Functions,Bengaluru,3850000.0,4812000.0,5775000.0
+FY 2022-23,L1,Delivery,Hyderabad,360000.0,450000.0,540000.0
+FY 2022-23,L1,Delivery,Bengaluru,378000.0,473000.0,567000.0
+FY 2022-23,L1,Quality Engineering,Hyderabad,331000.0,414000.0,497000.0
+FY 2022-23,L1,Quality Engineering,Bengaluru,348000.0,435000.0,522000.0
+FY 2022-23,L1,Cloud and Infrastructure,Hyderabad,389000.0,486000.0,583000.0
+FY 2022-23,L1,Cloud and Infrastructure,Bengaluru,408000.0,510000.0,612000.0
+FY 2022-23,L1,Data and Analytics,Hyderabad,403000.0,504000.0,605000.0
+FY 2022-23,L1,Data and Analytics,Bengaluru,423000.0,529000.0,635000.0
+FY 2022-23,L1,Consulting,Hyderabad,396000.0,495000.0,594000.0
+FY 2022-23,L1,Consulting,Bengaluru,416000.0,520000.0,624000.0
+FY 2022-23,L1,Sales and Presales,Hyderabad,378000.0,473000.0,567000.0
+FY 2022-23,L1,Sales and Presales,Bengaluru,397000.0,496000.0,595000.0
+FY 2022-23,L1,Corporate Functions,Hyderabad,324000.0,405000.0,486000.0
+FY 2022-23,L1,Corporate Functions,Bengaluru,340000.0,425000.0,510000.0
+FY 2022-23,L2,Delivery,Hyderabad,640000.0,800000.0,960000.0
+FY 2022-23,L2,Delivery,Bengaluru,672000.0,840000.0,1008000.0
+FY 2022-23,L2,Quality Engineering,Hyderabad,589000.0,736000.0,883000.0
+FY 2022-23,L2,Quality Engineering,Bengaluru,618000.0,773000.0,927000.0
+FY 2022-23,L2,Cloud and Infrastructure,Hyderabad,691000.0,864000.0,1037000.0
+FY 2022-23,L2,Cloud and Infrastructure,Bengaluru,726000.0,907000.0,1089000.0
+FY 2022-23,L2,Data and Analytics,Hyderabad,717000.0,896000.0,1075000.0
+FY 2022-23,L2,Data and Analytics,Bengaluru,753000.0,941000.0,1129000.0
+FY 2022-23,L2,Consulting,Hyderabad,704000.0,880000.0,1056000.0
+FY 2022-23,L2,Consulting,Bengaluru,739000.0,924000.0,1109000.0
+FY 2022-23,L2,Sales and Presales,Hyderabad,672000.0,840000.0,1008000.0
+FY 2022-23,L2,Sales and Presales,Bengaluru,706000.0,882000.0,1058000.0
+FY 2022-23,L2,Corporate Functions,Hyderabad,576000.0,720000.0,864000.0
+FY 2022-23,L2,Corporate Functions,Bengaluru,605000.0,756000.0,907000.0
+FY 2022-23,L3,Delivery,Hyderabad,1120000.0,1400000.0,1680000.0
+FY 2022-23,L3,Delivery,Bengaluru,1176000.0,1470000.0,1764000.0
+FY 2022-23,L3,Quality Engineering,Hyderabad,1030000.0,1288000.0,1546000.0
+FY 2022-23,L3,Quality Engineering,Bengaluru,1082000.0,1352000.0,1623000.0
+FY 2022-23,L3,Cloud and Infrastructure,Hyderabad,1210000.0,1512000.0,1814000.0
+FY 2022-23,L3,Cloud and Infrastructure,Bengaluru,1270000.0,1588000.0,1905000.0
+FY 2022-23,L3,Data and Analytics,Hyderabad,1254000.0,1568000.0,1882000.0
+FY 2022-23,L3,Data and Analytics,Bengaluru,1317000.0,1646000.0,1976000.0
+FY 2022-23,L3,Consulting,Hyderabad,1232000.0,1540000.0,1848000.0
+FY 2022-23,L3,Consulting,Bengaluru,1294000.0,1617000.0,1940000.0
+FY 2022-23,L3,Sales and Presales,Hyderabad,1176000.0,1470000.0,1764000.0
+FY 2022-23,L3,Sales and Presales,Bengaluru,1235000.0,1544000.0,1852000.0
+FY 2022-23,L3,Corporate Functions,Hyderabad,1008000.0,1260000.0,1512000.0
+FY 2022-23,L3,Corporate Functions,Bengaluru,1058000.0,1323000.0,1588000.0
+FY 2022-23,L4,Delivery,Hyderabad,1760000.0,2200000.0,2640000.0
+FY 2022-23,L4,Delivery,Bengaluru,1848000.0,2310000.0,2772000.0
+FY 2022-23,L4,Quality Engineering,Hyderabad,1619000.0,2024000.0,2429000.0
+FY 2022-23,L4,Quality Engineering,Bengaluru,1700000.0,2125000.0,2550000.0
+FY 2022-23,L4,Cloud and Infrastructure,Hyderabad,1901000.0,2376000.0,2851000.0
+FY 2022-23,L4,Cloud and Infrastructure,Bengaluru,1996000.0,2495000.0,2994000.0
+FY 2022-23,L4,Data and Analytics,Hyderabad,1971000.0,2464000.0,2957000.0
+FY 2022-23,L4,Data and Analytics,Bengaluru,2070000.0,2587000.0,3105000.0
+FY 2022-23,L4,Consulting,Hyderabad,1936000.0,2420000.0,2904000.0
+FY 2022-23,L4,Consulting,Bengaluru,2033000.0,2541000.0,3049000.0
+FY 2022-23,L4,Sales and Presales,Hyderabad,1848000.0,2310000.0,2772000.0
+FY 2022-23,L4,Sales and Presales,Bengaluru,1940000.0,2426000.0,2911000.0
+FY 2022-23,L4,Corporate Functions,Hyderabad,1584000.0,1980000.0,2376000.0
+FY 2022-23,L4,Corporate Functions,Bengaluru,1663000.0,2079000.0,2495000.0
+FY 2022-23,L5,Delivery,Hyderabad,2720000.0,3400000.0,4080000.0
+FY 2022-23,L5,Delivery,Bengaluru,2856000.0,3570000.0,4284000.0
+FY 2022-23,L5,Quality Engineering,Hyderabad,2502000.0,3128000.0,3754000.0
+FY 2022-23,L5,Quality Engineering,Bengaluru,2628000.0,3284000.0,3941000.0
+FY 2022-23,L5,Cloud and Infrastructure,Hyderabad,2938000.0,3672000.0,4406000.0
+FY 2022-23,L5,Cloud and Infrastructure,Bengaluru,3084000.0,3856000.0,4627000.0
+FY 2022-23,L5,Data and Analytics,Hyderabad,3046000.0,3808000.0,4570000.0
+FY 2022-23,L5,Data and Analytics,Bengaluru,3199000.0,3998000.0,4798000.0
+FY 2022-23,L5,Consulting,Hyderabad,2992000.0,3740000.0,4488000.0
+FY 2022-23,L5,Consulting,Bengaluru,3142000.0,3927000.0,4712000.0
+FY 2022-23,L5,Sales and Presales,Hyderabad,2856000.0,3570000.0,4284000.0
+FY 2022-23,L5,Sales and Presales,Bengaluru,2999000.0,3749000.0,4498000.0
+FY 2022-23,L5,Corporate Functions,Hyderabad,2448000.0,3060000.0,3672000.0
+FY 2022-23,L5,Corporate Functions,Bengaluru,2570000.0,3213000.0,3856000.0
+FY 2022-23,L6,Delivery,Hyderabad,4400000.0,5500000.0,6600000.0
+FY 2022-23,L6,Delivery,Bengaluru,4620000.0,5775000.0,6930000.0
+FY 2022-23,L6,Quality Engineering,Hyderabad,4048000.0,5060000.0,6072000.0
+FY 2022-23,L6,Quality Engineering,Bengaluru,4250000.0,5313000.0,6376000.0
+FY 2022-23,L6,Cloud and Infrastructure,Hyderabad,4752000.0,5940000.0,7128000.0
+FY 2022-23,L6,Cloud and Infrastructure,Bengaluru,4990000.0,6237000.0,7484000.0
+FY 2022-23,L6,Data and Analytics,Hyderabad,4928000.0,6160000.0,7392000.0
+FY 2022-23,L6,Data and Analytics,Bengaluru,5174000.0,6468000.0,7762000.0
+FY 2022-23,L6,Consulting,Hyderabad,4840000.0,6050000.0,7260000.0
+FY 2022-23,L6,Consulting,Bengaluru,5082000.0,6353000.0,7623000.0
+FY 2022-23,L6,Sales and Presales,Hyderabad,4620000.0,5775000.0,6930000.0
+FY 2022-23,L6,Sales and Presales,Bengaluru,4851000.0,6064000.0,7276000.0
+FY 2022-23,L6,Corporate Functions,Hyderabad,3960000.0,4950000.0,5940000.0
+FY 2022-23,L6,Corporate Functions,Bengaluru,4158000.0,5198000.0,6237000.0
+FY 2023-24,L1,Delivery,Hyderabad,389000.0,486000.0,583000.0
+FY 2023-24,L1,Delivery,Bengaluru,408000.0,510000.0,612000.0
+FY 2023-24,L1,Quality Engineering,Hyderabad,358000.0,447000.0,537000.0
+FY 2023-24,L1,Quality Engineering,Bengaluru,376000.0,469000.0,563000.0
+FY 2023-24,L1,Cloud and Infrastructure,Hyderabad,420000.0,525000.0,630000.0
+FY 2023-24,L1,Cloud and Infrastructure,Bengaluru,441000.0,551000.0,661000.0
+FY 2023-24,L1,Data and Analytics,Hyderabad,435000.0,544000.0,653000.0
+FY 2023-24,L1,Data and Analytics,Bengaluru,457000.0,572000.0,686000.0
+FY 2023-24,L1,Consulting,Hyderabad,428000.0,535000.0,642000.0
+FY 2023-24,L1,Consulting,Bengaluru,449000.0,561000.0,674000.0
+FY 2023-24,L1,Sales and Presales,Hyderabad,408000.0,510000.0,612000.0
+FY 2023-24,L1,Sales and Presales,Bengaluru,429000.0,536000.0,643000.0
+FY 2023-24,L1,Corporate Functions,Hyderabad,350000.0,437000.0,525000.0
+FY 2023-24,L1,Corporate Functions,Bengaluru,367000.0,459000.0,551000.0
+FY 2023-24,L2,Delivery,Hyderabad,691000.0,864000.0,1037000.0
+FY 2023-24,L2,Delivery,Bengaluru,726000.0,907000.0,1089000.0
+FY 2023-24,L2,Quality Engineering,Hyderabad,636000.0,795000.0,954000.0
+FY 2023-24,L2,Quality Engineering,Bengaluru,668000.0,835000.0,1002000.0
+FY 2023-24,L2,Cloud and Infrastructure,Hyderabad,746000.0,933000.0,1120000.0
+FY 2023-24,L2,Cloud and Infrastructure,Bengaluru,784000.0,980000.0,1176000.0
+FY 2023-24,L2,Data and Analytics,Hyderabad,774000.0,968000.0,1161000.0
+FY 2023-24,L2,Data and Analytics,Bengaluru,813000.0,1016000.0,1219000.0
+FY 2023-24,L2,Consulting,Hyderabad,760000.0,950000.0,1140000.0
+FY 2023-24,L2,Consulting,Bengaluru,798000.0,998000.0,1198000.0
+FY 2023-24,L2,Sales and Presales,Hyderabad,726000.0,907000.0,1089000.0
+FY 2023-24,L2,Sales and Presales,Bengaluru,762000.0,953000.0,1143000.0
+FY 2023-24,L2,Corporate Functions,Hyderabad,622000.0,778000.0,933000.0
+FY 2023-24,L2,Corporate Functions,Bengaluru,653000.0,816000.0,980000.0
+FY 2023-24,L3,Delivery,Hyderabad,1210000.0,1512000.0,1814000.0
+FY 2023-24,L3,Delivery,Bengaluru,1270000.0,1588000.0,1905000.0
+FY 2023-24,L3,Quality Engineering,Hyderabad,1113000.0,1391000.0,1669000.0
+FY 2023-24,L3,Quality Engineering,Bengaluru,1168000.0,1461000.0,1753000.0
+FY 2023-24,L3,Cloud and Infrastructure,Hyderabad,1306000.0,1633000.0,1960000.0
+FY 2023-24,L3,Cloud and Infrastructure,Bengaluru,1372000.0,1715000.0,2058000.0
+FY 2023-24,L3,Data and Analytics,Hyderabad,1355000.0,1693000.0,2032000.0
+FY 2023-24,L3,Data and Analytics,Bengaluru,1422000.0,1778000.0,2134000.0
+FY 2023-24,L3,Consulting,Hyderabad,1331000.0,1663000.0,1996000.0
+FY 2023-24,L3,Consulting,Bengaluru,1397000.0,1746000.0,2096000.0
+FY 2023-24,L3,Sales and Presales,Hyderabad,1270000.0,1588000.0,1905000.0
+FY 2023-24,L3,Sales and Presales,Bengaluru,1334000.0,1667000.0,2000000.0
+FY 2023-24,L3,Corporate Functions,Hyderabad,1089000.0,1361000.0,1633000.0
+FY 2023-24,L3,Corporate Functions,Bengaluru,1143000.0,1429000.0,1715000.0
+FY 2023-24,L4,Delivery,Hyderabad,1901000.0,2376000.0,2851000.0
+FY 2023-24,L4,Delivery,Bengaluru,1996000.0,2495000.0,2994000.0
+FY 2023-24,L4,Quality Engineering,Hyderabad,1749000.0,2186000.0,2623000.0
+FY 2023-24,L4,Quality Engineering,Bengaluru,1836000.0,2295000.0,2754000.0
+FY 2023-24,L4,Cloud and Infrastructure,Hyderabad,2053000.0,2566000.0,3079000.0
+FY 2023-24,L4,Cloud and Infrastructure,Bengaluru,2156000.0,2694000.0,3233000.0
+FY 2023-24,L4,Data and Analytics,Hyderabad,2129000.0,2661000.0,3193000.0
+FY 2023-24,L4,Data and Analytics,Bengaluru,2235000.0,2794000.0,3353000.0
+FY 2023-24,L4,Consulting,Hyderabad,2091000.0,2614000.0,3136000.0
+FY 2023-24,L4,Consulting,Bengaluru,2195000.0,2744000.0,3293000.0
+FY 2023-24,L4,Sales and Presales,Hyderabad,1996000.0,2495000.0,2994000.0
+FY 2023-24,L4,Sales and Presales,Bengaluru,2096000.0,2620000.0,3143000.0
+FY 2023-24,L4,Corporate Functions,Hyderabad,1711000.0,2138000.0,2566000.0
+FY 2023-24,L4,Corporate Functions,Bengaluru,1796000.0,2245000.0,2694000.0
+FY 2023-24,L5,Delivery,Hyderabad,2938000.0,3672000.0,4406000.0
+FY 2023-24,L5,Delivery,Bengaluru,3084000.0,3856000.0,4627000.0
+FY 2023-24,L5,Quality Engineering,Hyderabad,2703000.0,3378000.0,4054000.0
+FY 2023-24,L5,Quality Engineering,Bengaluru,2838000.0,3547000.0,4257000.0
+FY 2023-24,L5,Cloud and Infrastructure,Hyderabad,3173000.0,3966000.0,4759000.0
+FY 2023-24,L5,Cloud and Infrastructure,Bengaluru,3331000.0,4164000.0,4997000.0
+FY 2023-24,L5,Data and Analytics,Hyderabad,3290000.0,4113000.0,4935000.0
+FY 2023-24,L5,Data and Analytics,Bengaluru,3455000.0,4318000.0,5182000.0
+FY 2023-24,L5,Consulting,Hyderabad,3231000.0,4039000.0,4847000.0
+FY 2023-24,L5,Consulting,Bengaluru,3393000.0,4241000.0,5089000.0
+FY 2023-24,L5,Sales and Presales,Hyderabad,3084000.0,3856000.0,4627000.0
+FY 2023-24,L5,Sales and Presales,Bengaluru,3239000.0,4048000.0,4858000.0
+FY 2023-24,L5,Corporate Functions,Hyderabad,2644000.0,3305000.0,3966000.0
+FY 2023-24,L5,Corporate Functions,Bengaluru,2776000.0,3470000.0,4164000.0
+FY 2023-24,L6,Delivery,Hyderabad,4752000.0,5940000.0,7128000.0
+FY 2023-24,L6,Delivery,Bengaluru,4990000.0,6237000.0,7484000.0
+FY 2023-24,L6,Quality Engineering,Hyderabad,4372000.0,5465000.0,6558000.0
+FY 2023-24,L6,Quality Engineering,Bengaluru,4590000.0,5738000.0,6886000.0
+FY 2023-24,L6,Cloud and Infrastructure,Hyderabad,5132000.0,6415000.0,7698000.0
+FY 2023-24,L6,Cloud and Infrastructure,Bengaluru,5389000.0,6736000.0,8083000.0
+FY 2023-24,L6,Data and Analytics,Hyderabad,5322000.0,6653000.0,7983000.0
+FY 2023-24,L6,Data and Analytics,Bengaluru,5588000.0,6985000.0,8383000.0
+FY 2023-24,L6,Consulting,Hyderabad,5227000.0,6534000.0,7841000.0
+FY 2023-24,L6,Consulting,Bengaluru,5489000.0,6861000.0,8233000.0
+FY 2023-24,L6,Sales and Presales,Hyderabad,4990000.0,6237000.0,7484000.0
+FY 2023-24,L6,Sales and Presales,Bengaluru,5239000.0,6549000.0,7859000.0
+FY 2023-24,L6,Corporate Functions,Hyderabad,4277000.0,5346000.0,6415000.0
+FY 2023-24,L6,Corporate Functions,Bengaluru,4491000.0,5613000.0,6736000.0
+FY 2024-25,L1,Delivery,Hyderabad,420000.0,525000.0,630000.0
+FY 2024-25,L1,Delivery,Bengaluru,441000.0,551000.0,661000.0
+FY 2024-25,L1,Quality Engineering,Hyderabad,386000.0,483000.0,579000.0
+FY 2024-25,L1,Quality Engineering,Bengaluru,406000.0,507000.0,608000.0
+FY 2024-25,L1,Cloud and Infrastructure,Hyderabad,453000.0,567000.0,680000.0
+FY 2024-25,L1,Cloud and Infrastructure,Bengaluru,476000.0,595000.0,714000.0
+FY 2024-25,L1,Data and Analytics,Hyderabad,470000.0,588000.0,705000.0
+FY 2024-25,L1,Data and Analytics,Bengaluru,494000.0,617000.0,741000.0
+FY 2024-25,L1,Consulting,Hyderabad,462000.0,577000.0,693000.0
+FY 2024-25,L1,Consulting,Bengaluru,485000.0,606000.0,727000.0
+FY 2024-25,L1,Sales and Presales,Hyderabad,441000.0,551000.0,661000.0
+FY 2024-25,L1,Sales and Presales,Bengaluru,463000.0,579000.0,694000.0
+FY 2024-25,L1,Corporate Functions,Hyderabad,378000.0,472000.0,567000.0
+FY 2024-25,L1,Corporate Functions,Bengaluru,397000.0,496000.0,595000.0
+FY 2024-25,L2,Delivery,Hyderabad,746000.0,933000.0,1120000.0
+FY 2024-25,L2,Delivery,Bengaluru,784000.0,980000.0,1176000.0
+FY 2024-25,L2,Quality Engineering,Hyderabad,687000.0,858000.0,1030000.0
+FY 2024-25,L2,Quality Engineering,Bengaluru,721000.0,901000.0,1082000.0
+FY 2024-25,L2,Cloud and Infrastructure,Hyderabad,806000.0,1008000.0,1209000.0
+FY 2024-25,L2,Cloud and Infrastructure,Bengaluru,847000.0,1058000.0,1270000.0
+FY 2024-25,L2,Data and Analytics,Hyderabad,836000.0,1045000.0,1254000.0
+FY 2024-25,L2,Data and Analytics,Bengaluru,878000.0,1097000.0,1317000.0
+FY 2024-25,L2,Consulting,Hyderabad,821000.0,1026000.0,1232000.0
+FY 2024-25,L2,Consulting,Bengaluru,862000.0,1078000.0,1293000.0
+FY 2024-25,L2,Sales and Presales,Hyderabad,784000.0,980000.0,1176000.0
+FY 2024-25,L2,Sales and Presales,Bengaluru,823000.0,1029000.0,1235000.0
+FY 2024-25,L2,Corporate Functions,Hyderabad,672000.0,840000.0,1008000.0
+FY 2024-25,L2,Corporate Functions,Bengaluru,705000.0,882000.0,1058000.0
+FY 2024-25,L3,Delivery,Hyderabad,1306000.0,1633000.0,1960000.0
+FY 2024-25,L3,Delivery,Bengaluru,1372000.0,1715000.0,2058000.0
+FY 2024-25,L3,Quality Engineering,Hyderabad,1202000.0,1502000.0,1803000.0
+FY 2024-25,L3,Quality Engineering,Bengaluru,1262000.0,1577000.0,1893000.0
+FY 2024-25,L3,Cloud and Infrastructure,Hyderabad,1411000.0,1764000.0,2116000.0
+FY 2024-25,L3,Cloud and Infrastructure,Bengaluru,1481000.0,1852000.0,2222000.0
+FY 2024-25,L3,Data and Analytics,Hyderabad,1463000.0,1829000.0,2195000.0
+FY 2024-25,L3,Data and Analytics,Bengaluru,1536000.0,1920000.0,2304000.0
+FY 2024-25,L3,Consulting,Hyderabad,1437000.0,1796000.0,2156000.0
+FY 2024-25,L3,Consulting,Bengaluru,1509000.0,1886000.0,2263000.0
+FY 2024-25,L3,Sales and Presales,Hyderabad,1372000.0,1715000.0,2058000.0
+FY 2024-25,L3,Sales and Presales,Bengaluru,1440000.0,1800000.0,2160000.0
+FY 2024-25,L3,Corporate Functions,Hyderabad,1176000.0,1470000.0,1764000.0
+FY 2024-25,L3,Corporate Functions,Bengaluru,1235000.0,1543000.0,1852000.0
+FY 2024-25,L4,Delivery,Hyderabad,2053000.0,2566000.0,3079000.0
+FY 2024-25,L4,Delivery,Bengaluru,2156000.0,2694000.0,3233000.0
+FY 2024-25,L4,Quality Engineering,Hyderabad,1889000.0,2361000.0,2833000.0
+FY 2024-25,L4,Quality Engineering,Bengaluru,1983000.0,2479000.0,2975000.0
+FY 2024-25,L4,Cloud and Infrastructure,Hyderabad,2217000.0,2771000.0,3326000.0
+FY 2024-25,L4,Cloud and Infrastructure,Bengaluru,2328000.0,2910000.0,3492000.0
+FY 2024-25,L4,Data and Analytics,Hyderabad,2299000.0,2874000.0,3449000.0
+FY 2024-25,L4,Data and Analytics,Bengaluru,2414000.0,3018000.0,3621000.0
+FY 2024-25,L4,Consulting,Hyderabad,2258000.0,2823000.0,3387000.0
+FY 2024-25,L4,Consulting,Bengaluru,2371000.0,2964000.0,3557000.0
+FY 2024-25,L4,Sales and Presales,Hyderabad,2156000.0,2694000.0,3233000.0
+FY 2024-25,L4,Sales and Presales,Bengaluru,2263000.0,2829000.0,3395000.0
+FY 2024-25,L4,Corporate Functions,Hyderabad,1848000.0,2309000.0,2771000.0
+FY 2024-25,L4,Corporate Functions,Bengaluru,1940000.0,2425000.0,2910000.0
+FY 2024-25,L5,Delivery,Hyderabad,3173000.0,3966000.0,4759000.0
+FY 2024-25,L5,Delivery,Bengaluru,3331000.0,4164000.0,4997000.0
+FY 2024-25,L5,Quality Engineering,Hyderabad,2919000.0,3648000.0,4378000.0
+FY 2024-25,L5,Quality Engineering,Bengaluru,3065000.0,3831000.0,4597000.0
+FY 2024-25,L5,Cloud and Infrastructure,Hyderabad,3426000.0,4283000.0,5140000.0
+FY 2024-25,L5,Cloud and Infrastructure,Bengaluru,3598000.0,4497000.0,5397000.0
+FY 2024-25,L5,Data and Analytics,Hyderabad,3553000.0,4442000.0,5330000.0
+FY 2024-25,L5,Data and Analytics,Bengaluru,3731000.0,4664000.0,5596000.0
+FY 2024-25,L5,Consulting,Hyderabad,3490000.0,4362000.0,5235000.0
+FY 2024-25,L5,Consulting,Bengaluru,3664000.0,4580000.0,5497000.0
+FY 2024-25,L5,Sales and Presales,Hyderabad,3331000.0,4164000.0,4997000.0
+FY 2024-25,L5,Sales and Presales,Bengaluru,3498000.0,4372000.0,5247000.0
+FY 2024-25,L5,Corporate Functions,Hyderabad,2855000.0,3569000.0,4283000.0
+FY 2024-25,L5,Corporate Functions,Bengaluru,2998000.0,3748000.0,4497000.0
+FY 2024-25,L6,Delivery,Hyderabad,5132000.0,6415000.0,7698000.0
+FY 2024-25,L6,Delivery,Bengaluru,5389000.0,6736000.0,8083000.0
+FY 2024-25,L6,Quality Engineering,Hyderabad,4722000.0,5902000.0,7082000.0
+FY 2024-25,L6,Quality Engineering,Bengaluru,4958000.0,6197000.0,7436000.0
+FY 2024-25,L6,Cloud and Infrastructure,Hyderabad,5543000.0,6928000.0,8314000.0
+FY 2024-25,L6,Cloud and Infrastructure,Bengaluru,5820000.0,7275000.0,8730000.0
+FY 2024-25,L6,Data and Analytics,Hyderabad,5748000.0,7185000.0,8622000.0
+FY 2024-25,L6,Data and Analytics,Bengaluru,6035000.0,7544000.0,9053000.0
+FY 2024-25,L6,Consulting,Hyderabad,5645000.0,7057000.0,8468000.0
+FY 2024-25,L6,Consulting,Bengaluru,5928000.0,7410000.0,8891000.0
+FY 2024-25,L6,Sales and Presales,Hyderabad,5389000.0,6736000.0,8083000.0
+FY 2024-25,L6,Sales and Presales,Bengaluru,5658000.0,7073000.0,8487000.0
+FY 2024-25,L6,Corporate Functions,Hyderabad,4619000.0,5774000.0,6928000.0
+FY 2024-25,L6,Corporate Functions,Bengaluru,4850000.0,6062000.0,7275000.0
+FY 2025-26,L1,Delivery,Hyderabad,453000.0,567000.0,680000.0
+FY 2025-26,L1,Delivery,Bengaluru,476000.0,595000.0,714000.0
+FY 2025-26,L1,Quality Engineering,Hyderabad,417000.0,522000.0,626000.0
+FY 2025-26,L1,Quality Engineering,Bengaluru,438000.0,548000.0,657000.0
+FY 2025-26,L1,Cloud and Infrastructure,Hyderabad,490000.0,612000.0,735000.0
+FY 2025-26,L1,Cloud and Infrastructure,Bengaluru,514000.0,643000.0,771000.0
+FY 2025-26,L1,Data and Analytics,Hyderabad,508000.0,635000.0,762000.0
+FY 2025-26,L1,Data and Analytics,Bengaluru,533000.0,667000.0,800000.0
+FY 2025-26,L1,Consulting,Hyderabad,499000.0,624000.0,748000.0
+FY 2025-26,L1,Consulting,Bengaluru,524000.0,655000.0,786000.0
+FY 2025-26,L1,Sales and Presales,Hyderabad,476000.0,595000.0,714000.0
+FY 2025-26,L1,Sales and Presales,Bengaluru,500000.0,625000.0,750000.0
+FY 2025-26,L1,Corporate Functions,Hyderabad,408000.0,510000.0,612000.0
+FY 2025-26,L1,Corporate Functions,Bengaluru,429000.0,536000.0,643000.0
+FY 2025-26,L2,Delivery,Hyderabad,806000.0,1008000.0,1209000.0
+FY 2025-26,L2,Delivery,Bengaluru,847000.0,1058000.0,1270000.0
+FY 2025-26,L2,Quality Engineering,Hyderabad,742000.0,927000.0,1113000.0
+FY 2025-26,L2,Quality Engineering,Bengaluru,779000.0,974000.0,1168000.0
+FY 2025-26,L2,Cloud and Infrastructure,Hyderabad,871000.0,1088000.0,1306000.0
+FY 2025-26,L2,Cloud and Infrastructure,Bengaluru,914000.0,1143000.0,1371000.0
+FY 2025-26,L2,Data and Analytics,Hyderabad,903000.0,1129000.0,1354000.0
+FY 2025-26,L2,Data and Analytics,Bengaluru,948000.0,1185000.0,1422000.0
+FY 2025-26,L2,Consulting,Hyderabad,887000.0,1109000.0,1330000.0
+FY 2025-26,L2,Consulting,Bengaluru,931000.0,1164000.0,1397000.0
+FY 2025-26,L2,Sales and Presales,Hyderabad,847000.0,1058000.0,1270000.0
+FY 2025-26,L2,Sales and Presales,Bengaluru,889000.0,1111000.0,1333000.0
+FY 2025-26,L2,Corporate Functions,Hyderabad,726000.0,907000.0,1088000.0
+FY 2025-26,L2,Corporate Functions,Bengaluru,762000.0,952000.0,1143000.0
+FY 2025-26,L3,Delivery,Hyderabad,1411000.0,1764000.0,2116000.0
+FY 2025-26,L3,Delivery,Bengaluru,1481000.0,1852000.0,2222000.0
+FY 2025-26,L3,Quality Engineering,Hyderabad,1298000.0,1623000.0,1947000.0
+FY 2025-26,L3,Quality Engineering,Bengaluru,1363000.0,1704000.0,2044000.0
+FY 2025-26,L3,Cloud and Infrastructure,Hyderabad,1524000.0,1905000.0,2286000.0
+FY 2025-26,L3,Cloud and Infrastructure,Bengaluru,1600000.0,2000000.0,2400000.0
+FY 2025-26,L3,Data and Analytics,Hyderabad,1580000.0,1975000.0,2370000.0
+FY 2025-26,L3,Data and Analytics,Bengaluru,1659000.0,2074000.0,2489000.0
+FY 2025-26,L3,Consulting,Hyderabad,1552000.0,1940000.0,2328000.0
+FY 2025-26,L3,Consulting,Bengaluru,1630000.0,2037000.0,2444000.0
+FY 2025-26,L3,Sales and Presales,Hyderabad,1481000.0,1852000.0,2222000.0
+FY 2025-26,L3,Sales and Presales,Bengaluru,1555000.0,1944000.0,2333000.0
+FY 2025-26,L3,Corporate Functions,Hyderabad,1270000.0,1587000.0,1905000.0
+FY 2025-26,L3,Corporate Functions,Bengaluru,1333000.0,1667000.0,2000000.0
+FY 2025-26,L4,Delivery,Hyderabad,2217000.0,2771000.0,3326000.0
+FY 2025-26,L4,Delivery,Bengaluru,2328000.0,2910000.0,3492000.0
+FY 2025-26,L4,Quality Engineering,Hyderabad,2040000.0,2550000.0,3060000.0
+FY 2025-26,L4,Quality Engineering,Bengaluru,2142000.0,2677000.0,3213000.0
+FY 2025-26,L4,Cloud and Infrastructure,Hyderabad,2394000.0,2993000.0,3592000.0
+FY 2025-26,L4,Cloud and Infrastructure,Bengaluru,2514000.0,3143000.0,3771000.0
+FY 2025-26,L4,Data and Analytics,Hyderabad,2483000.0,3104000.0,3725000.0
+FY 2025-26,L4,Data and Analytics,Bengaluru,2607000.0,3259000.0,3911000.0
+FY 2025-26,L4,Consulting,Hyderabad,2439000.0,3049000.0,3658000.0
+FY 2025-26,L4,Consulting,Bengaluru,2561000.0,3201000.0,3841000.0
+FY 2025-26,L4,Sales and Presales,Hyderabad,2328000.0,2910000.0,3492000.0
+FY 2025-26,L4,Sales and Presales,Bengaluru,2444000.0,3055000.0,3667000.0
+FY 2025-26,L4,Corporate Functions,Hyderabad,1995000.0,2494000.0,2993000.0
+FY 2025-26,L4,Corporate Functions,Bengaluru,2095000.0,2619000.0,3143000.0
+FY 2025-26,L5,Delivery,Hyderabad,3426000.0,4283000.0,5140000.0
+FY 2025-26,L5,Delivery,Bengaluru,3598000.0,4497000.0,5397000.0
+FY 2025-26,L5,Quality Engineering,Hyderabad,3152000.0,3940000.0,4728000.0
+FY 2025-26,L5,Quality Engineering,Bengaluru,3310000.0,4137000.0,4965000.0
+FY 2025-26,L5,Cloud and Infrastructure,Hyderabad,3701000.0,4626000.0,5551000.0
+FY 2025-26,L5,Cloud and Infrastructure,Bengaluru,3886000.0,4857000.0,5828000.0
+FY 2025-26,L5,Data and Analytics,Hyderabad,3838000.0,4797000.0,5756000.0
+FY 2025-26,L5,Data and Analytics,Bengaluru,4029000.0,5037000.0,6044000.0
+FY 2025-26,L5,Consulting,Hyderabad,3769000.0,4711000.0,5654000.0
+FY 2025-26,L5,Consulting,Bengaluru,3958000.0,4947000.0,5936000.0
+FY 2025-26,L5,Sales and Presales,Hyderabad,3598000.0,4497000.0,5397000.0
+FY 2025-26,L5,Sales and Presales,Bengaluru,3778000.0,4722000.0,5666000.0
+FY 2025-26,L5,Corporate Functions,Hyderabad,3084000.0,3855000.0,4626000.0
+FY 2025-26,L5,Corporate Functions,Bengaluru,3238000.0,4047000.0,4857000.0
+FY 2025-26,L6,Delivery,Hyderabad,5543000.0,6928000.0,8314000.0
+FY 2025-26,L6,Delivery,Bengaluru,5820000.0,7275000.0,8730000.0
+FY 2025-26,L6,Quality Engineering,Hyderabad,5099000.0,6374000.0,7649000.0
+FY 2025-26,L6,Quality Engineering,Bengaluru,5354000.0,6693000.0,8031000.0
+FY 2025-26,L6,Cloud and Infrastructure,Hyderabad,5986000.0,7483000.0,8979000.0
+FY 2025-26,L6,Cloud and Infrastructure,Bengaluru,6285000.0,7857000.0,9428000.0
+FY 2025-26,L6,Data and Analytics,Hyderabad,6208000.0,7760000.0,9312000.0
+FY 2025-26,L6,Data and Analytics,Bengaluru,6518000.0,8148000.0,9777000.0
+FY 2025-26,L6,Consulting,Hyderabad,6097000.0,7621000.0,9146000.0
+FY 2025-26,L6,Consulting,Bengaluru,6402000.0,8002000.0,9603000.0
+FY 2025-26,L6,Sales and Presales,Hyderabad,5820000.0,7275000.0,8730000.0
+FY 2025-26,L6,Sales and Presales,Bengaluru,6111000.0,7639000.0,9166000.0
+FY 2025-26,L6,Corporate Functions,Hyderabad,4988000.0,6236000.0,7483000.0
+FY 2025-26,L6,Corporate Functions,Bengaluru,5238000.0,6547000.0,7857000.0

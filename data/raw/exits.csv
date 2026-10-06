@@ -1,0 +1,1714 @@
+emp_id,exit_date,exit_type,exit_reason
+E101496,2022-04-01,Voluntary,Better pay
+E101914,2022-04-01,Voluntary,Better pay
+E100938,2022-04-01,Voluntary,Better pay
+E101640,2022-04-01,Voluntary,Better pay
+E100555,2022-04-02,Involuntary,Performance
+E100543,2022-04-03,Voluntary,Higher studies
+E101104,2022-04-04,Involuntary,Performance
+E101022,2022-04-04,Voluntary,Better pay
+E100207,2022-04-04,Voluntary,Better pay
+E101345,2022-04-04,Voluntary,Relocation or commute
+E101553,2022-04-07,Involuntary,Performance
+E100162,2022-04-09,Voluntary,Better pay
+E101018,2022-04-09,Voluntary,Better pay
+E100222,2022-04-09,Voluntary,Career growth
+E101930,2022-04-10,Voluntary,Better pay
+E101412,2022-04-11,Voluntary,Higher studies
+E100513,2022-04-11,Voluntary,Better pay
+E100859,2022-04-12,Voluntary,Better pay
+E100323,2022-04-12,Voluntary,Personal
+E100367,2022-04-13,Voluntary,Personal
+E101020,2022-04-13,Voluntary,Career growth
+E100094,2022-04-13,Voluntary,Personal
+E100018,2022-04-13,Involuntary,Performance
+E100618,2022-04-14,Voluntary,Better pay
+E102150,2022-04-14,Voluntary,Career growth
+E101869,2022-04-14,Voluntary,Higher studies
+E100590,2022-04-14,Voluntary,Better pay
+E100634,2022-04-15,Voluntary,Higher studies
+E101757,2022-04-15,Voluntary,Higher studies
+E101464,2022-04-16,Voluntary,Career growth
+E102021,2022-04-16,Voluntary,Better pay
+E101906,2022-04-16,Voluntary,Personal
+E100746,2022-04-17,Voluntary,Personal
+E101577,2022-04-18,Voluntary,Better pay
+E100151,2022-04-18,Voluntary,Higher studies
+E101700,2022-04-19,Voluntary,Better pay
+E101969,2022-04-20,Voluntary,Better pay
+E100553,2022-04-21,Voluntary,Personal
+E100181,2022-04-21,Voluntary,Better pay
+E101082,2022-04-22,Voluntary,Better pay
+E102002,2022-04-22,Voluntary,Higher studies
+E100549,2022-04-23,Voluntary,Relocation or commute
+E101298,2022-04-23,Voluntary,Relocation or commute
+E102138,2022-04-23,Voluntary,Better pay
+E100012,2022-04-24,Voluntary,Relocation or commute
+E100872,2022-04-24,Voluntary,Relocation or commute
+E101750,2022-04-25,Voluntary,Career growth
+E101421,2022-04-25,Voluntary,Career growth
+E100732,2022-04-25,Voluntary,Better pay
+E101615,2022-04-26,Voluntary,Better pay
+E101780,2022-04-26,Voluntary,Career growth
+E100708,2022-05-01,Voluntary,Relocation or commute
+E101769,2022-05-01,Involuntary,Performance
+E100203,2022-05-02,Voluntary,Better pay
+E100379,2022-05-03,Voluntary,Personal
+E101091,2022-05-03,Voluntary,Better pay
+E101220,2022-05-03,Voluntary,Better pay
+E100614,2022-05-03,Voluntary,Career growth
+E101484,2022-05-04,Involuntary,Performance
+E101087,2022-05-05,Voluntary,Higher studies
+E101852,2022-05-05,Voluntary,Higher studies
+E100832,2022-05-06,Voluntary,Higher studies
+E100397,2022-05-06,Involuntary,Performance
+E100483,2022-05-06,Voluntary,Relocation or commute
+E100702,2022-05-06,Voluntary,Career growth
+E100906,2022-05-07,Voluntary,Higher studies
+E100870,2022-05-07,Voluntary,Career growth
+E100652,2022-05-07,Involuntary,Performance
+E101893,2022-05-07,Voluntary,Career growth
+E100617,2022-05-07,Voluntary,Relocation or commute
+E100964,2022-05-08,Voluntary,Personal
+E101573,2022-05-09,Voluntary,Better pay
+E101611,2022-05-10,Voluntary,Personal
+E101994,2022-05-11,Voluntary,Career growth
+E101978,2022-05-11,Voluntary,Personal
+E100546,2022-05-11,Voluntary,Career growth
+E101083,2022-05-12,Voluntary,Better pay
+E100842,2022-05-13,Voluntary,Better pay
+E100291,2022-05-13,Voluntary,Higher studies
+E100500,2022-05-13,Involuntary,Performance
+E101634,2022-05-14,Voluntary,Better pay
+E100951,2022-05-14,Voluntary,Career growth
+E101479,2022-05-14,Voluntary,Relocation or commute
+E101992,2022-05-15,Voluntary,Higher studies
+E100369,2022-05-15,Voluntary,Career growth
+E100827,2022-05-16,Voluntary,Personal
+E100240,2022-05-17,Voluntary,Career growth
+E102134,2022-05-17,Voluntary,Better pay
+E100924,2022-05-18,Voluntary,Personal
+E100248,2022-05-18,Voluntary,Higher studies
+E100685,2022-05-18,Involuntary,Performance
+E100706,2022-05-18,Voluntary,Personal
+E102046,2022-05-19,Voluntary,Career growth
+E101185,2022-05-19,Voluntary,Career growth
+E101927,2022-05-20,Voluntary,Personal
+E101912,2022-05-20,Voluntary,Higher studies
+E100391,2022-05-21,Voluntary,Better pay
+E101346,2022-05-21,Voluntary,Personal
+E101269,2022-05-21,Voluntary,Higher studies
+E100935,2022-05-21,Voluntary,Personal
+E100108,2022-05-22,Voluntary,Better pay
+E100818,2022-05-22,Voluntary,Higher studies
+E100850,2022-05-22,Voluntary,Better pay
+E100598,2022-05-22,Voluntary,Career growth
+E101630,2022-05-23,Voluntary,Better pay
+E100067,2022-05-23,Voluntary,Better pay
+E100763,2022-05-24,Voluntary,Better pay
+E101213,2022-05-24,Voluntary,Better pay
+E101080,2022-05-25,Voluntary,Better pay
+E100340,2022-05-25,Voluntary,Better pay
+E100071,2022-05-25,Voluntary,Higher studies
+E101984,2022-05-26,Voluntary,Career growth
+E100953,2022-05-26,Voluntary,Relocation or commute
+E101798,2022-05-26,Voluntary,Relocation or commute
+E100495,2022-06-01,Voluntary,Career growth
+E100682,2022-06-02,Voluntary,Personal
+E100216,2022-06-02,Voluntary,Career growth
+E100814,2022-06-03,Voluntary,Better pay
+E100197,2022-06-03,Voluntary,Better pay
+E100526,2022-06-04,Voluntary,Career growth
+E100235,2022-06-04,Voluntary,Better pay
+E100773,2022-06-05,Voluntary,Better pay
+E101127,2022-06-06,Voluntary,Relocation or commute
+E101931,2022-06-06,Voluntary,Better pay
+E101946,2022-06-06,Involuntary,Performance
+E101746,2022-06-06,Voluntary,Better pay
+E101781,2022-06-07,Voluntary,Relocation or commute
+E100347,2022-06-07,Involuntary,Performance
+E100098,2022-06-07,Voluntary,Relocation or commute
+E102054,2022-06-07,Voluntary,Better pay
+E100127,2022-06-08,Voluntary,Higher studies
+E100632,2022-06-08,Voluntary,Better pay
+E101824,2022-06-09,Voluntary,Career growth
+E101622,2022-06-09,Voluntary,Better pay
+E100968,2022-06-11,Involuntary,Performance
+E101588,2022-06-11,Voluntary,Higher studies
+E100292,2022-06-11,Voluntary,Career growth
+E100819,2022-06-12,Voluntary,Better pay
+E101787,2022-06-12,Voluntary,Higher studies
+E102094,2022-06-12,Voluntary,Higher studies
+E101607,2022-06-13,Voluntary,Higher studies
+E102076,2022-06-14,Voluntary,Better pay
+E100979,2022-06-15,Voluntary,Personal
+E101248,2022-06-15,Involuntary,Performance
+E101876,2022-06-16,Voluntary,Better pay
+E100249,2022-06-16,Voluntary,Career growth
+E101237,2022-06-16,Voluntary,Career growth
+E100441,2022-06-17,Voluntary,Better pay
+E100355,2022-06-17,Voluntary,Career growth
+E100167,2022-06-17,Voluntary,Career growth
+E100336,2022-06-18,Voluntary,Better pay
+E101540,2022-06-18,Voluntary,Career growth
+E100202,2022-06-18,Voluntary,Career growth
+E100817,2022-06-19,Voluntary,Better pay
+E101605,2022-06-20,Involuntary,Performance
+E100123,2022-06-21,Voluntary,Better pay
+E101971,2022-06-21,Voluntary,Better pay
+E100641,2022-06-22,Voluntary,Better pay
+E101093,2022-06-22,Voluntary,Career growth
+E100722,2022-06-23,Voluntary,Better pay
+E101281,2022-06-24,Voluntary,Higher studies
+E101184,2022-06-25,Voluntary,Higher studies
+E101054,2022-06-25,Voluntary,Career growth
+E101843,2022-06-25,Voluntary,Personal
+E101586,2022-06-25,Voluntary,Higher studies
+E101440,2022-06-26,Involuntary,Performance
+E101705,2022-06-27,Voluntary,Career growth
+E101663,2022-06-27,Voluntary,Career growth
+E101541,2022-07-02,Voluntary,Career growth
+E102135,2022-07-02,Voluntary,Better pay
+E102036,2022-07-02,Voluntary,Relocation or commute
+E101486,2022-07-03,Voluntary,Better pay
+E101324,2022-07-03,Voluntary,Better pay
+E100925,2022-07-05,Voluntary,Better pay
+E100988,2022-07-05,Voluntary,Better pay
+E100821,2022-07-06,Involuntary,Performance
+E100831,2022-07-07,Voluntary,Better pay
+E100524,2022-07-07,Voluntary,Relocation or commute
+E101861,2022-07-07,Voluntary,Higher studies
+E100583,2022-07-07,Voluntary,Relocation or commute
+E102096,2022-07-08,Involuntary,Performance
+E100788,2022-07-09,Voluntary,Career growth
+E101348,2022-07-09,Voluntary,Career growth
+E101406,2022-07-09,Voluntary,Relocation or commute
+E100262,2022-07-10,Voluntary,Better pay
+E101790,2022-07-10,Voluntary,Better pay
+E100462,2022-07-10,Involuntary,Performance
+E100065,2022-07-12,Voluntary,Personal
+E100973,2022-07-12,Voluntary,Better pay
+E100053,2022-07-13,Voluntary,Higher studies
+E102042,2022-07-14,Voluntary,Personal
+E101670,2022-07-14,Voluntary,Better pay
+E101081,2022-07-15,Voluntary,Relocation or commute
+E101881,2022-07-16,Voluntary,Better pay
+E100699,2022-07-17,Voluntary,Better pay
+E100281,2022-07-17,Voluntary,Higher studies
+E102101,2022-07-18,Voluntary,Better pay
+E101375,2022-07-18,Voluntary,Relocation or commute
+E101388,2022-07-18,Voluntary,Higher studies
+E101272,2022-07-18,Involuntary,Performance
+E101056,2022-07-18,Voluntary,Higher studies
+E101250,2022-07-20,Involuntary,Performance
+E101267,2022-07-21,Voluntary,Better pay
+E100764,2022-07-21,Voluntary,Relocation or commute
+E100417,2022-07-21,Voluntary,Higher studies
+E100054,2022-07-21,Voluntary,Career growth
+E100472,2022-07-22,Voluntary,Personal
+E100405,2022-07-22,Voluntary,Higher studies
+E102091,2022-07-22,Voluntary,Career growth
+E101438,2022-07-24,Voluntary,Personal
+E100756,2022-07-24,Voluntary,Career growth
+E100642,2022-07-24,Voluntary,Personal
+E101287,2022-07-24,Voluntary,Personal
+E100142,2022-07-25,Voluntary,Better pay
+E100582,2022-07-27,Voluntary,Better pay
+E101201,2022-08-01,Involuntary,Performance
+E101945,2022-08-01,Involuntary,Performance
+E100237,2022-08-01,Voluntary,Better pay
+E101872,2022-08-01,Voluntary,Higher studies
+E100677,2022-08-02,Voluntary,Higher studies
+E101683,2022-08-02,Voluntary,Relocation or commute
+E101122,2022-08-03,Voluntary,Career growth
+E100164,2022-08-03,Voluntary,Higher studies
+E100570,2022-08-03,Voluntary,Relocation or commute
+E101764,2022-08-04,Voluntary,Career growth
+E101820,2022-08-04,Voluntary,Relocation or commute
+E100569,2022-08-04,Voluntary,Better pay
+E100847,2022-08-04,Voluntary,Better pay
+E100194,2022-08-04,Voluntary,Higher studies
+E100941,2022-08-05,Involuntary,Performance
+E101604,2022-08-06,Voluntary,Better pay
+E101055,2022-08-07,Voluntary,Better pay
+E101585,2022-08-07,Voluntary,Better pay
+E101459,2022-08-07,Voluntary,Career growth
+E100786,2022-08-08,Involuntary,Performance
+E100920,2022-08-09,Voluntary,Career growth
+E101873,2022-08-09,Voluntary,Better pay
+E100769,2022-08-09,Voluntary,Relocation or commute
+E101320,2022-08-09,Voluntary,Higher studies
+E100422,2022-08-10,Voluntary,Personal
+E101656,2022-08-10,Voluntary,Higher studies
+E101935,2022-08-10,Involuntary,Performance
+E101614,2022-08-10,Voluntary,Higher studies
+E101255,2022-08-10,Voluntary,Better pay
+E100912,2022-08-10,Voluntary,Career growth
+E102053,2022-08-11,Voluntary,Higher studies
+E100002,2022-08-11,Involuntary,Performance
+E101435,2022-08-12,Voluntary,Better pay
+E101955,2022-08-13,Voluntary,Better pay
+E102065,2022-08-13,Voluntary,Higher studies
+E100118,2022-08-13,Voluntary,Higher studies
+E101194,2022-08-13,Involuntary,Performance
+E101940,2022-08-15,Involuntary,Performance
+E100809,2022-08-15,Voluntary,Higher studies
+E101283,2022-08-16,Voluntary,Better pay
+E100232,2022-08-16,Voluntary,Higher studies
+E100024,2022-08-16,Voluntary,Career growth
+E100633,2022-08-18,Voluntary,Better pay
+E100113,2022-08-19,Voluntary,Career growth
+E100670,2022-08-20,Voluntary,Higher studies
+E100327,2022-08-21,Voluntary,Higher studies
+E101466,2022-08-21,Involuntary,Performance
+E102031,2022-08-22,Voluntary,Career growth
+E100001,2022-08-22,Voluntary,Career growth
+E101350,2022-08-22,Voluntary,Relocation or commute
+E101243,2022-08-23,Voluntary,Better pay
+E101667,2022-08-24,Voluntary,Career growth
+E101938,2022-08-24,Voluntary,Career growth
+E101174,2022-08-25,Voluntary,Higher studies
+E100956,2022-08-25,Voluntary,Better pay
+E102131,2022-08-26,Voluntary,Better pay
+E100466,2022-08-26,Voluntary,Better pay
+E100126,2022-09-01,Voluntary,Personal
+E100517,2022-09-01,Voluntary,Personal
+E100300,2022-09-01,Voluntary,Higher studies
+E101347,2022-09-02,Voluntary,Better pay
+E100256,2022-09-02,Voluntary,Better pay
+E100501,2022-09-02,Voluntary,Better pay
+E101495,2022-09-03,Voluntary,Relocation or commute
+E102052,2022-09-03,Voluntary,Better pay
+E101874,2022-09-04,Voluntary,Better pay
+E101542,2022-09-04,Voluntary,Better pay
+E100961,2022-09-05,Voluntary,Higher studies
+E101951,2022-09-05,Voluntary,Better pay
+E100076,2022-09-05,Voluntary,Better pay
+E100210,2022-09-06,Voluntary,Career growth
+E102105,2022-09-06,Voluntary,Career growth
+E101621,2022-09-07,Voluntary,Better pay
+E101534,2022-09-08,Voluntary,Personal
+E101627,2022-09-08,Voluntary,Higher studies
+E101981,2022-09-09,Voluntary,Better pay
+E101334,2022-09-10,Voluntary,Better pay
+E101107,2022-09-11,Voluntary,Career growth
+E101665,2022-09-12,Voluntary,Relocation or commute
+E100298,2022-09-12,Voluntary,Better pay
+E100443,2022-09-12,Voluntary,Better pay
+E100759,2022-09-13,Voluntary,Better pay
+E101849,2022-09-13,Voluntary,Relocation or commute
+E100795,2022-09-14,Voluntary,Relocation or commute
+E101222,2022-09-15,Voluntary,Career growth
+E100174,2022-09-16,Voluntary,Relocation or commute
+E100200,2022-09-17,Voluntary,Personal
+E101147,2022-09-17,Voluntary,Career growth
+E100350,2022-09-18,Voluntary,Better pay
+E102071,2022-09-19,Voluntary,Higher studies
+E100792,2022-09-19,Voluntary,Personal
+E101493,2022-09-21,Voluntary,Career growth
+E102228,2022-09-22,Voluntary,Better pay
+E100709,2022-09-23,Involuntary,Performance
+E101061,2022-09-23,Involuntary,Performance
+E101677,2022-09-23,Voluntary,Better pay
+E101794,2022-09-23,Voluntary,Personal
+E100999,2022-09-24,Voluntary,Career growth
+E100351,2022-09-24,Involuntary,Performance
+E100939,2022-09-25,Voluntary,Higher studies
+E102041,2022-09-26,Voluntary,Relocation or commute
+E101415,2022-09-26,Voluntary,Career growth
+E100036,2022-09-27,Voluntary,Better pay
+E101696,2022-09-27,Voluntary,Relocation or commute
+E101609,2022-10-02,Voluntary,Relocation or commute
+E100049,2022-10-02,Voluntary,Better pay
+E101762,2022-10-02,Involuntary,Performance
+E101660,2022-10-02,Voluntary,Relocation or commute
+E100760,2022-10-04,Voluntary,Personal
+E101814,2022-10-04,Voluntary,Better pay
+E101733,2022-10-05,Voluntary,Personal
+E100270,2022-10-06,Voluntary,Relocation or commute
+E102092,2022-10-07,Voluntary,Relocation or commute
+E101439,2022-10-07,Voluntary,Relocation or commute
+E101071,2022-10-07,Voluntary,Better pay
+E100835,2022-10-07,Voluntary,Higher studies
+E101549,2022-10-08,Voluntary,Higher studies
+E101377,2022-10-08,Voluntary,Better pay
+E101744,2022-10-08,Voluntary,Higher studies
+E100364,2022-10-08,Involuntary,Performance
+E101903,2022-10-08,Involuntary,Performance
+E100551,2022-10-09,Voluntary,Better pay
+E100696,2022-10-10,Voluntary,Better pay
+E101554,2022-10-10,Voluntary,Career growth
+E100985,2022-10-11,Voluntary,Career growth
+E101099,2022-10-11,Voluntary,Personal
+E102120,2022-10-13,Voluntary,Better pay
+E100994,2022-10-14,Voluntary,Better pay
+E100431,2022-10-14,Voluntary,Higher studies
+E100191,2022-10-14,Voluntary,Career growth
+E102074,2022-10-16,Voluntary,Better pay
+E101600,2022-10-16,Voluntary,Better pay
+E101258,2022-10-16,Voluntary,Higher studies
+E101734,2022-10-17,Voluntary,Relocation or commute
+E100949,2022-10-18,Voluntary,Better pay
+E101616,2022-10-19,Voluntary,Higher studies
+E100244,2022-10-19,Voluntary,Better pay
+E100372,2022-10-19,Voluntary,Better pay
+E100510,2022-10-19,Involuntary,Performance
+E100597,2022-10-20,Voluntary,Personal
+E101692,2022-10-22,Voluntary,Higher studies
+E100093,2022-10-22,Voluntary,Relocation or commute
+E101555,2022-10-22,Voluntary,Relocation or commute
+E101891,2022-10-23,Voluntary,Better pay
+E101165,2022-10-23,Voluntary,Higher studies
+E100211,2022-10-23,Voluntary,Career growth
+E100800,2022-10-23,Voluntary,Relocation or commute
+E101822,2022-10-23,Voluntary,Career growth
+E101374,2022-10-24,Voluntary,Career growth
+E101563,2022-10-25,Voluntary,Better pay
+E100309,2022-10-25,Voluntary,Relocation or commute
+E101721,2022-10-25,Voluntary,Career growth
+E101378,2022-10-25,Voluntary,Higher studies
+E101943,2022-10-26,Voluntary,Better pay
+E100245,2022-10-26,Voluntary,Personal
+E100662,2022-10-27,Involuntary,Performance
+E101400,2022-10-27,Involuntary,Performance
+E101631,2022-11-01,Voluntary,Career growth
+E100643,2022-11-01,Voluntary,Higher studies
+E100085,2022-11-02,Involuntary,Performance
+E101429,2022-11-02,Voluntary,Better pay
+E101161,2022-11-02,Involuntary,Performance
+E102103,2022-11-03,Voluntary,Personal
+E101039,2022-11-03,Voluntary,Career growth
+E100101,2022-11-03,Voluntary,Better pay
+E101565,2022-11-03,Voluntary,Better pay
+E101467,2022-11-04,Voluntary,Higher studies
+E101664,2022-11-05,Voluntary,Relocation or commute
+E102100,2022-11-06,Voluntary,Higher studies
+E100982,2022-11-06,Voluntary,Personal
+E100751,2022-11-07,Voluntary,Personal
+E102198,2022-11-07,Voluntary,Career growth
+E102010,2022-11-08,Voluntary,Higher studies
+E101060,2022-11-10,Voluntary,Career growth
+E100468,2022-11-10,Voluntary,Better pay
+E101760,2022-11-10,Voluntary,Better pay
+E100184,2022-11-11,Involuntary,Performance
+E102295,2022-11-13,Voluntary,Better pay
+E100948,2022-11-13,Voluntary,Better pay
+E100900,2022-11-13,Voluntary,Relocation or commute
+E100986,2022-11-14,Voluntary,Career growth
+E101305,2022-11-14,Voluntary,Relocation or commute
+E100937,2022-11-14,Voluntary,Higher studies
+E101480,2022-11-16,Voluntary,Better pay
+E100667,2022-11-17,Voluntary,Personal
+E102020,2022-11-17,Voluntary,Career growth
+E100455,2022-11-17,Voluntary,Personal
+E101285,2022-11-20,Voluntary,Career growth
+E100119,2022-11-21,Voluntary,Higher studies
+E101859,2022-11-21,Voluntary,Better pay
+E100605,2022-11-23,Voluntary,Better pay
+E100016,2022-11-24,Voluntary,Higher studies
+E101633,2022-11-24,Voluntary,Better pay
+E100407,2022-11-26,Voluntary,Higher studies
+E101247,2022-11-26,Voluntary,Better pay
+E100218,2022-12-01,Voluntary,Career growth
+E101162,2022-12-02,Voluntary,Career growth
+E100611,2022-12-02,Voluntary,Personal
+E101612,2022-12-02,Voluntary,Better pay
+E102174,2022-12-02,Voluntary,Better pay
+E102175,2022-12-03,Voluntary,Personal
+E100175,2022-12-04,Voluntary,Relocation or commute
+E100100,2022-12-05,Voluntary,Relocation or commute
+E102196,2022-12-05,Voluntary,Career growth
+E101150,2022-12-05,Voluntary,Higher studies
+E101167,2022-12-08,Involuntary,Performance
+E100465,2022-12-09,Voluntary,Better pay
+E100750,2022-12-09,Voluntary,Higher studies
+E100287,2022-12-10,Voluntary,Career growth
+E102130,2022-12-11,Voluntary,Higher studies
+E101811,2022-12-12,Voluntary,Personal
+E100647,2022-12-12,Voluntary,Relocation or commute
+E101306,2022-12-13,Voluntary,Higher studies
+E100714,2022-12-14,Voluntary,Relocation or commute
+E100136,2022-12-16,Voluntary,Career growth
+E102259,2022-12-18,Voluntary,Better pay
+E101748,2022-12-19,Voluntary,Better pay
+E101813,2022-12-19,Voluntary,Higher studies
+E100901,2022-12-21,Voluntary,Career growth
+E100834,2022-12-21,Voluntary,Better pay
+E101335,2022-12-22,Voluntary,Higher studies
+E101784,2022-12-22,Voluntary,Better pay
+E100382,2022-12-24,Voluntary,Higher studies
+E100335,2022-12-24,Voluntary,Personal
+E101126,2022-12-24,Voluntary,Better pay
+E101047,2022-12-25,Voluntary,Higher studies
+E101284,2022-12-25,Voluntary,Career growth
+E100733,2022-12-25,Involuntary,Performance
+E101883,2022-12-25,Voluntary,Relocation or commute
+E100960,2022-12-26,Voluntary,Higher studies
+E102243,2022-12-26,Voluntary,Career growth
+E102133,2022-12-27,Voluntary,Higher studies
+E100283,2022-12-27,Voluntary,Better pay
+E102362,2023-01-01,Voluntary,Higher studies
+E101515,2023-01-01,Voluntary,Relocation or commute
+E100269,2023-01-01,Voluntary,Personal
+E101356,2023-01-01,Voluntary,Relocation or commute
+E102267,2023-01-02,Voluntary,Better pay
+E101974,2023-01-02,Voluntary,Higher studies
+E101719,2023-01-02,Voluntary,Personal
+E102038,2023-01-05,Voluntary,Higher studies
+E100822,2023-01-05,Voluntary,Career growth
+E101668,2023-01-06,Voluntary,Career growth
+E100922,2023-01-06,Voluntary,Better pay
+E100861,2023-01-08,Voluntary,Career growth
+E100395,2023-01-10,Voluntary,Better pay
+E100846,2023-01-11,Voluntary,Better pay
+E101678,2023-01-13,Voluntary,Relocation or commute
+E100305,2023-01-13,Voluntary,Career growth
+E101507,2023-01-14,Voluntary,Better pay
+E101706,2023-01-14,Voluntary,Higher studies
+E100838,2023-01-14,Voluntary,Career growth
+E101203,2023-01-15,Voluntary,Better pay
+E101164,2023-01-18,Voluntary,Better pay
+E101920,2023-01-19,Voluntary,Relocation or commute
+E100514,2023-01-19,Voluntary,Relocation or commute
+E101754,2023-01-19,Voluntary,Career growth
+E101000,2023-01-20,Involuntary,Performance
+E101042,2023-01-22,Voluntary,Career growth
+E101942,2023-01-23,Voluntary,Personal
+E100074,2023-01-23,Voluntary,Better pay
+E101186,2023-01-24,Voluntary,Relocation or commute
+E100023,2023-01-24,Voluntary,Better pay
+E101016,2023-01-25,Voluntary,Personal
+E101351,2023-01-25,Voluntary,Higher studies
+E100566,2023-01-26,Voluntary,Career growth
+E100004,2023-01-26,Voluntary,Better pay
+E101897,2023-01-27,Voluntary,Personal
+E101387,2023-01-27,Voluntary,Relocation or commute
+E100690,2023-01-27,Voluntary,Personal
+E102368,2023-01-27,Voluntary,Better pay
+E100853,2023-01-27,Voluntary,Better pay
+E100554,2023-02-01,Involuntary,Performance
+E101492,2023-02-01,Voluntary,Better pay
+E100588,2023-02-03,Voluntary,Better pay
+E102389,2023-02-05,Voluntary,Better pay
+E101381,2023-02-06,Involuntary,Performance
+E100078,2023-02-07,Voluntary,Better pay
+E101401,2023-02-09,Voluntary,Better pay
+E102070,2023-02-09,Voluntary,Better pay
+E100368,2023-02-10,Voluntary,Career growth
+E101880,2023-02-10,Voluntary,Career growth
+E100097,2023-02-11,Voluntary,Better pay
+E100736,2023-02-11,Voluntary,Career growth
+E100381,2023-02-11,Voluntary,Relocation or commute
+E100144,2023-02-12,Voluntary,Career growth
+E100779,2023-02-13,Voluntary,Personal
+E100903,2023-02-14,Voluntary,Personal
+E101026,2023-02-16,Voluntary,Higher studies
+E101295,2023-02-16,Voluntary,Better pay
+E101729,2023-02-16,Voluntary,Personal
+E101276,2023-02-19,Voluntary,Personal
+E101964,2023-02-21,Voluntary,Personal
+E102037,2023-02-21,Voluntary,Better pay
+E100823,2023-02-21,Voluntary,Higher studies
+E100411,2023-02-22,Voluntary,Personal
+E101043,2023-02-24,Voluntary,Better pay
+E100644,2023-02-24,Voluntary,Better pay
+E102437,2023-02-24,Voluntary,Personal
+E100541,2023-02-25,Voluntary,Personal
+E100933,2023-02-25,Voluntary,Better pay
+E101019,2023-02-27,Voluntary,Better pay
+E101844,2023-02-27,Involuntary,Performance
+E102282,2023-02-27,Voluntary,Better pay
+E100765,2023-03-02,Voluntary,Higher studies
+E100810,2023-03-03,Involuntary,Performance
+E100410,2023-03-03,Voluntary,Better pay
+E100836,2023-03-04,Voluntary,Higher studies
+E100789,2023-03-05,Voluntary,Higher studies
+E101952,2023-03-05,Voluntary,Better pay
+E100653,2023-03-05,Voluntary,Career growth
+E100017,2023-03-05,Voluntary,Career growth
+E102007,2023-03-06,Voluntary,Personal
+E100701,2023-03-09,Voluntary,Better pay
+E101148,2023-03-10,Voluntary,Personal
+E100402,2023-03-11,Voluntary,Relocation or commute
+E102357,2023-03-12,Voluntary,Relocation or commute
+E102124,2023-03-12,Voluntary,Better pay
+E101584,2023-03-12,Voluntary,Career growth
+E102001,2023-03-12,Voluntary,Higher studies
+E101096,2023-03-12,Voluntary,Personal
+E102436,2023-03-13,Voluntary,Better pay
+E102232,2023-03-14,Voluntary,Personal
+E101837,2023-03-16,Voluntary,Better pay
+E102218,2023-03-19,Voluntary,Career growth
+E102471,2023-03-20,Voluntary,Career growth
+E102122,2023-03-22,Voluntary,Better pay
+E102142,2023-03-23,Voluntary,Better pay
+E101032,2023-03-23,Voluntary,Higher studies
+E102140,2023-03-24,Voluntary,Career growth
+E102129,2023-03-24,Voluntary,Better pay
+E101561,2023-03-24,Voluntary,Relocation or commute
+E101476,2023-03-26,Voluntary,Personal
+E101465,2023-03-27,Voluntary,Higher studies
+E101044,2023-04-02,Voluntary,Better pay
+E102442,2023-04-05,Voluntary,Relocation or commute
+E101029,2023-04-05,Voluntary,Career growth
+E100620,2023-04-05,Voluntary,Personal
+E101383,2023-04-06,Voluntary,Personal
+E101195,2023-04-07,Voluntary,Career growth
+E100723,2023-04-07,Voluntary,Better pay
+E100403,2023-04-08,Voluntary,Higher studies
+E101278,2023-04-09,Voluntary,Higher studies
+E101851,2023-04-09,Voluntary,Better pay
+E100102,2023-04-09,Voluntary,Better pay
+E101404,2023-04-09,Voluntary,Better pay
+E101228,2023-04-10,Voluntary,Career growth
+E101807,2023-04-11,Voluntary,Better pay
+E102099,2023-04-11,Voluntary,Career growth
+E101007,2023-04-14,Voluntary,Better pay
+E102361,2023-04-15,Voluntary,Better pay
+E101114,2023-04-15,Voluntary,Better pay
+E101936,2023-04-15,Voluntary,Better pay
+E102513,2023-04-17,Voluntary,Personal
+E100881,2023-04-17,Voluntary,Higher studies
+E101245,2023-04-19,Voluntary,Relocation or commute
+E102214,2023-04-19,Voluntary,Higher studies
+E100193,2023-04-21,Involuntary,Performance
+E100990,2023-04-23,Voluntary,Higher studies
+E100096,2023-05-02,Voluntary,Personal
+E101328,2023-05-02,Involuntary,Performance
+E101650,2023-05-03,Voluntary,Better pay
+E101956,2023-05-04,Involuntary,Performance
+E100542,2023-05-05,Voluntary,Better pay
+E100639,2023-05-05,Voluntary,Career growth
+E100932,2023-05-05,Voluntary,Better pay
+E102348,2023-05-07,Voluntary,Personal
+E101240,2023-05-07,Voluntary,Relocation or commute
+E100339,2023-05-09,Involuntary,Performance
+E101064,2023-05-11,Voluntary,Career growth
+E100484,2023-05-11,Voluntary,Better pay
+E100936,2023-05-13,Voluntary,Higher studies
+E101809,2023-05-13,Voluntary,Better pay
+E101512,2023-05-14,Involuntary,Performance
+E101226,2023-05-15,Voluntary,Relocation or commute
+E100623,2023-05-15,Voluntary,Relocation or commute
+E102167,2023-05-18,Voluntary,Personal
+E100742,2023-05-19,Voluntary,Better pay
+E100972,2023-05-20,Voluntary,Personal
+E102154,2023-05-20,Voluntary,Relocation or commute
+E100980,2023-05-20,Voluntary,Higher studies
+E102067,2023-05-21,Involuntary,Performance
+E101789,2023-05-21,Voluntary,Better pay
+E102194,2023-05-23,Voluntary,Better pay
+E101376,2023-05-25,Voluntary,Higher studies
+E101887,2023-05-26,Voluntary,Higher studies
+E101776,2023-05-26,Voluntary,Personal
+E101143,2023-05-26,Voluntary,Better pay
+E100075,2023-06-02,Voluntary,Higher studies
+E102523,2023-06-05,Voluntary,Better pay
+E100172,2023-06-06,Voluntary,Higher studies
+E100589,2023-06-07,Voluntary,Career growth
+E101170,2023-06-09,Voluntary,Higher studies
+E100295,2023-06-09,Involuntary,Performance
+E100616,2023-06-09,Voluntary,Higher studies
+E100830,2023-06-09,Voluntary,Better pay
+E100799,2023-06-10,Voluntary,Better pay
+E100833,2023-06-10,Voluntary,Career growth
+E100294,2023-06-11,Voluntary,Personal
+E102026,2023-06-12,Voluntary,Better pay
+E102009,2023-06-13,Voluntary,Career growth
+E100047,2023-06-14,Voluntary,Better pay
+E101725,2023-06-15,Voluntary,Career growth
+E100531,2023-06-16,Voluntary,Higher studies
+E102238,2023-06-17,Voluntary,Relocation or commute
+E100233,2023-06-17,Voluntary,Better pay
+E101773,2023-06-18,Voluntary,Higher studies
+E100337,2023-06-19,Involuntary,Performance
+E100019,2023-06-20,Voluntary,Higher studies
+E102429,2023-06-21,Voluntary,Career growth
+E102469,2023-06-22,Voluntary,Relocation or commute
+E101740,2023-06-23,Involuntary,Performance
+E100457,2023-06-23,Voluntary,Better pay
+E101963,2023-06-24,Voluntary,Higher studies
+E102200,2023-06-24,Voluntary,Higher studies
+E100196,2023-06-24,Voluntary,Career growth
+E100550,2023-06-25,Voluntary,Personal
+E102248,2023-06-25,Involuntary,Performance
+E102452,2023-06-25,Voluntary,Higher studies
+E102385,2023-07-01,Voluntary,Personal
+E102084,2023-07-01,Voluntary,Career growth
+E100512,2023-07-03,Voluntary,Better pay
+E102640,2023-07-03,Voluntary,Career growth
+E101133,2023-07-05,Voluntary,Personal
+E100469,2023-07-05,Voluntary,Better pay
+E100978,2023-07-08,Voluntary,Higher studies
+E101390,2023-07-09,Voluntary,Career growth
+E100437,2023-07-09,Voluntary,Better pay
+E101783,2023-07-13,Voluntary,Higher studies
+E102210,2023-07-13,Voluntary,Relocation or commute
+E102360,2023-07-14,Involuntary,Performance
+E101079,2023-07-16,Voluntary,Relocation or commute
+E101370,2023-07-18,Voluntary,Better pay
+E101420,2023-07-18,Involuntary,Performance
+E102308,2023-07-19,Voluntary,Higher studies
+E101870,2023-07-19,Voluntary,Better pay
+E101638,2023-07-20,Involuntary,Performance
+E101445,2023-07-20,Voluntary,Better pay
+E102086,2023-07-24,Voluntary,Higher studies
+E100808,2023-07-27,Voluntary,Career growth
+E102534,2023-08-01,Voluntary,Relocation or commute
+E101326,2023-08-03,Involuntary,Performance
+E101331,2023-08-04,Voluntary,Higher studies
+E102162,2023-08-05,Voluntary,Career growth
+E100695,2023-08-06,Voluntary,Relocation or commute
+E102370,2023-08-06,Voluntary,Career growth
+E101460,2023-08-08,Voluntary,Higher studies
+E100741,2023-08-08,Voluntary,Career growth
+E102191,2023-08-09,Voluntary,Career growth
+E102401,2023-08-10,Voluntary,Personal
+E101428,2023-08-10,Involuntary,Performance
+E100264,2023-08-12,Voluntary,Higher studies
+E100273,2023-08-12,Voluntary,Career growth
+E100664,2023-08-12,Voluntary,Better pay
+E101442,2023-08-12,Voluntary,Career growth
+E100428,2023-08-12,Voluntary,Career growth
+E102189,2023-08-13,Voluntary,Higher studies
+E101338,2023-08-13,Involuntary,Performance
+E100992,2023-08-15,Voluntary,Personal
+E101106,2023-08-15,Voluntary,Personal
+E100268,2023-08-16,Voluntary,Better pay
+E101558,2023-08-17,Voluntary,Relocation or commute
+E100927,2023-08-18,Voluntary,Career growth
+E100230,2023-08-18,Voluntary,Better pay
+E100963,2023-08-19,Voluntary,Better pay
+E101359,2023-08-20,Voluntary,Relocation or commute
+E100757,2023-08-21,Voluntary,Higher studies
+E101831,2023-08-23,Voluntary,Higher studies
+E100332,2023-08-26,Voluntary,Higher studies
+E100320,2023-08-26,Voluntary,Personal
+E100140,2023-08-27,Voluntary,Career growth
+E101268,2023-09-01,Voluntary,Higher studies
+E101373,2023-09-01,Voluntary,Higher studies
+E100392,2023-09-01,Voluntary,Relocation or commute
+E102433,2023-09-02,Voluntary,Relocation or commute
+E100858,2023-09-02,Voluntary,Personal
+E100146,2023-09-03,Voluntary,Better pay
+E102829,2023-09-03,Voluntary,Higher studies
+E100188,2023-09-04,Voluntary,Higher studies
+E102586,2023-09-04,Voluntary,Career growth
+E100504,2023-09-06,Voluntary,Relocation or commute
+E100070,2023-09-06,Voluntary,Higher studies
+E100548,2023-09-09,Voluntary,Higher studies
+E100433,2023-09-10,Voluntary,Better pay
+E101396,2023-09-10,Involuntary,Performance
+E101369,2023-09-10,Voluntary,Better pay
+E100904,2023-09-11,Involuntary,Performance
+E100083,2023-09-12,Involuntary,Performance
+E101845,2023-09-13,Voluntary,Career growth
+E101062,2023-09-13,Voluntary,Better pay
+E100825,2023-09-13,Involuntary,Performance
+E100613,2023-09-15,Voluntary,Higher studies
+E100460,2023-09-15,Involuntary,Performance
+E101365,2023-09-16,Voluntary,Relocation or commute
+E100173,2023-09-16,Voluntary,Personal
+E102224,2023-09-17,Voluntary,Career growth
+E101982,2023-09-19,Voluntary,Better pay
+E101921,2023-09-19,Voluntary,Career growth
+E101546,2023-09-20,Involuntary,Performance
+E102008,2023-09-20,Voluntary,Better pay
+E101146,2023-09-21,Involuntary,Performance
+E102721,2023-09-21,Voluntary,Personal
+E100562,2023-09-22,Involuntary,Performance
+E100916,2023-09-22,Voluntary,Personal
+E100680,2023-09-22,Involuntary,Performance
+E101547,2023-09-23,Involuntary,Performance
+E101034,2023-09-24,Voluntary,Better pay
+E102156,2023-09-25,Voluntary,Career growth
+E102859,2023-09-25,Voluntary,Career growth
+E101882,2023-09-26,Voluntary,Relocation or commute
+E101384,2023-09-27,Voluntary,Relocation or commute
+E102324,2023-09-27,Voluntary,Higher studies
+E102582,2023-09-27,Involuntary,Performance
+E101973,2023-09-27,Involuntary,Performance
+E100661,2023-10-01,Voluntary,Career growth
+E100359,2023-10-01,Involuntary,Performance
+E101470,2023-10-03,Voluntary,Better pay
+E101413,2023-10-03,Voluntary,Better pay
+E100331,2023-10-04,Involuntary,Restructuring
+E102849,2023-10-04,Involuntary,Restructuring
+E102845,2023-10-04,Voluntary,Higher studies
+E101115,2023-10-05,Involuntary,Performance
+E100438,2023-10-07,Involuntary,Restructuring
+E100128,2023-10-07,Voluntary,Career growth
+E101745,2023-10-07,Involuntary,Performance
+E100537,2023-10-11,Voluntary,Better pay
+E102780,2023-10-12,Involuntary,Restructuring
+E102304,2023-10-13,Involuntary,Restructuring
+E102119,2023-10-14,Voluntary,Better pay
+E100449,2023-10-14,Voluntary,Better pay
+E102722,2023-10-14,Voluntary,Better pay
+E101409,2023-10-16,Voluntary,Better pay
+E100290,2023-10-17,Involuntary,Restructuring
+E102493,2023-10-18,Voluntary,Career growth
+E101636,2023-10-20,Involuntary,Restructuring
+E100153,2023-10-20,Involuntary,Performance
+E102517,2023-10-20,Involuntary,Restructuring
+E100909,2023-10-21,Involuntary,Performance
+E100815,2023-10-22,Voluntary,Personal
+E101316,2023-10-22,Involuntary,Restructuring
+E101141,2023-10-22,Voluntary,Relocation or commute
+E101579,2023-10-23,Involuntary,Performance
+E102852,2023-10-24,Voluntary,Better pay
+E100523,2023-10-26,Voluntary,Personal
+E101591,2023-10-26,Involuntary,Performance
+E102168,2023-10-27,Voluntary,Higher studies
+E102206,2023-10-27,Voluntary,Personal
+E102063,2023-11-01,Voluntary,Personal
+E102810,2023-11-02,Involuntary,Restructuring
+E102926,2023-11-02,Voluntary,Better pay
+E101431,2023-11-02,Voluntary,Personal
+E102803,2023-11-04,Involuntary,Restructuring
+E100143,2023-11-04,Involuntary,Restructuring
+E100304,2023-11-04,Voluntary,Higher studies
+E101123,2023-11-05,Voluntary,Relocation or commute
+E100671,2023-11-06,Voluntary,Better pay
+E102274,2023-11-06,Voluntary,Personal
+E100046,2023-11-07,Voluntary,Career growth
+E100156,2023-11-08,Voluntary,Career growth
+E101273,2023-11-08,Voluntary,Career growth
+E101145,2023-11-08,Involuntary,Restructuring
+E102905,2023-11-09,Voluntary,Higher studies
+E100138,2023-11-09,Voluntary,Personal
+E102526,2023-11-10,Voluntary,Better pay
+E100669,2023-11-11,Voluntary,Better pay
+E101395,2023-11-12,Voluntary,Better pay
+E100594,2023-11-14,Involuntary,Restructuring
+E100560,2023-11-15,Voluntary,Better pay
+E101103,2023-11-15,Voluntary,Career growth
+E101066,2023-11-16,Voluntary,Career growth
+E101548,2023-11-16,Involuntary,Restructuring
+E100869,2023-11-16,Voluntary,Better pay
+E102477,2023-11-17,Voluntary,Better pay
+E102148,2023-11-17,Voluntary,Higher studies
+E102024,2023-11-17,Voluntary,Better pay
+E102391,2023-11-18,Involuntary,Restructuring
+E100034,2023-11-18,Voluntary,Better pay
+E101550,2023-11-19,Voluntary,Relocation or commute
+E102933,2023-11-21,Voluntary,Relocation or commute
+E101632,2023-11-21,Involuntary,Performance
+E102244,2023-11-21,Voluntary,Personal
+E101001,2023-11-24,Voluntary,Relocation or commute
+E101624,2023-11-24,Voluntary,Better pay
+E102016,2023-11-25,Involuntary,Performance
+E101140,2023-11-26,Voluntary,Career growth
+E101033,2023-11-26,Involuntary,Performance
+E101321,2023-11-27,Voluntary,Higher studies
+E100058,2023-11-27,Voluntary,Career growth
+E102339,2023-11-27,Involuntary,Restructuring
+E102172,2023-12-01,Voluntary,Higher studies
+E101398,2023-12-01,Voluntary,Higher studies
+E102266,2023-12-03,Voluntary,Higher studies
+E101163,2023-12-03,Voluntary,Career growth
+E102441,2023-12-07,Voluntary,Personal
+E100918,2023-12-07,Voluntary,Better pay
+E100487,2023-12-08,Voluntary,Career growth
+E100452,2023-12-09,Voluntary,Career growth
+E100092,2023-12-09,Involuntary,Performance
+E100111,2023-12-10,Voluntary,Better pay
+E102638,2023-12-10,Involuntary,Restructuring
+E100361,2023-12-11,Involuntary,Performance
+E102628,2023-12-11,Involuntary,Restructuring
+E101189,2023-12-12,Voluntary,Better pay
+E100568,2023-12-12,Voluntary,Career growth
+E101058,2023-12-13,Voluntary,Personal
+E102256,2023-12-13,Voluntary,Career growth
+E102542,2023-12-14,Voluntary,Career growth
+E100135,2023-12-15,Voluntary,Relocation or commute
+E100362,2023-12-16,Voluntary,Career growth
+E102654,2023-12-17,Involuntary,Restructuring
+E100539,2023-12-17,Voluntary,Better pay
+E101252,2023-12-17,Voluntary,Better pay
+E101450,2023-12-17,Voluntary,Career growth
+E100434,2023-12-18,Voluntary,Career growth
+E100826,2023-12-18,Voluntary,Career growth
+E100719,2023-12-18,Voluntary,Better pay
+E101860,2023-12-18,Voluntary,Better pay
+E101828,2023-12-19,Involuntary,Restructuring
+E100781,2023-12-19,Voluntary,Better pay
+E100247,2023-12-20,Involuntary,Restructuring
+E101890,2023-12-22,Voluntary,Personal
+E102554,2023-12-22,Voluntary,Career growth
+E101924,2023-12-24,Voluntary,Better pay
+E100225,2023-12-25,Voluntary,Personal
+E100837,2023-12-26,Voluntary,Better pay
+E102595,2023-12-26,Voluntary,Higher studies
+E102203,2023-12-27,Involuntary,Restructuring
+E101830,2024-01-02,Involuntary,Performance
+E101742,2024-01-05,Voluntary,Better pay
+E100234,2024-01-05,Voluntary,Personal
+E102611,2024-01-09,Voluntary,Higher studies
+E102223,2024-01-09,Voluntary,Higher studies
+E102298,2024-01-10,Voluntary,Higher studies
+E100717,2024-01-10,Voluntary,Better pay
+E101669,2024-01-11,Involuntary,Performance
+E102793,2024-01-11,Voluntary,Career growth
+E100556,2024-01-14,Involuntary,Performance
+E100479,2024-01-14,Voluntary,Career growth
+E100638,2024-01-18,Voluntary,Career growth
+E101235,2024-01-21,Voluntary,Better pay
+E101846,2024-01-21,Voluntary,Better pay
+E102164,2024-01-22,Voluntary,Personal
+E101788,2024-01-23,Voluntary,Personal
+E100498,2024-01-24,Voluntary,Higher studies
+E100489,2024-01-24,Voluntary,Personal
+E102525,2024-01-26,Voluntary,Higher studies
+E100423,2024-01-26,Voluntary,Relocation or commute
+E102944,2024-01-27,Voluntary,Better pay
+E101642,2024-02-01,Voluntary,Relocation or commute
+E100843,2024-02-01,Voluntary,Higher studies
+E102688,2024-02-02,Voluntary,Higher studies
+E101675,2024-02-02,Voluntary,Career growth
+E101778,2024-02-03,Involuntary,Performance
+E102043,2024-02-03,Voluntary,Career growth
+E102087,2024-02-03,Voluntary,Personal
+E100728,2024-02-05,Voluntary,Career growth
+E103027,2024-02-05,Involuntary,Performance
+E100997,2024-02-06,Voluntary,Career growth
+E101613,2024-02-08,Voluntary,Career growth
+E102369,2024-02-08,Voluntary,Better pay
+E100338,2024-02-09,Voluntary,Higher studies
+E100535,2024-02-09,Voluntary,Higher studies
+E100396,2024-02-10,Involuntary,Performance
+E102827,2024-02-10,Voluntary,Personal
+E100106,2024-02-11,Voluntary,Higher studies
+E102300,2024-02-12,Voluntary,Career growth
+E102502,2024-02-13,Voluntary,Better pay
+E102253,2024-02-14,Voluntary,Better pay
+E101644,2024-02-14,Voluntary,Personal
+E101645,2024-02-16,Voluntary,Higher studies
+E102508,2024-02-17,Voluntary,Better pay
+E101651,2024-02-20,Voluntary,Better pay
+E102393,2024-02-20,Voluntary,Better pay
+E102415,2024-02-20,Voluntary,Better pay
+E100793,2024-02-20,Voluntary,Personal
+E102453,2024-02-23,Voluntary,Career growth
+E102125,2024-02-23,Voluntary,Higher studies
+E101626,2024-02-24,Involuntary,Performance
+E102440,2024-02-27,Voluntary,Career growth
+E100326,2024-03-01,Voluntary,Better pay
+E102629,2024-03-05,Voluntary,Better pay
+E100727,2024-03-05,Voluntary,Higher studies
+E101948,2024-03-06,Voluntary,Career growth
+E102724,2024-03-07,Voluntary,Higher studies
+E101494,2024-03-08,Voluntary,Better pay
+E102651,2024-03-09,Voluntary,Better pay
+E102583,2024-03-09,Involuntary,Performance
+E100284,2024-03-10,Voluntary,Career growth
+E102924,2024-03-12,Voluntary,Higher studies
+E102336,2024-03-12,Voluntary,Personal
+E100446,2024-03-13,Involuntary,Performance
+E102475,2024-03-13,Voluntary,Relocation or commute
+E101410,2024-03-15,Voluntary,Career growth
+E100676,2024-03-16,Voluntary,Higher studies
+E100261,2024-03-17,Voluntary,Relocation or commute
+E102939,2024-03-17,Involuntary,Performance
+E102325,2024-03-18,Voluntary,Better pay
+E101608,2024-03-18,Voluntary,Career growth
+E102011,2024-03-19,Voluntary,Better pay
+E102462,2024-03-19,Voluntary,Relocation or commute
+E100801,2024-03-20,Voluntary,Career growth
+E101749,2024-03-22,Voluntary,Higher studies
+E100003,2024-03-23,Voluntary,Relocation or commute
+E100419,2024-03-25,Voluntary,Career growth
+E102107,2024-04-01,Voluntary,Better pay
+E100299,2024-04-02,Voluntary,Better pay
+E102014,2024-04-03,Voluntary,Career growth
+E101871,2024-04-04,Voluntary,Better pay
+E102343,2024-04-04,Voluntary,Higher studies
+E100360,2024-04-05,Voluntary,Better pay
+E102798,2024-04-07,Voluntary,Better pay
+E101977,2024-04-08,Voluntary,Higher studies
+E102637,2024-04-09,Voluntary,Better pay
+E101368,2024-04-09,Involuntary,Performance
+E101899,2024-04-10,Involuntary,Performance
+E100069,2024-04-12,Voluntary,Better pay
+E102315,2024-04-13,Voluntary,Career growth
+E102470,2024-04-14,Voluntary,Relocation or commute
+E102860,2024-04-14,Voluntary,Better pay
+E102251,2024-04-14,Voluntary,Better pay
+E100805,2024-04-14,Voluntary,Higher studies
+E102799,2024-04-16,Voluntary,Personal
+E102363,2024-04-16,Voluntary,Higher studies
+E101841,2024-04-17,Voluntary,Better pay
+E101053,2024-04-17,Voluntary,Career growth
+E101117,2024-04-19,Voluntary,Career growth
+E103054,2024-04-20,Voluntary,Better pay
+E102258,2024-04-21,Voluntary,Higher studies
+E101286,2024-04-22,Voluntary,Better pay
+E101076,2024-04-22,Voluntary,Higher studies
+E102408,2024-04-25,Voluntary,Better pay
+E102334,2024-04-26,Voluntary,Personal
+E101594,2024-05-03,Involuntary,Performance
+E101770,2024-05-04,Involuntary,Performance
+E100919,2024-05-04,Voluntary,Personal
+E100619,2024-05-05,Voluntary,Better pay
+E100182,2024-05-06,Voluntary,Career growth
+E102499,2024-05-06,Voluntary,Higher studies
+E100726,2024-05-08,Involuntary,Performance
+E102592,2024-05-09,Voluntary,Relocation or commute
+E102342,2024-05-10,Voluntary,Higher studies
+E100388,2024-05-11,Voluntary,Personal
+E102842,2024-05-11,Voluntary,Better pay
+E102434,2024-05-11,Voluntary,Better pay
+E100220,2024-05-11,Voluntary,Higher studies
+E100480,2024-05-12,Voluntary,Higher studies
+E102356,2024-05-14,Voluntary,Higher studies
+E102152,2024-05-14,Voluntary,Relocation or commute
+E100803,2024-05-14,Voluntary,Better pay
+E100177,2024-05-15,Voluntary,Career growth
+E100313,2024-05-15,Voluntary,Relocation or commute
+E100148,2024-05-16,Voluntary,Higher studies
+E103034,2024-05-16,Voluntary,Relocation or commute
+E100679,2024-05-17,Voluntary,Personal
+E102449,2024-05-17,Voluntary,Higher studies
+E100547,2024-05-18,Voluntary,Better pay
+E100014,2024-05-18,Involuntary,Performance
+E102546,2024-05-18,Voluntary,Better pay
+E102403,2024-05-19,Involuntary,Performance
+E100482,2024-05-19,Voluntary,Career growth
+E101967,2024-05-20,Voluntary,Better pay
+E102730,2024-05-21,Voluntary,Higher studies
+E100767,2024-05-21,Voluntary,Better pay
+E100077,2024-05-22,Voluntary,Career growth
+E100596,2024-05-23,Voluntary,Better pay
+E100279,2024-05-23,Voluntary,Relocation or commute
+E102400,2024-05-25,Involuntary,Performance
+E102058,2024-06-03,Voluntary,Higher studies
+E101590,2024-06-03,Voluntary,Better pay
+E102173,2024-06-04,Voluntary,Relocation or commute
+E102378,2024-06-05,Voluntary,Career growth
+E101488,2024-06-06,Voluntary,Personal
+E100660,2024-06-07,Voluntary,Better pay
+E102886,2024-06-08,Voluntary,Better pay
+E100007,2024-06-09,Voluntary,Relocation or commute
+E103155,2024-06-10,Voluntary,Personal
+E100420,2024-06-10,Voluntary,Career growth
+E100694,2024-06-11,Voluntary,Career growth
+E102359,2024-06-12,Voluntary,Personal
+E102736,2024-06-13,Voluntary,Career growth
+E102665,2024-06-13,Voluntary,Career growth
+E100048,2024-06-13,Voluntary,Relocation or commute
+E102890,2024-06-14,Voluntary,Relocation or commute
+E100996,2024-06-15,Voluntary,Higher studies
+E102396,2024-06-15,Voluntary,Relocation or commute
+E102190,2024-06-16,Voluntary,Personal
+E100231,2024-06-16,Involuntary,Performance
+E101796,2024-06-18,Voluntary,Better pay
+E102809,2024-06-20,Voluntary,Better pay
+E102597,2024-06-21,Voluntary,Career growth
+E101078,2024-06-21,Involuntary,Performance
+E102158,2024-06-21,Voluntary,Relocation or commute
+E101251,2024-06-24,Voluntary,Career growth
+E100275,2024-06-24,Involuntary,Performance
+E102643,2024-06-25,Voluntary,Relocation or commute
+E102652,2024-06-25,Voluntary,Higher studies
+E102783,2024-06-25,Voluntary,Career growth
+E100515,2024-06-26,Involuntary,Performance
+E101753,2024-06-27,Voluntary,Better pay
+E102692,2024-06-27,Voluntary,Career growth
+E102373,2024-07-01,Voluntary,Relocation or commute
+E100439,2024-07-03,Voluntary,Career growth
+E100349,2024-07-03,Voluntary,Higher studies
+E100852,2024-07-04,Voluntary,Career growth
+E102522,2024-07-04,Voluntary,Relocation or commute
+E100179,2024-07-04,Voluntary,Career growth
+E101782,2024-07-06,Voluntary,Higher studies
+E100655,2024-07-06,Voluntary,Better pay
+E101002,2024-07-07,Voluntary,Relocation or commute
+E101756,2024-07-07,Voluntary,Better pay
+E100745,2024-07-11,Voluntary,Better pay
+E102844,2024-07-12,Involuntary,Performance
+E101021,2024-07-12,Voluntary,Career growth
+E102432,2024-07-14,Involuntary,Performance
+E100754,2024-07-15,Voluntary,Career growth
+E100090,2024-07-18,Voluntary,Personal
+E102458,2024-07-18,Voluntary,Better pay
+E102332,2024-07-20,Voluntary,Relocation or commute
+E100926,2024-07-20,Voluntary,Better pay
+E101152,2024-07-20,Involuntary,Performance
+E100755,2024-07-22,Involuntary,Performance
+E100430,2024-07-22,Voluntary,Career growth
+E102416,2024-07-23,Voluntary,Better pay
+E101941,2024-07-24,Voluntary,Better pay
+E100316,2024-07-24,Voluntary,Better pay
+E102068,2024-07-25,Voluntary,Better pay
+E102312,2024-07-25,Voluntary,Higher studies
+E100393,2024-07-26,Involuntary,Performance
+E102584,2024-08-01,Voluntary,Better pay
+E102756,2024-08-02,Voluntary,Higher studies
+E100366,2024-08-04,Voluntary,Higher studies
+E102338,2024-08-05,Voluntary,Better pay
+E101858,2024-08-06,Voluntary,Career growth
+E100602,2024-08-07,Voluntary,Better pay
+E101501,2024-08-08,Voluntary,Relocation or commute
+E100650,2024-08-09,Involuntary,Performance
+E102684,2024-08-09,Voluntary,Better pay
+E101524,2024-08-09,Voluntary,Higher studies
+E102317,2024-08-09,Voluntary,Better pay
+E102354,2024-08-10,Voluntary,Better pay
+E102211,2024-08-10,Voluntary,Better pay
+E102056,2024-08-10,Voluntary,Better pay
+E101290,2024-08-11,Voluntary,Relocation or commute
+E102465,2024-08-11,Voluntary,Higher studies
+E102748,2024-08-12,Voluntary,Better pay
+E102410,2024-08-12,Involuntary,Performance
+E100557,2024-08-13,Voluntary,Better pay
+E101909,2024-08-14,Voluntary,Better pay
+E102729,2024-08-15,Involuntary,Performance
+E102318,2024-08-16,Voluntary,Relocation or commute
+E102147,2024-08-16,Voluntary,Higher studies
+E102713,2024-08-18,Voluntary,Better pay
+E102463,2024-08-20,Voluntary,Relocation or commute
+E103075,2024-08-23,Voluntary,Better pay
+E102696,2024-08-23,Voluntary,Relocation or commute
+E102564,2024-08-23,Voluntary,Higher studies
+E102406,2024-08-23,Voluntary,Personal
+E102355,2024-08-23,Voluntary,Relocation or commute
+E101299,2024-08-23,Voluntary,Career growth
+E103006,2024-08-24,Voluntary,Personal
+E100666,2024-08-26,Voluntary,Personal
+E102309,2024-08-27,Voluntary,Better pay
+E102144,2024-09-02,Voluntary,Personal
+E100363,2024-09-03,Voluntary,Relocation or commute
+E102598,2024-09-03,Involuntary,Performance
+E103088,2024-09-04,Voluntary,Relocation or commute
+E102143,2024-09-06,Voluntary,Personal
+E102047,2024-09-06,Voluntary,Personal
+E102013,2024-09-07,Voluntary,Personal
+E103401,2024-09-09,Voluntary,Career growth
+E100171,2024-09-09,Voluntary,Better pay
+E102923,2024-09-10,Voluntary,Higher studies
+E100467,2024-09-11,Voluntary,Personal
+E102252,2024-09-12,Voluntary,Personal
+E101765,2024-09-12,Voluntary,Higher studies
+E100600,2024-09-13,Voluntary,Career growth
+E102040,2024-09-14,Voluntary,Better pay
+E100718,2024-09-15,Involuntary,Performance
+E103099,2024-09-17,Voluntary,Better pay
+E101934,2024-09-18,Involuntary,Performance
+E101469,2024-09-19,Voluntary,Relocation or commute
+E101112,2024-09-19,Voluntary,Higher studies
+E100828,2024-09-19,Involuntary,Performance
+E101344,2024-09-19,Voluntary,Career growth
+E100013,2024-09-20,Involuntary,Performance
+E101094,2024-09-20,Voluntary,Higher studies
+E100576,2024-09-20,Voluntary,Career growth
+E100743,2024-09-20,Voluntary,Better pay
+E101031,2024-09-21,Voluntary,Better pay
+E102201,2024-09-21,Voluntary,Better pay
+E102899,2024-09-21,Voluntary,Better pay
+E102833,2024-09-21,Voluntary,Career growth
+E101509,2024-09-22,Voluntary,Career growth
+E100700,2024-09-24,Voluntary,Career growth
+E102301,2024-09-24,Voluntary,Career growth
+E102831,2024-09-24,Voluntary,Better pay
+E101057,2024-09-25,Voluntary,Higher studies
+E101968,2024-09-27,Voluntary,Career growth
+E101779,2024-10-03,Voluntary,Higher studies
+E103041,2024-10-03,Voluntary,Higher studies
+E102682,2024-10-03,Involuntary,Performance
+E100063,2024-10-04,Involuntary,Performance
+E100573,2024-10-06,Voluntary,Higher studies
+E101797,2024-10-08,Voluntary,Career growth
+E100257,2024-10-09,Involuntary,Performance
+E103049,2024-10-09,Voluntary,Career growth
+E101985,2024-10-10,Voluntary,Better pay
+E100911,2024-10-10,Voluntary,Better pay
+E101653,2024-10-11,Voluntary,Better pay
+E102066,2024-10-13,Voluntary,Higher studies
+E101408,2024-10-13,Voluntary,Relocation or commute
+E101576,2024-10-13,Voluntary,Career growth
+E100540,2024-10-13,Voluntary,Better pay
+E100095,2024-10-13,Voluntary,Career growth
+E100738,2024-10-14,Involuntary,Performance
+E103432,2024-10-14,Voluntary,Relocation or commute
+E102006,2024-10-16,Voluntary,Better pay
+E100442,2024-10-16,Voluntary,Career growth
+E101230,2024-10-17,Voluntary,Career growth
+E101898,2024-10-17,Voluntary,Relocation or commute
+E100010,2024-10-17,Voluntary,Better pay
+E101772,2024-10-17,Voluntary,Higher studies
+E100621,2024-10-19,Voluntary,Higher studies
+E101966,2024-10-22,Voluntary,Career growth
+E102231,2024-10-23,Voluntary,Higher studies
+E102577,2024-10-23,Voluntary,Career growth
+E102634,2024-10-23,Voluntary,Better pay
+E100354,2024-10-24,Involuntary,Performance
+E101411,2024-10-24,Voluntary,Career growth
+E102813,2024-10-24,Voluntary,Career growth
+E100303,2024-10-24,Voluntary,Better pay
+E102690,2024-10-24,Voluntary,Better pay
+E100528,2024-10-25,Voluntary,Better pay
+E102225,2024-10-26,Voluntary,Personal
+E100345,2024-10-26,Voluntary,Better pay
+E100950,2024-10-26,Involuntary,Performance
+E102790,2024-10-26,Voluntary,Better pay
+E101960,2024-11-01,Involuntary,Performance
+E103046,2024-11-01,Voluntary,Relocation or commute
+E100236,2024-11-02,Voluntary,Relocation or commute
+E101619,2024-11-06,Voluntary,Personal
+E101303,2024-11-08,Voluntary,Career growth
+E100068,2024-11-08,Voluntary,Personal
+E101657,2024-11-10,Voluntary,Relocation or commute
+E100241,2024-11-11,Involuntary,Performance
+E100856,2024-11-13,Involuntary,Performance
+E100930,2024-11-14,Voluntary,Better pay
+E102061,2024-11-14,Voluntary,Relocation or commute
+E102216,2024-11-14,Involuntary,Performance
+E102376,2024-11-14,Voluntary,Relocation or commute
+E101959,2024-11-14,Voluntary,Better pay
+E103104,2024-11-15,Voluntary,Personal
+E102908,2024-11-16,Voluntary,Relocation or commute
+E103234,2024-11-17,Voluntary,Better pay
+E101839,2024-11-18,Voluntary,Relocation or commute
+E100508,2024-11-18,Voluntary,Career growth
+E102205,2024-11-18,Voluntary,Better pay
+E101587,2024-11-18,Voluntary,Career growth
+E102482,2024-11-19,Voluntary,Career growth
+E102895,2024-11-20,Involuntary,Performance
+E102949,2024-11-21,Voluntary,Higher studies
+E102392,2024-11-21,Voluntary,Career growth
+E102524,2024-11-23,Voluntary,Better pay
+E103087,2024-11-23,Voluntary,Career growth
+E102531,2024-11-25,Voluntary,Personal
+E101659,2024-11-25,Voluntary,Better pay
+E102656,2024-11-26,Voluntary,Higher studies
+E101693,2024-12-01,Voluntary,Personal
+E100981,2024-12-02,Voluntary,Career growth
+E102417,2024-12-02,Voluntary,Career growth
+E100276,2024-12-02,Voluntary,Better pay
+E102529,2024-12-02,Involuntary,Performance
+E100426,2024-12-02,Involuntary,Performance
+E103114,2024-12-03,Voluntary,Better pay
+E100301,2024-12-04,Voluntary,Career growth
+E100170,2024-12-04,Voluntary,Personal
+E101490,2024-12-05,Voluntary,Career growth
+E102987,2024-12-06,Voluntary,Personal
+E100785,2024-12-09,Voluntary,Better pay
+E102264,2024-12-09,Voluntary,Higher studies
+E102424,2024-12-10,Voluntary,Better pay
+E102121,2024-12-11,Involuntary,Performance
+E100929,2024-12-13,Voluntary,Relocation or commute
+E100324,2024-12-14,Voluntary,Higher studies
+E102161,2024-12-15,Voluntary,Relocation or commute
+E100110,2024-12-16,Involuntary,Performance
+E103057,2024-12-16,Voluntary,Higher studies
+E100373,2024-12-18,Involuntary,Performance
+E103025,2024-12-18,Voluntary,Relocation or commute
+E102975,2024-12-19,Voluntary,Career growth
+E101403,2024-12-20,Voluntary,Relocation or commute
+E102616,2024-12-20,Voluntary,Higher studies
+E102856,2024-12-20,Voluntary,Higher studies
+E102457,2024-12-22,Voluntary,Better pay
+E100166,2024-12-24,Voluntary,Better pay
+E101462,2024-12-26,Voluntary,Higher studies
+E102946,2024-12-26,Involuntary,Performance
+E101596,2024-12-27,Involuntary,Performance
+E102358,2025-01-01,Voluntary,Career growth
+E101361,2025-01-01,Voluntary,Higher studies
+E102055,2025-01-02,Voluntary,Career growth
+E101925,2025-01-03,Voluntary,Better pay
+E102571,2025-01-04,Voluntary,Better pay
+E100374,2025-01-06,Voluntary,Higher studies
+E102540,2025-01-06,Voluntary,Better pay
+E102630,2025-01-07,Voluntary,Higher studies
+E102117,2025-01-07,Voluntary,Personal
+E102302,2025-01-08,Voluntary,Personal
+E102289,2025-01-09,Voluntary,Better pay
+E100923,2025-01-10,Voluntary,Personal
+E102960,2025-01-11,Voluntary,Better pay
+E102533,2025-01-12,Involuntary,Performance
+E100931,2025-01-13,Voluntary,Better pay
+E102835,2025-01-15,Voluntary,Better pay
+E102187,2025-01-16,Involuntary,Performance
+E102451,2025-01-16,Voluntary,Personal
+E102310,2025-01-17,Voluntary,Career growth
+E102789,2025-01-17,Voluntary,Better pay
+E100571,2025-01-18,Involuntary,Performance
+E102850,2025-01-19,Voluntary,Higher studies
+E101567,2025-01-21,Voluntary,Career growth
+E100731,2025-01-21,Involuntary,Performance
+E102846,2025-01-22,Voluntary,Better pay
+E103440,2025-01-24,Voluntary,Better pay
+E101679,2025-01-26,Voluntary,Personal
+E102928,2025-02-02,Involuntary,Performance
+E100649,2025-02-02,Voluntary,Career growth
+E101077,2025-02-03,Involuntary,Performance
+E103400,2025-02-04,Voluntary,Better pay
+E103305,2025-02-05,Voluntary,Better pay
+E102907,2025-02-06,Involuntary,Performance
+E103240,2025-02-06,Voluntary,Relocation or commute
+E103035,2025-02-06,Voluntary,Relocation or commute
+E103024,2025-02-06,Voluntary,Personal
+E103519,2025-02-07,Involuntary,Performance
+E100302,2025-02-11,Voluntary,Personal
+E102270,2025-02-12,Voluntary,Higher studies
+E102081,2025-02-13,Voluntary,Career growth
+E102327,2025-02-13,Voluntary,Higher studies
+E102489,2025-02-13,Voluntary,Personal
+E100116,2025-02-14,Voluntary,Better pay
+E101229,2025-02-15,Voluntary,Higher studies
+E102755,2025-02-18,Voluntary,Career growth
+E100559,2025-02-19,Voluntary,Relocation or commute
+E101847,2025-02-19,Voluntary,Better pay
+E100445,2025-02-20,Involuntary,Performance
+E103228,2025-02-23,Voluntary,Higher studies
+E102823,2025-02-24,Voluntary,Relocation or commute
+E103015,2025-02-24,Voluntary,Higher studies
+E102431,2025-02-25,Voluntary,Better pay
+E100891,2025-02-25,Voluntary,Better pay
+E102841,2025-03-01,Involuntary,Performance
+E100748,2025-03-02,Voluntary,Better pay
+E100390,2025-03-03,Voluntary,Better pay
+E103050,2025-03-04,Voluntary,Career growth
+E103023,2025-03-08,Voluntary,Personal
+E102377,2025-03-08,Voluntary,Better pay
+E102291,2025-03-10,Voluntary,Career growth
+E100584,2025-03-10,Voluntary,Better pay
+E100132,2025-03-12,Voluntary,Higher studies
+E100492,2025-03-13,Voluntary,Relocation or commute
+E102997,2025-03-14,Voluntary,Higher studies
+E100914,2025-03-15,Voluntary,Better pay
+E103366,2025-03-15,Voluntary,Better pay
+E102335,2025-03-15,Voluntary,Better pay
+E100612,2025-03-16,Involuntary,Performance
+E100665,2025-03-18,Involuntary,Performance
+E103410,2025-03-19,Voluntary,Better pay
+E100130,2025-03-19,Voluntary,Better pay
+E102649,2025-03-19,Voluntary,Higher studies
+E102425,2025-03-20,Voluntary,Better pay
+E102165,2025-03-21,Voluntary,Better pay
+E102186,2025-03-22,Voluntary,Personal
+E102166,2025-03-22,Voluntary,Better pay
+E103077,2025-03-22,Voluntary,Personal
+E101711,2025-03-22,Voluntary,Better pay
+E102552,2025-03-23,Voluntary,Career growth
+E102283,2025-03-23,Voluntary,Better pay
+E103091,2025-03-25,Voluntary,Better pay
+E103264,2025-03-25,Voluntary,Better pay
+E100185,2025-03-25,Voluntary,Relocation or commute
+E102706,2025-03-27,Voluntary,Relocation or commute
+E101799,2025-04-01,Voluntary,Better pay
+E103120,2025-04-01,Voluntary,Better pay
+E100536,2025-04-02,Voluntary,Higher studies
+E102383,2025-04-03,Voluntary,Better pay
+E103130,2025-04-03,Voluntary,Better pay
+E100530,2025-04-05,Voluntary,Career growth
+E102323,2025-04-05,Voluntary,Better pay
+E100288,2025-04-05,Voluntary,Relocation or commute
+E102661,2025-04-06,Voluntary,Higher studies
+E101238,2025-04-06,Voluntary,Better pay
+E100215,2025-04-06,Voluntary,Better pay
+E102800,2025-04-07,Voluntary,Better pay
+E102446,2025-04-08,Voluntary,Better pay
+E102777,2025-04-08,Involuntary,Performance
+E101970,2025-04-08,Involuntary,Performance
+E103363,2025-04-11,Involuntary,Performance
+E102456,2025-04-12,Voluntary,Higher studies
+E103096,2025-04-14,Voluntary,Better pay
+E102979,2025-04-14,Voluntary,Higher studies
+E102819,2025-04-18,Voluntary,Better pay
+E102763,2025-04-18,Voluntary,Personal
+E102693,2025-04-19,Involuntary,Performance
+E103160,2025-04-20,Voluntary,Better pay
+E101543,2025-04-21,Voluntary,Personal
+E100545,2025-04-21,Voluntary,Better pay
+E102743,2025-04-22,Voluntary,Higher studies
+E101939,2025-04-23,Voluntary,Career growth
+E103332,2025-04-24,Voluntary,Better pay
+E100521,2025-04-24,Voluntary,Better pay
+E101868,2025-04-24,Involuntary,Performance
+E102537,2025-04-25,Voluntary,Better pay
+E102241,2025-04-26,Voluntary,Personal
+E102019,2025-04-26,Voluntary,Career growth
+E103073,2025-05-02,Voluntary,Higher studies
+E103153,2025-05-03,Involuntary,Performance
+E102255,2025-05-03,Voluntary,Relocation or commute
+E102681,2025-05-04,Voluntary,Higher studies
+E101504,2025-05-05,Voluntary,Better pay
+E101253,2025-05-05,Voluntary,Better pay
+E102527,2025-05-05,Voluntary,Better pay
+E102509,2025-05-06,Voluntary,Better pay
+E102991,2025-05-07,Voluntary,Relocation or commute
+E102678,2025-05-07,Voluntary,Better pay
+E102306,2025-05-08,Voluntary,Higher studies
+E100398,2025-05-09,Involuntary,Performance
+E102808,2025-05-09,Voluntary,Higher studies
+E103116,2025-05-09,Voluntary,Career growth
+E100735,2025-05-11,Voluntary,Relocation or commute
+E103468,2025-05-13,Voluntary,Relocation or commute
+E101444,2025-05-13,Voluntary,Personal
+E102399,2025-05-15,Voluntary,Personal
+E101198,2025-05-15,Voluntary,Career growth
+E101102,2025-05-15,Voluntary,Better pay
+E101422,2025-05-16,Voluntary,Personal
+E100740,2025-05-16,Voluntary,Career growth
+E103292,2025-05-16,Voluntary,Personal
+E101731,2025-05-17,Involuntary,Performance
+E100424,2025-05-17,Involuntary,Performance
+E102491,2025-05-18,Voluntary,Relocation or commute
+E101689,2025-05-18,Voluntary,Career growth
+E102754,2025-05-19,Voluntary,Higher studies
+E102430,2025-05-19,Voluntary,Better pay
+E100344,2025-05-20,Voluntary,Relocation or commute
+E102769,2025-05-20,Voluntary,Higher studies
+E102169,2025-05-20,Voluntary,Higher studies
+E102984,2025-05-23,Involuntary,Performance
+E102632,2025-05-24,Voluntary,Better pay
+E102606,2025-05-25,Voluntary,Higher studies
+E101160,2025-05-26,Voluntary,Career growth
+E103017,2025-05-26,Voluntary,Better pay
+E100432,2025-05-26,Voluntary,Better pay
+E100022,2025-06-01,Voluntary,Higher studies
+E100415,2025-06-01,Voluntary,Relocation or commute
+E102703,2025-06-01,Voluntary,Better pay
+E102942,2025-06-03,Voluntary,Higher studies
+E102870,2025-06-03,Voluntary,Higher studies
+E102918,2025-06-03,Voluntary,Personal
+E102064,2025-06-04,Voluntary,Career growth
+E102226,2025-06-06,Voluntary,Higher studies
+E101741,2025-06-07,Involuntary,Performance
+E101697,2025-06-07,Voluntary,Relocation or commute
+E101330,2025-06-08,Voluntary,Higher studies
+E102328,2025-06-09,Involuntary,Performance
+E100867,2025-06-09,Voluntary,Better pay
+E102123,2025-06-12,Voluntary,Higher studies
+E102941,2025-06-12,Voluntary,Higher studies
+E103435,2025-06-13,Voluntary,Better pay
+E102626,2025-06-13,Voluntary,Relocation or commute
+E103463,2025-06-14,Voluntary,Career growth
+E102286,2025-06-15,Voluntary,Higher studies
+E103371,2025-06-16,Voluntary,Relocation or commute
+E102741,2025-06-17,Voluntary,Career growth
+E102419,2025-06-18,Voluntary,Higher studies
+E103109,2025-06-19,Voluntary,Personal
+E102280,2025-06-19,Voluntary,Better pay
+E102246,2025-06-21,Voluntary,Personal
+E102772,2025-06-21,Voluntary,Career growth
+E103199,2025-06-23,Voluntary,Relocation or commute
+E103285,2025-06-26,Involuntary,Performance
+E102375,2025-06-26,Involuntary,Performance
+E103353,2025-06-27,Voluntary,Higher studies
+E100263,2025-06-27,Voluntary,Personal
+E102405,2025-07-01,Voluntary,Career growth
+E102662,2025-07-01,Voluntary,Relocation or commute
+E101785,2025-07-02,Involuntary,Performance
+E102617,2025-07-03,Voluntary,Relocation or commute
+E100020,2025-07-04,Voluntary,Relocation or commute
+E102285,2025-07-07,Voluntary,Personal
+E103059,2025-07-07,Involuntary,Performance
+E102371,2025-07-09,Voluntary,Higher studies
+E102655,2025-07-09,Voluntary,Personal
+E100688,2025-07-09,Voluntary,Higher studies
+E101172,2025-07-09,Involuntary,Performance
+E103511,2025-07-09,Voluntary,Higher studies
+E101803,2025-07-10,Voluntary,Career growth
+E103145,2025-07-10,Involuntary,Performance
+E102773,2025-07-11,Voluntary,Better pay
+E103293,2025-07-11,Voluntary,Higher studies
+E101215,2025-07-11,Involuntary,Performance
+E102911,2025-07-12,Voluntary,Career growth
+E103239,2025-07-12,Voluntary,Better pay
+E102472,2025-07-13,Voluntary,Higher studies
+E101023,2025-07-14,Voluntary,Career growth
+E100041,2025-07-15,Voluntary,Career growth
+E103201,2025-07-16,Voluntary,Relocation or commute
+E103148,2025-07-16,Voluntary,Personal
+E100610,2025-07-16,Voluntary,Better pay
+E102322,2025-07-16,Voluntary,Higher studies
+E103245,2025-07-17,Involuntary,Performance
+E103290,2025-07-17,Voluntary,Career growth
+E102532,2025-07-17,Involuntary,Performance
+E103524,2025-07-18,Voluntary,Better pay
+E102912,2025-07-18,Voluntary,Career growth
+E101129,2025-07-18,Involuntary,Performance
+E101767,2025-07-19,Voluntary,Better pay
+E102464,2025-07-19,Voluntary,Career growth
+E103172,2025-07-19,Voluntary,Better pay
+E100209,2025-07-19,Voluntary,Career growth
+E102667,2025-07-20,Voluntary,Higher studies
+E101073,2025-07-21,Voluntary,Better pay
+E102414,2025-07-23,Voluntary,Better pay
+E102847,2025-07-24,Voluntary,Better pay
+E102974,2025-07-24,Voluntary,Better pay
+E102485,2025-07-25,Voluntary,Higher studies
+E102337,2025-07-27,Voluntary,Better pay
+E102644,2025-07-27,Voluntary,Higher studies
+E100129,2025-08-03,Involuntary,Performance
+E102694,2025-08-04,Involuntary,Performance
+E100195,2025-08-04,Voluntary,Personal
+E102137,2025-08-04,Voluntary,Career growth
+E100289,2025-08-04,Involuntary,Performance
+E102269,2025-08-05,Voluntary,Better pay
+E102961,2025-08-06,Voluntary,Relocation or commute
+E103474,2025-08-09,Voluntary,Relocation or commute
+E101219,2025-08-10,Voluntary,Relocation or commute
+E101037,2025-08-12,Involuntary,Performance
+E102027,2025-08-12,Voluntary,Career growth
+E100356,2025-08-13,Involuntary,Performance
+E102710,2025-08-13,Voluntary,Career growth
+E103151,2025-08-14,Voluntary,Higher studies
+E103129,2025-08-14,Involuntary,Performance
+E103661,2025-08-15,Voluntary,Better pay
+E102235,2025-08-17,Voluntary,Career growth
+E102180,2025-08-18,Involuntary,Performance
+E100558,2025-08-20,Voluntary,Personal
+E103265,2025-08-20,Voluntary,Better pay
+E100217,2025-08-21,Involuntary,Performance
+E100117,2025-08-21,Voluntary,Relocation or commute
+E102608,2025-08-24,Voluntary,Career growth
+E102170,2025-08-25,Voluntary,Career growth
+E100380,2025-08-26,Voluntary,Better pay
+E103633,2025-08-26,Voluntary,Relocation or commute
+E102968,2025-08-27,Involuntary,Performance
+E103100,2025-08-27,Voluntary,Better pay
+E100296,2025-09-01,Voluntary,Career growth
+E102276,2025-09-02,Voluntary,Relocation or commute
+E102719,2025-09-02,Voluntary,Higher studies
+E102752,2025-09-02,Voluntary,Better pay
+E103414,2025-09-07,Voluntary,Relocation or commute
+E101244,2025-09-07,Involuntary,Performance
+E103338,2025-09-07,Voluntary,Higher studies
+E102843,2025-09-07,Voluntary,Higher studies
+E101792,2025-09-09,Voluntary,Better pay
+E101684,2025-09-10,Voluntary,Higher studies
+E103443,2025-09-11,Voluntary,Better pay
+E102230,2025-09-11,Involuntary,Performance
+E102802,2025-09-14,Voluntary,Higher studies
+E103244,2025-09-15,Voluntary,Career growth
+E103562,2025-09-15,Voluntary,Better pay
+E100272,2025-09-16,Voluntary,Better pay
+E103242,2025-09-17,Voluntary,Career growth
+E103381,2025-09-17,Voluntary,Personal
+E103095,2025-09-18,Voluntary,Career growth
+E102060,2025-09-19,Voluntary,Personal
+E103310,2025-09-20,Involuntary,Performance
+E103012,2025-09-20,Voluntary,Better pay
+E103920,2025-09-21,Voluntary,Better pay
+E103056,2025-09-21,Voluntary,Better pay
+E101805,2025-09-21,Voluntary,Better pay
+E103108,2025-09-24,Voluntary,Better pay
+E101211,2025-09-26,Voluntary,Better pay
+E103935,2025-10-01,Involuntary,Performance
+E101529,2025-10-01,Voluntary,Better pay
+E100072,2025-10-02,Voluntary,Better pay
+E101212,2025-10-02,Voluntary,Relocation or commute
+E100416,2025-10-02,Voluntary,Career growth
+E101726,2025-10-04,Involuntary,Performance
+E101261,2025-10-04,Voluntary,Relocation or commute
+E101049,2025-10-05,Voluntary,Higher studies
+E101430,2025-10-06,Voluntary,Better pay
+E101848,2025-10-07,Voluntary,Better pay
+E102591,2025-10-08,Involuntary,Performance
+E102627,2025-10-08,Voluntary,Better pay
+E102619,2025-10-09,Voluntary,Relocation or commute
+E100254,2025-10-09,Voluntary,Better pay
+E102927,2025-10-10,Voluntary,Higher studies
+E102740,2025-10-10,Involuntary,Performance
+E100412,2025-10-11,Involuntary,Performance
+E103205,2025-10-13,Voluntary,Relocation or commute
+E102570,2025-10-14,Voluntary,Better pay
+E103140,2025-10-15,Involuntary,Performance
+E100334,2025-10-15,Involuntary,Performance
+E103469,2025-10-15,Voluntary,Career growth
+E102220,2025-10-16,Involuntary,Performance
+E103127,2025-10-16,Voluntary,Higher studies
+E102500,2025-10-17,Voluntary,Higher studies
+E100112,2025-10-18,Voluntary,Career growth
+E102272,2025-10-19,Voluntary,Relocation or commute
+E101065,2025-10-19,Voluntary,Career growth
+E101514,2025-10-20,Voluntary,Relocation or commute
+E102738,2025-10-21,Voluntary,Higher studies
+E102557,2025-10-22,Involuntary,Performance
+E102820,2025-10-22,Involuntary,Performance
+E102972,2025-10-22,Voluntary,Better pay
+E100631,2025-10-22,Voluntary,Career growth
+E103156,2025-10-22,Voluntary,Relocation or commute
+E103306,2025-10-23,Involuntary,Performance
+E100308,2025-10-24,Voluntary,Personal
+E103255,2025-10-24,Involuntary,Performance
+E103576,2025-10-25,Voluntary,Personal
+E102865,2025-10-25,Voluntary,Better pay
+E100527,2025-10-26,Voluntary,Better pay
+E100219,2025-10-27,Involuntary,Performance
+E102538,2025-10-27,Voluntary,Personal
+E102919,2025-10-27,Voluntary,Career growth
+E101777,2025-10-27,Involuntary,Performance
+E101986,2025-10-27,Involuntary,Performance
+E100957,2025-11-01,Voluntary,Career growth
+E103726,2025-11-02,Voluntary,Career growth
+E103268,2025-11-02,Voluntary,Better pay
+E103899,2025-11-03,Voluntary,Better pay
+E103784,2025-11-03,Voluntary,Higher studies
+E101932,2025-11-05,Voluntary,Better pay
+E101704,2025-11-06,Voluntary,Relocation or commute
+E101905,2025-11-07,Voluntary,Better pay
+E101583,2025-11-09,Voluntary,Higher studies
+E100169,2025-11-09,Voluntary,Career growth
+E103238,2025-11-10,Voluntary,Better pay
+E102775,2025-11-10,Voluntary,Better pay
+E100387,2025-11-11,Voluntary,Better pay
+E103090,2025-11-12,Involuntary,Performance
+E103174,2025-11-13,Involuntary,Performance
+E103687,2025-11-13,Voluntary,Higher studies
+E102398,2025-11-13,Voluntary,Better pay
+E101004,2025-11-14,Involuntary,Performance
+E101500,2025-11-14,Voluntary,Better pay
+E100787,2025-11-15,Voluntary,Relocation or commute
+E102331,2025-11-16,Voluntary,Better pay
+E103523,2025-11-17,Voluntary,Higher studies
+E101990,2025-11-17,Voluntary,Higher studies
+E100689,2025-11-18,Voluntary,Relocation or commute
+E101263,2025-11-19,Voluntary,Personal
+E103222,2025-11-20,Voluntary,Higher studies
+E102177,2025-11-22,Voluntary,Personal
+E103200,2025-11-23,Voluntary,Better pay
+E103565,2025-11-23,Voluntary,Higher studies
+E103251,2025-11-24,Voluntary,Career growth
+E102420,2025-11-24,Voluntary,Relocation or commute
+E102782,2025-11-27,Voluntary,Better pay
+E100989,2025-11-27,Voluntary,Career growth
+E103067,2025-12-02,Voluntary,Better pay
+E100595,2025-12-04,Voluntary,Career growth
+E101397,2025-12-05,Voluntary,Relocation or commute
+E102051,2025-12-05,Voluntary,Better pay
+E102940,2025-12-06,Voluntary,Better pay
+E100318,2025-12-06,Involuntary,Performance
+E102863,2025-12-07,Involuntary,Performance
+E102750,2025-12-07,Voluntary,Relocation or commute
+E103128,2025-12-08,Involuntary,Performance
+E103352,2025-12-08,Voluntary,Career growth
+E101291,2025-12-08,Involuntary,Performance
+E101135,2025-12-09,Voluntary,Relocation or commute
+E103249,2025-12-09,Voluntary,Better pay
+E102474,2025-12-12,Voluntary,Better pay
+E102530,2025-12-13,Voluntary,Better pay
+E102153,2025-12-14,Voluntary,Better pay
+E100059,2025-12-15,Voluntary,Higher studies
+E102753,2025-12-16,Voluntary,Better pay
+E100794,2025-12-16,Voluntary,Personal
+E102341,2025-12-17,Voluntary,Better pay
+E103303,2025-12-17,Voluntary,Personal
+E100572,2025-12-21,Voluntary,Career growth
+E101508,2025-12-22,Voluntary,Career growth
+E100813,2025-12-22,Voluntary,Higher studies
+E101961,2025-12-24,Voluntary,Better pay
+E103072,2025-12-24,Voluntary,Better pay
+E103010,2025-12-25,Voluntary,Relocation or commute
+E102691,2025-12-25,Voluntary,Personal
+E102733,2025-12-27,Voluntary,Better pay
+E103936,2025-12-27,Voluntary,Higher studies
+E103913,2026-01-01,Voluntary,Higher studies
+E101714,2026-01-02,Voluntary,Career growth
+E101812,2026-01-04,Voluntary,Relocation or commute
+E102817,2026-01-05,Voluntary,Relocation or commute
+E102236,2026-01-06,Voluntary,Better pay
+E102965,2026-01-08,Voluntary,Career growth
+E101708,2026-01-08,Voluntary,Relocation or commute
+E103955,2026-01-10,Voluntary,Relocation or commute
+E103175,2026-01-10,Voluntary,Higher studies
+E103294,2026-01-11,Voluntary,Career growth
+E103389,2026-01-11,Voluntary,Higher studies
+E102995,2026-01-11,Voluntary,Higher studies
+E103589,2026-01-12,Voluntary,Personal
+E102366,2026-01-12,Voluntary,Higher studies
+E102698,2026-01-12,Involuntary,Performance
+E102215,2026-01-13,Involuntary,Performance
+E101552,2026-01-13,Involuntary,Performance
+E103433,2026-01-14,Involuntary,Performance
+E102701,2026-01-15,Involuntary,Performance
+E102818,2026-01-16,Voluntary,Career growth
+E103675,2026-01-16,Voluntary,Better pay
+E101433,2026-01-16,Involuntary,Performance
+E100659,2026-01-17,Involuntary,Performance
+E103731,2026-01-18,Voluntary,Higher studies
+E102631,2026-01-19,Voluntary,Relocation or commute
+E102807,2026-01-20,Voluntary,Better pay
+E102633,2026-01-21,Voluntary,Relocation or commute
+E101610,2026-01-21,Voluntary,Personal
+E103544,2026-01-23,Voluntary,Higher studies
+E103317,2026-01-23,Voluntary,Personal
+E101695,2026-01-23,Voluntary,Personal
+E101618,2026-01-23,Voluntary,Better pay
+E102980,2026-01-24,Voluntary,Relocation or commute
+E102284,2026-01-24,Voluntary,Better pay
+E101676,2026-01-26,Voluntary,Better pay
+E102111,2026-01-26,Voluntary,Career growth
+E102767,2026-02-02,Voluntary,Better pay
+E103394,2026-02-02,Voluntary,Higher studies
+E103606,2026-02-03,Voluntary,Better pay
+E104050,2026-02-03,Voluntary,Better pay
+E102909,2026-02-04,Involuntary,Performance
+E101231,2026-02-04,Voluntary,Career growth
+E102834,2026-02-06,Voluntary,Better pay
+E103081,2026-02-06,Voluntary,Career growth
+E103471,2026-02-08,Voluntary,Better pay
+E101557,2026-02-09,Voluntary,Personal
+E101800,2026-02-09,Voluntary,Personal
+E103284,2026-02-11,Voluntary,Higher studies
+E100087,2026-02-11,Voluntary,Career growth
+E102487,2026-02-12,Voluntary,Relocation or commute
+E102227,2026-02-12,Voluntary,Better pay
+E103061,2026-02-12,Voluntary,Better pay
+E103573,2026-02-12,Voluntary,Better pay
+E103318,2026-02-13,Voluntary,Higher studies
+E101575,2026-02-13,Voluntary,Better pay
+E102615,2026-02-14,Voluntary,Career growth
+E101999,2026-02-14,Voluntary,Career growth
+E102642,2026-02-14,Voluntary,Better pay
+E103861,2026-02-15,Voluntary,Better pay
+E104148,2026-02-16,Voluntary,Higher studies
+E101528,2026-02-17,Voluntary,Better pay
+E103719,2026-02-17,Voluntary,Better pay
+E102321,2026-02-17,Voluntary,Better pay
+E102982,2026-02-17,Voluntary,Career growth
+E100804,2026-02-18,Voluntary,Higher studies
+E103597,2026-02-18,Voluntary,Better pay
+E102851,2026-02-21,Involuntary,Performance
+E103865,2026-02-21,Voluntary,Higher studies
+E100293,2026-02-21,Voluntary,Career growth
+E103313,2026-02-22,Voluntary,Career growth
+E103382,2026-02-22,Voluntary,Higher studies
+E102888,2026-02-22,Voluntary,Better pay
+E102956,2026-02-23,Voluntary,Better pay
+E102614,2026-02-24,Voluntary,Better pay
+E100475,2026-02-24,Voluntary,Relocation or commute
+E100311,2026-02-25,Voluntary,Personal
+E103684,2026-02-25,Involuntary,Performance
+E102536,2026-02-25,Voluntary,Better pay
+E103030,2026-02-25,Voluntary,Personal
+E102620,2026-02-26,Voluntary,Better pay
+E103802,2026-03-01,Voluntary,Personal
+E101196,2026-03-03,Voluntary,Higher studies
+E102695,2026-03-03,Involuntary,Performance
+E103406,2026-03-03,Voluntary,Higher studies
+E102915,2026-03-03,Voluntary,Better pay
+E102904,2026-03-04,Voluntary,Personal
+E103741,2026-03-06,Voluntary,Relocation or commute
+E102349,2026-03-07,Voluntary,Better pay
+E100593,2026-03-08,Voluntary,Higher studies
+E101865,2026-03-11,Voluntary,Personal
+E103416,2026-03-11,Voluntary,Personal
+E102073,2026-03-12,Voluntary,Better pay
+E102397,2026-03-14,Voluntary,Career growth
+E102848,2026-03-14,Voluntary,Relocation or commute
+E100567,2026-03-15,Involuntary,Performance
+E103542,2026-03-19,Voluntary,Better pay
+E102715,2026-03-19,Voluntary,Higher studies
+E100025,2026-03-19,Voluntary,Higher studies
+E103651,2026-03-21,Voluntary,Better pay
+E103376,2026-03-23,Voluntary,Higher studies
+E102083,2026-03-23,Involuntary,Performance
+E102705,2026-03-24,Voluntary,Career growth
+E102311,2026-03-24,Voluntary,Relocation or commute
+E100033,2026-03-24,Voluntary,Personal
+E102964,2026-03-25,Voluntary,Career growth
+E103094,2026-03-26,Voluntary,Career growth
